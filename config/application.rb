@@ -52,6 +52,7 @@ module Mastodon
       :de,
       :el,
       :en,
+      :'en-ALT',
       :eo,
       :'es-AR',
       :es,
