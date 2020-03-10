@@ -40,19 +40,7 @@
   "account.unfollow": "取消关注",
   "account.unmute": "不再隐藏 @{name}",
   "account.unmute_notifications": "不再隐藏来自 @{name} 的通知",
-<<<<<<< HEAD
-  "account.view_full_profile": "View full profile",
-  "advanced_options.icon_title": "Advanced options",
-  "advanced_options.local-only.long": "Do not post to other instances",
-  "advanced_options.local-only.short": "Local-only",
-  "advanced_options.local-only.tooltip": "This post is local-only",
-  "advanced_options.threaded_mode.long": "Automatically opens a reply on posting",
-  "advanced_options.threaded_mode.short": "Threaded mode",
-  "advanced_options.threaded_mode.tooltip": "Threaded mode enabled",
-  "alert.rate_limited.message": "请在 {retry_time, time, medium} 后重试。",
-=======
   "alert.rate_limited.message": "请在{retry_time, time, medium}后重试。",
->>>>>>> upstream/master
   "alert.rate_limited.title": "频率受限",
   "alert.unexpected.message": "发生了意外错误。",
   "alert.unexpected.title": "哎呀！",
@@ -67,11 +55,7 @@
   "bundle_modal_error.message": "载入这个组件时发生了错误。",
   "bundle_modal_error.retry": "重试",
   "column.blocks": "已屏蔽的用户",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "书签",
->>>>>>> upstream/master
   "column.community": "本站时间轴",
   "column.direct": "私信",
   "column.directory": "浏览用户资料",
@@ -118,12 +102,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "选项 {number}",
   "compose_form.poll.remove_option": "移除这个选项",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "将投票改为多选",
   "compose_form.poll.switch_to_single": "将投票改为单选",
->>>>>>> upstream/master
   "compose_form.publish": "嘟嘟",
   "compose_form.publish_loud": "{publish}！",
   "compose_form.sensitive.hide": "标记媒体为敏感内容",
@@ -193,11 +173,7 @@
   "empty_column.account_timeline": "这里没有嘟文！",
   "empty_column.account_unavailable": "个人资料不可用",
   "empty_column.blocks": "你目前没有屏蔽任何用户。",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "你还没有给任何嘟文添加过书签。在你添加书签后，嘟文就会显示在这里。",
->>>>>>> upstream/master
   "empty_column.community": "本站时间轴暂时没有内容，快写点什么让它动起来吧！",
   "empty_column.direct": "你还没有使用过私信。当你发出或者收到私信时，它会在这里显示。",
   "empty_column.domain_blocks": "目前没有被隐藏的站点。",
@@ -244,12 +220,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "显示转嘟",
   "home.column_settings.show_replies": "显示回复",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "隐藏公告",
   "home.show_announcements": "显示公告",
->>>>>>> upstream/master
   "intervals.full.days": "{number} 天",
   "intervals.full.hours": "{number} 小时",
   "intervals.full.minutes": "{number} 分钟",
@@ -292,11 +264,7 @@
   "keyboard_shortcuts.muted": "打开隐藏用户列表",
   "keyboard_shortcuts.my_profile": "打开你的个人资料",
   "keyboard_shortcuts.notifications": "打开通知栏",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "打开媒体",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "打开置顶嘟文列表",
   "keyboard_shortcuts.profile": "打开作者的个人资料",
   "keyboard_shortcuts.reply": "回复嘟文",
@@ -343,11 +311,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "移动应用",
   "navigation_bar.blocks": "已屏蔽的用户",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "书签",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "本站时间轴",
   "navigation_bar.compose": "撰写新嘟文",
   "navigation_bar.direct": "私信",
@@ -372,15 +336,9 @@
   "navigation_bar.security": "安全",
   "notification.favourite": "{name} 喜欢了你的嘟文",
   "notification.follow": "{name} 开始关注你",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} 提及了你",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} 向你发送了关注请求",
   "notification.mention": "{name} 提及了你",
   "notification.own_poll": "您的投票已经结束",
->>>>>>> upstream/master
   "notification.poll": "你参与的一个投票已经结束",
   "notification.reblog": "{name} 转嘟了你的嘟文",
   "notification_purge.btn_all": "Select\nall",
@@ -547,11 +505,7 @@
   "status.admin_account": "打开 @{name} 的管理界面",
   "status.admin_status": "打开这条嘟文的管理界面",
   "status.block": "屏蔽 @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "添加到书签",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "取消转嘟",
   "status.cannot_reblog": "这条嘟文不允许被转嘟",
   "status.collapse": "Collapse",
@@ -585,11 +539,7 @@
   "status.reblogged_by": "{name} 转嘟了",
   "status.reblogs.empty": "没有人转嘟过此条嘟文。如果有人转嘟了，就会显示在这里。",
   "status.redraft": "删除并重新编辑",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "移除书签",
->>>>>>> upstream/master
   "status.reply": "回复",
   "status.replyAll": "回复所有人",
   "status.report": "举报 @{name}",
@@ -602,12 +552,7 @@
   "status.show_more": "显示内容",
   "status.show_more_all": "显示所有内容",
   "status.show_thread": "显示全部对话",
-<<<<<<< HEAD
-  "status.uncached_media_warning": "不可用",
-  "status.uncollapse": "Uncollapse",
-=======
   "status.uncached_media_warning": "暂不可用",
->>>>>>> upstream/master
   "status.unmute_conversation": "不再隐藏此对话",
   "status.unpin": "在个人资料页面取消置顶",
   "suggestions.dismiss": "关闭建议",
@@ -629,19 +574,11 @@
   "upload_button.label": "上传媒体文件 ({formats})",
   "upload_error.limit": "文件大小超过限制。",
   "upload_error.poll": "投票中不允许上传文件。",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "为视觉障碍人士添加文字说明",
-  "upload_form.edit": "编辑",
-  "upload_form.undo": "删除",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "为听障人士添加文字描述",
   "upload_form.description": "为视觉障碍人士添加文字说明",
   "upload_form.edit": "编辑",
   "upload_form.undo": "删除",
   "upload_form.video_description": "为听障人士和视障人士添加文字描述",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "分析图片…",
   "upload_modal.apply": "应用",
   "upload_modal.description_placeholder": "天地玄黄 宇宙洪荒 日月盈仄 辰宿列张",
@@ -651,11 +588,7 @@
   "upload_modal.preview_label": "预览 ({ratio})",
   "upload_progress.label": "上传中……",
   "video.close": "关闭视频",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "下载文件",
->>>>>>> upstream/master
   "video.exit_fullscreen": "退出全屏",
   "video.expand": "展开视频",
   "video.fullscreen": "全屏",

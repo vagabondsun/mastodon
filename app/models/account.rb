@@ -46,6 +46,8 @@
 #  silenced_at             :datetime
 #  suspended_at            :datetime
 #  trust_level             :integer
+#  quirk                   :string
+#  regex                   :string
 #
 
 class Account < ApplicationRecord
