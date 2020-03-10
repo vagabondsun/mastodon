@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "C'è stato un errore mentre questo componente veniva caricato.",
   "bundle_modal_error.retry": "Riprova",
   "column.blocks": "Utenti bloccati",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Segnalibri",
->>>>>>> upstream/master
   "column.community": "Timeline locale",
   "column.direct": "Messaggi diretti",
   "column.directory": "Sfoglia profili",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Scelta {number}",
   "compose_form.poll.remove_option": "Rimuovi questa scelta",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Modifica sondaggio per consentire scelte multiple",
   "compose_form.poll.switch_to_single": "Modifica sondaggio per consentire una singola scelta",
->>>>>>> upstream/master
   "compose_form.publish": "Toot",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Segna media come sensibile",
@@ -189,11 +181,7 @@
   "empty_column.account_timeline": "Non ci sono toot qui!",
   "empty_column.account_unavailable": "Profilo non disponibile",
   "empty_column.blocks": "Non hai ancora bloccato nessun utente.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Non hai ancora nessun toot tra i segnalibri. Quando ne aggiungerai qualcuno, comparirà qui.",
->>>>>>> upstream/master
   "empty_column.community": "La timeline locale è vuota. Condividi qualcosa pubblicamente per dare inizio alla festa!",
   "empty_column.direct": "Non hai ancora nessun messaggio privato. Quando ne manderai o riceverai qualcuno, apparirà qui.",
   "empty_column.domain_blocks": "Non vi sono domini nascosti.",
@@ -240,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Mostra post condivisi",
   "home.column_settings.show_replies": "Mostra risposte",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Nascondi annunci",
   "home.show_announcements": "Mostra annunci",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# giorno} other {# giorni}}",
   "intervals.full.hours": "{number, plural, one {# ora} other {# ore}}",
   "intervals.full.minutes": "{number, plural, one {# minuto} other {# minuti}}",
@@ -288,11 +272,7 @@
   "keyboard_shortcuts.muted": "per aprire l'elenco degli utenti silenziati",
   "keyboard_shortcuts.my_profile": "per aprire il tuo profilo",
   "keyboard_shortcuts.notifications": "per aprire la colonna delle notifiche",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "per aprire media",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "per aprire l'elenco dei toot fissati in cima",
   "keyboard_shortcuts.profile": "per aprire il profilo dell'autore",
   "keyboard_shortcuts.reply": "per rispondere",
@@ -339,11 +319,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "App per dispositivi mobili",
   "navigation_bar.blocks": "Utenti bloccati",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Segnalibri",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Timeline locale",
   "navigation_bar.compose": "Componi nuovo toot",
   "navigation_bar.direct": "Messaggi diretti",
@@ -368,15 +344,9 @@
   "navigation_bar.security": "Sicurezza",
   "notification.favourite": "{name} ha apprezzato il tuo post",
   "notification.follow": "{name} ha iniziato a seguirti",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} ti ha menzionato",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} ha chiesto di seguirti",
   "notification.mention": "{name} ti ha menzionato",
   "notification.own_poll": "Il tuo sondaggio è terminato",
->>>>>>> upstream/master
   "notification.poll": "Un sondaggio in cui hai votato è terminato",
   "notification.reblog": "{name} ha condiviso il tuo post",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +513,7 @@
   "status.admin_account": "Apri interfaccia di moderazione per @{name}",
   "status.admin_status": "Apri questo status nell'interfaccia di moderazione",
   "status.block": "Blocca @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Aggiungi segnalibro",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Annulla condivisione",
   "status.cannot_reblog": "Questo post non può essere condiviso",
   "status.collapse": "Collapse",
@@ -581,11 +547,7 @@
   "status.reblogged_by": "{name} ha condiviso",
   "status.reblogs.empty": "Nessuno ha ancora condiviso questo toot. Quando qualcuno lo farà, comparirà qui.",
   "status.redraft": "Cancella e riscrivi",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Elimina segnalibro",
->>>>>>> upstream/master
   "status.reply": "Rispondi",
   "status.replyAll": "Rispondi alla conversazione",
   "status.report": "Segnala @{name}",
@@ -621,19 +583,11 @@
   "upload_button.label": "Aggiungi file multimediale",
   "upload_error.limit": "Limite al caricamento di file superato.",
   "upload_error.poll": "Caricamento file non consentito nei sondaggi.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Descrizione per utenti con disabilità visive",
-  "upload_form.edit": "Modifica",
-  "upload_form.undo": "Cancella",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Descrizione per persone con difetti uditivi",
   "upload_form.description": "Descrizione per utenti con disabilità visive",
   "upload_form.edit": "Modifica",
   "upload_form.undo": "Cancella",
   "upload_form.video_description": "Descrizione per persone con difetti uditivi o visivi",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analisi immagine…",
   "upload_modal.apply": "Applica",
   "upload_modal.description_placeholder": "Ma la volpe col suo balzo ha raggiunto il quieto Fido",
@@ -643,11 +597,7 @@
   "upload_modal.preview_label": "Anteprima ({ratio})",
   "upload_progress.label": "Sto caricando...",
   "video.close": "Chiudi video",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Scarica file",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Esci da modalità a schermo intero",
   "video.expand": "Espandi video",
   "video.fullscreen": "Schermo intero",

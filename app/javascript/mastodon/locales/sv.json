@@ -39,19 +39,7 @@
   "account.unendorse": "Visa inte på profil",
   "account.unfollow": "Sluta följ",
   "account.unmute": "Sluta tysta @{name}",
-<<<<<<< HEAD
-  "account.unmute_notifications": "Återaktivera notifieringar från @{name}",
-  "account.view_full_profile": "View full profile",
-  "advanced_options.icon_title": "Advanced options",
-  "advanced_options.local-only.long": "Do not post to other instances",
-  "advanced_options.local-only.short": "Local-only",
-  "advanced_options.local-only.tooltip": "This post is local-only",
-  "advanced_options.threaded_mode.long": "Automatically opens a reply on posting",
-  "advanced_options.threaded_mode.short": "Threaded mode",
-  "advanced_options.threaded_mode.tooltip": "Threaded mode enabled",
-=======
   "account.unmute_notifications": "Återaktivera aviseringar från @{name}",
->>>>>>> upstream/master
   "alert.rate_limited.message": "Vänligen försök igen efter {retry_time, time, medium}.",
   "alert.rate_limited.title": "Mängd begränsad",
   "alert.unexpected.message": "Ett oväntat fel uppstod.",
@@ -67,11 +55,7 @@
   "bundle_modal_error.message": "Något gick fel när denna komponent laddades.",
   "bundle_modal_error.retry": "Försök igen",
   "column.blocks": "Blockerade användare",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Bokmärken",
->>>>>>> upstream/master
   "column.community": "Lokal tidslinje",
   "column.direct": "Direktmeddelanden",
   "column.directory": "Bläddra bland profiler",
@@ -118,12 +102,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Val {number}",
   "compose_form.poll.remove_option": "Ta bort detta val",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Ändra enkät för att tillåta flera val",
   "compose_form.poll.switch_to_single": "Ändra enkät för att tillåta ett enda val",
->>>>>>> upstream/master
   "compose_form.publish": "Tut",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Markera media som känsligt",
@@ -193,11 +173,7 @@
   "empty_column.account_timeline": "Inga inlägg här!",
   "empty_column.account_unavailable": "Profilen ej tillgänglig",
   "empty_column.blocks": "Du har ännu ej blockerat några användare.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Du har inte bokmärkt några tutar än. När du gör ett bokmärke kommer det synas här.",
->>>>>>> upstream/master
   "empty_column.community": "Den lokala tidslinjen är tom. Skriv något offentligt för att sätta bollen i rullning!",
   "empty_column.direct": "Du har inga direktmeddelanden än. När du skickar eller tar emot ett kommer det att visas här.",
   "empty_column.domain_blocks": "Det finns ännu inga dolda domäner.",
@@ -244,12 +220,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Visa knuffar",
   "home.column_settings.show_replies": "Visa svar",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Hide announcements",
   "home.show_announcements": "Show announcements",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# dag} other {# dagar}}",
   "intervals.full.hours": "{number, plural, one {# timme} other {# timmar}}",
   "intervals.full.minutes": "{number, plural, one {# minut} other {# minuter}}",
@@ -334,19 +306,10 @@
   "media_gallery.toggle_visible": "Växla synlighet",
   "missing_indicator.label": "Hittades inte",
   "missing_indicator.sublabel": "Den här resursen kunde inte hittas",
-<<<<<<< HEAD
-  "moved_to_warning": "This account is marked as moved to {moved_to_link}, and may thus not accept new follows.",
-  "mute_modal.hide_notifications": "Dölj notifikationer från denna användare?",
-  "navigation_bar.app_settings": "App settings",
-  "navigation_bar.apps": "Mobilappar",
-  "navigation_bar.blocks": "Blockerade användare",
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "mute_modal.hide_notifications": "Dölj aviseringar från denna användare?",
   "navigation_bar.apps": "Mobilappar",
   "navigation_bar.blocks": "Blockerade användare",
   "navigation_bar.bookmarks": "Bokmärken",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Lokal tidslinje",
   "navigation_bar.compose": "Författa ny toot",
   "navigation_bar.direct": "Direktmeddelanden",
@@ -371,21 +334,6 @@
   "navigation_bar.security": "Säkerhet",
   "notification.favourite": "{name} favoriserade din status",
   "notification.follow": "{name} följer dig",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} nämnde dig",
-  "notification.own_poll": "Your poll has ended",
-  "notification.poll": "En omröstning du röstat i har avslutats",
-  "notification.reblog": "{name} knuffade din status",
-  "notification_purge.btn_all": "Select\nall",
-  "notification_purge.btn_apply": "Clear\nselected",
-  "notification_purge.btn_invert": "Invert\nselection",
-  "notification_purge.btn_none": "Select\nnone",
-  "notification_purge.start": "Enter notification cleaning mode",
-  "notifications.clear": "Rensa meddelanden",
-  "notifications.clear_confirmation": "Är du säker på att du vill radera alla dina meddelanden permanent?",
-  "notifications.column_settings.alert": "Skrivbordsmeddelanden",
-=======
   "notification.follow_request": "{name} har begärt att följa dig",
   "notification.mention": "{name} nämnde dig",
   "notification.own_poll": "Din röstning har avslutats",
@@ -394,7 +342,6 @@
   "notifications.clear": "Rensa aviseringar",
   "notifications.clear_confirmation": "Är du säker på att du vill rensa alla dina aviseringar permanent?",
   "notifications.column_settings.alert": "Skrivbordsaviseringar",
->>>>>>> upstream/master
   "notifications.column_settings.favourite": "Favoriter:",
   "notifications.column_settings.filter_bar.advanced": "Visa alla kategorier",
   "notifications.column_settings.filter_bar.category": "Snabbfilter",
@@ -403,12 +350,7 @@
   "notifications.column_settings.follow_request": "Ny följ-förfrågan:",
   "notifications.column_settings.mention": "Omnämningar:",
   "notifications.column_settings.poll": "Omröstningsresultat:",
-<<<<<<< HEAD
-  "notifications.column_settings.push": "Push meddelanden",
-  "notifications.column_settings.push_meta": "This device",
-=======
   "notifications.column_settings.push": "Push-aviseringar",
->>>>>>> upstream/master
   "notifications.column_settings.reblog": "Knuffar:",
   "notifications.column_settings.show": "Visa i kolumnen",
   "notifications.column_settings.sound": "Spela upp ljud",
@@ -555,11 +497,7 @@
   "status.admin_account": "Öppet modereringsgränssnitt för @{name}",
   "status.admin_status": "Öppna denna status i modereringsgränssnittet",
   "status.block": "Blockera @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Bokmärk",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Ta bort knuff",
   "status.cannot_reblog": "Detta inlägg kan inte knuffas",
   "status.collapse": "Collapse",
@@ -593,11 +531,7 @@
   "status.reblogged_by": "{name} knuffade",
   "status.reblogs.empty": "Ingen har favoriserat den här tutningen än. När någon gör det kommer den att synas här.",
   "status.redraft": "Radera & gör om",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Ta bort bokmärke",
->>>>>>> upstream/master
   "status.reply": "Svara",
   "status.replyAll": "Svara på tråden",
   "status.report": "Rapportera @{name}",
@@ -647,11 +581,7 @@
   "upload_modal.preview_label": "Förhandstitt ({ratio})",
   "upload_progress.label": "Laddar upp...",
   "video.close": "Stäng video",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Ladda ner fil",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Stäng helskärm",
   "video.expand": "Expandera video",
   "video.fullscreen": "Helskärm",

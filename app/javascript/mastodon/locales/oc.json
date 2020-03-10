@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "Quicòm a fach mèuca pendent lo cargament d’aqueste compausant.",
   "bundle_modal_error.retry": "Tornar ensajar",
   "column.blocks": "Personas blocadas",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Marcadors",
->>>>>>> upstream/master
   "column.community": "Flux public local",
   "column.direct": "Messatges dirèctes",
   "column.directory": "Percórrer los perfils",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Opcion {number}",
   "compose_form.poll.remove_option": "Levar aquesta opcion",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Cambiar lo sondatge per permetre de causidas multiplas",
   "compose_form.poll.switch_to_single": "Cambiar lo sondatge per permetre una sola causida",
->>>>>>> upstream/master
   "compose_form.publish": "Tut",
   "compose_form.publish_loud": "{publish} !",
   "compose_form.sensitive.hide": "Marcar coma sensible",
@@ -189,11 +181,7 @@
   "empty_column.account_timeline": "Cap de tuts aquí !",
   "empty_column.account_unavailable": "Perfil pas disponible",
   "empty_column.blocks": "Avètz pas blocat degun pel moment.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Avètz pas cap de tuts marcats pel moment. Quand ne marquetz un, serà mostrat aquí.",
->>>>>>> upstream/master
   "empty_column.community": "Lo flux public local es void. Escrivètz quicòm per lo garnir !",
   "empty_column.direct": "Avètz pas encara cap de messatges. Quand ne mandatz un o que ne recebètz un, serà mostrat aquí.",
   "empty_column.domain_blocks": "I a pas encara cap de domeni amagat.",
@@ -240,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Mostrar los partatges",
   "home.column_settings.show_replies": "Mostrar las responsas",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Rescondre las anóncias",
   "home.show_announcements": "Mostrar las anóncias",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# jorn} other {# jorns}}",
   "intervals.full.hours": "{number, plural, one {# ora} other {# oras}}",
   "intervals.full.minutes": "{number, plural, one {# minuta} other {# minutas}}",
@@ -288,11 +272,7 @@
   "keyboard_shortcuts.muted": "dobrir la lista dels utilizaires silenciats",
   "keyboard_shortcuts.my_profile": "dobrir vòstre perfil",
   "keyboard_shortcuts.notifications": "dobrir la colomna de notificacions",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "dobrir lo mèdia",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "dobrir la lista dels tuts penjats",
   "keyboard_shortcuts.profile": "dobrir lo perfil de l’autor",
   "keyboard_shortcuts.reply": "respondre",
@@ -339,11 +319,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Aplicacions mobil",
   "navigation_bar.blocks": "Personas blocadas",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Marcadors",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Flux public local",
   "navigation_bar.compose": "Escriure un nòu tut",
   "navigation_bar.direct": "Messatges dirèctes",
@@ -368,15 +344,9 @@
   "navigation_bar.security": "Seguretat",
   "notification.favourite": "{name} a ajustat a sos favorits",
   "notification.follow": "{name} vos sèc",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} vos a mencionat",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} a demandat a vos sègre",
   "notification.mention": "{name} vos a mencionat",
   "notification.own_poll": "Vòstre sondatge es acabat",
->>>>>>> upstream/master
   "notification.poll": "Avètz participat a un sondatge que ven de s’acabar",
   "notification.reblog": "{name} a partejat vòstre estatut",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +513,7 @@
   "status.admin_account": "Dobrir l’interfàcia de moderacion per @{name}",
   "status.admin_status": "Dobrir aqueste estatut dins l’interfàcia de moderacion",
   "status.block": "Blocar @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Marcador",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Quitar de partejar",
   "status.cannot_reblog": "Aqueste estatut pòt pas èsser partejat",
   "status.collapse": "Collapse",
@@ -581,11 +547,7 @@
   "status.reblogged_by": "{name} a partejat",
   "status.reblogs.empty": "Degun a pas encara partejat aqueste tut. Quand qualqu’un o farà, apareisserà aquí.",
   "status.redraft": "Escafar e tornar formular",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Suprimir lo marcador",
->>>>>>> upstream/master
   "status.reply": "Respondre",
   "status.replyAll": "Respondre a la conversacion",
   "status.report": "Senhalar @{name}",
@@ -621,19 +583,11 @@
   "upload_button.label": "Ajustar un mèdia (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Talha maximum pels mandadís subrepassada.",
   "upload_error.poll": "Lo mandadís de fichièr es pas autorizat pels sondatges.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Descripcion pels mal vesents",
-  "upload_form.edit": "Modificar",
-  "upload_form.undo": "Suprimir",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Descriure per las personas amb pèrdas auditivas",
   "upload_form.description": "Descripcion pels mal vesents",
   "upload_form.edit": "Modificar",
   "upload_form.undo": "Suprimir",
   "upload_form.video_description": "Descriure per las personas amb pèrdas auditivas o mal vesent",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analisi de l’imatge…",
   "upload_modal.apply": "Aplicar",
   "upload_modal.description_placeholder": "Lo dròlle bilingüe manja un yaourt de ròcs exagonals e kiwis verds farà un an mai",
@@ -643,11 +597,7 @@
   "upload_modal.preview_label": "Apercebut ({ratio})",
   "upload_progress.label": "Mandadís…",
   "video.close": "Tampar la vidèo",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Telecargar lo fichièr",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Sortir plen ecran",
   "video.expand": "Agrandir la vidèo",
   "video.fullscreen": "Ecran complèt",

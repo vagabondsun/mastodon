@@ -110,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "निवड {number}",
   "compose_form.poll.remove_option": "हा पर्याय काढा",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Change poll to allow multiple choices",
   "compose_form.poll.switch_to_single": "Change poll to allow for a single choice",
->>>>>>> upstream/master
   "compose_form.publish": "Toot",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Mark media as sensitive",
@@ -232,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Show boosts",
   "home.column_settings.show_replies": "Show replies",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Hide announcements",
   "home.show_announcements": "Show announcements",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# day} other {# days}}",
   "intervals.full.hours": "{number, plural, one {# hour} other {# hours}}",
   "intervals.full.minutes": "{number, plural, one {# minute} other {# minutes}}",
@@ -318,12 +310,7 @@
   "lists.subheading": "Your lists",
   "load_pending": "{count, plural, one {# new item} other {# new items}}",
   "loading_indicator.label": "Loading...",
-<<<<<<< HEAD
-  "media_gallery.sensitive": "Sensitive",
-  "media_gallery.toggle_visible": "Toggle visibility",
-=======
   "media_gallery.toggle_visible": "Hide media",
->>>>>>> upstream/master
   "missing_indicator.label": "Not found",
   "missing_indicator.sublabel": "This resource could not be found",
   "moved_to_warning": "This account is marked as moved to {moved_to_link}, and may thus not accept new follows.",
@@ -356,11 +343,7 @@
   "navigation_bar.security": "Security",
   "notification.favourite": "{name} favourited your status",
   "notification.follow": "{name} followed you",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-=======
   "notification.follow_request": "{name} has requested to follow you",
->>>>>>> upstream/master
   "notification.mention": "{name} mentioned you",
   "notification.own_poll": "Your poll has ended",
   "notification.poll": "A poll you have voted in has ended",

@@ -54,12 +54,7 @@
   "alert.unexpected.title": "Vaja!",
   "announcement.announcement": "Anunci",
   "autosuggest_hashtag.per_week": "{count} per setmana",
-<<<<<<< HEAD
-  "boost_modal.combo": "Pots premer {combo} per saltar-te això el proper cop",
-  "boost_modal.missing_description": "This toot contains some media without description",
-=======
   "boost_modal.combo": "Pots prémer {combo} per saltar-te això el proper cop",
->>>>>>> upstream/master
   "bundle_column_error.body": "S'ha produït un error en carregar aquest component.",
   "bundle_column_error.retry": "Torna-ho a provar",
   "bundle_column_error.title": "Error de connexió",
@@ -67,11 +62,7 @@
   "bundle_modal_error.message": "S'ha produït un error en carregar aquest component.",
   "bundle_modal_error.retry": "Torna-ho a provar",
   "column.blocks": "Usuaris bloquejats",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Marcadors",
->>>>>>> upstream/master
   "column.community": "Línia de temps local",
   "column.direct": "Missatges directes",
   "column.directory": "Navega els perfils",
@@ -101,17 +92,7 @@
   "column_subheading.navigation": "Navigation",
   "column_subheading.settings": "Configuració",
   "community.column_settings.media_only": "Només multimèdia",
-<<<<<<< HEAD
-  "compose.attach": "Attach...",
-  "compose.attach.doodle": "Draw something",
-  "compose.attach.upload": "Upload a file",
-  "compose.content-type.html": "HTML",
-  "compose.content-type.markdown": "Markdown",
-  "compose.content-type.plain": "Plain text",
-  "compose_form.direct_message_warning": "Aquest toot només serà enviat als usuaris esmentats.",
-=======
   "compose_form.direct_message_warning": "Aquest tut només serà enviat als usuaris esmentats.",
->>>>>>> upstream/master
   "compose_form.direct_message_warning_learn_more": "Aprèn més",
   "compose_form.hashtag_warning": "Aquesta tut no es mostrarà en cap etiqueta ja que no està llistat. Només els tuts públics poden ser cercats per etiqueta.",
   "compose_form.lock_disclaimer": "El teu compte no està bloquejat {locked}. Tothom pot seguir-te i veure els teus missatges a seguidors.",
@@ -122,14 +103,9 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Opció {number}",
   "compose_form.poll.remove_option": "Elimina aquesta opció",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-  "compose_form.publish": "Toot",
-=======
   "compose_form.poll.switch_to_multiple": "Canvia l’enquesta per a permetre diverses opcions",
   "compose_form.poll.switch_to_single": "Canvia l’enquesta per a permetre una única opció",
   "compose_form.publish": "Tut",
->>>>>>> upstream/master
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Marcar mèdia com a sensible",
   "compose_form.sensitive.marked": "Mèdia marcat com a sensible",
@@ -198,11 +174,7 @@
   "empty_column.account_timeline": "No hi ha tuts aquí!",
   "empty_column.account_unavailable": "Perfil no disponible",
   "empty_column.blocks": "Encara no has bloquejat cap usuari.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Encara no tens marcat cap tut. Quan marquis un apareixerà aquí.",
->>>>>>> upstream/master
   "empty_column.community": "La línia de temps local és buida. Escriu alguna cosa públicament per a fer rodar la pilota!",
   "empty_column.direct": "Encara no tens missatges directes. Quan enviïs o rebis un, es mostrarà aquí.",
   "empty_column.domain_blocks": "Encara no hi ha dominis ocults.",
@@ -217,14 +189,8 @@
   "empty_column.mutes": "Encara no has silenciat cap usuari.",
   "empty_column.notifications": "Encara no tens notificacions. Interactua amb altres per iniciar la conversa.",
   "empty_column.public": "No hi ha res aquí! Escriu públicament alguna cosa o manualment segueix usuaris d'altres servidors per omplir-ho",
-<<<<<<< HEAD
-  "endorsed_accounts_editor.endorsed_accounts": "Featured accounts",
-  "error.unexpected_crash.explanation": "A causa d'un bug en el nostre codi o un problema de compatibilitat del navegador, aquesta pàgina no podria ser mostrada correctament.",
-  "error.unexpected_crash.next_steps": "Prova recarregant la pàgina. Si això no ajuda encara pots ser capaç d'utilitzar Mastodont a través d'un navegador diferent o app nativa.",
-=======
   "error.unexpected_crash.explanation": "A causa d'un bug en el nostre codi o un problema de compatibilitat del navegador, aquesta pàgina podria no ser mostrada correctament.",
   "error.unexpected_crash.next_steps": "Prova recarregant la pàgina. Si això no ajuda, encara podries ser capaç d'utilitzar Mastodon a través d'un navegador diferent o amb una app nativa.",
->>>>>>> upstream/master
   "errors.unexpected_crash.copy_stacktrace": "Còpia stacktrace al porta-retalls",
   "errors.unexpected_crash.report_issue": "Informa d'un problema",
   "favourite_modal.combo": "You can press {combo} to skip this next time",
@@ -235,12 +201,7 @@
   "getting_started.documentation": "Documentació",
   "getting_started.heading": "Començant",
   "getting_started.invite": "Convida gent",
-<<<<<<< HEAD
-  "getting_started.onboarding": "Show me around",
-  "getting_started.open_source_notice": "Mastodon és un programari de codi obert. Pots contribuir o informar de problemes a GitHub a {github}.",
-=======
   "getting_started.open_source_notice": "Mastodon és un programari de codi obert. Pots contribuir-hi o informar de problemes a GitHub a {github}.",
->>>>>>> upstream/master
   "getting_started.security": "Seguretat",
   "getting_started.terms": "Termes del servei",
   "hashtag.column_header.tag_mode.all": "i {additional}",
@@ -254,18 +215,10 @@
   "hashtag.column_settings.tag_toggle": "Inclou etiquetes addicionals per a aquesta columna",
   "home.column_settings.advanced": "Advanced",
   "home.column_settings.basic": "Bàsic",
-<<<<<<< HEAD
-  "home.column_settings.filter_regex": "Filter out by regular expressions",
-  "home.column_settings.show_direct": "Show DMs",
-  "home.column_settings.show_reblogs": "Mostrar impulsos",
-  "home.column_settings.show_replies": "Mostrar respostes",
-  "home.settings": "Column settings",
-=======
   "home.column_settings.show_reblogs": "Mostra els impulsos",
   "home.column_settings.show_replies": "Mostra les respostes",
   "home.hide_announcements": "Amaga els anuncis",
   "home.show_announcements": "Mostra els anuncis",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# dia} other {# dies}}",
   "intervals.full.hours": "{number, plural, one {# hora} other {# hores}}",
   "intervals.full.minutes": "{number, plural, one {# minut} other {# minuts}}",
@@ -308,30 +261,17 @@
   "keyboard_shortcuts.muted": "per a obrir la llista d'usuaris silenciats",
   "keyboard_shortcuts.my_profile": "per a obrir el teu perfil",
   "keyboard_shortcuts.notifications": "per a obrir la columna de notificacions",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-  "keyboard_shortcuts.pinned": "per a obrir la llista de toots fixats",
-=======
   "keyboard_shortcuts.open_media": "obrir mèdia",
   "keyboard_shortcuts.pinned": "per a obrir la llista de tuts fixats",
->>>>>>> upstream/master
   "keyboard_shortcuts.profile": "per a obrir el perfil de l'autor",
   "keyboard_shortcuts.reply": "respondre",
   "keyboard_shortcuts.requests": "per a obrir la llista de sol·licituds de seguiment",
   "keyboard_shortcuts.search": "per a centrar la cerca",
   "keyboard_shortcuts.start": "per a obrir la columna \"Començar\"",
-<<<<<<< HEAD
-  "keyboard_shortcuts.toggle_collapse": "to collapse/uncollapse toots",
-  "keyboard_shortcuts.toggle_hidden": "per a mostrar/amagar text sota CW",
-  "keyboard_shortcuts.toggle_sensitivity": "per a mostrar/amagar mèdia",
-  "keyboard_shortcuts.toot": "per a començar un toot nou de trinca",
-  "keyboard_shortcuts.unfocus": "descentrar l'area de composició de text/cerca",
-=======
   "keyboard_shortcuts.toggle_hidden": "per a mostrar o amagar text sota CW",
   "keyboard_shortcuts.toggle_sensitivity": "per a mostrar o amagar contingut multimèdia",
   "keyboard_shortcuts.toot": "per a començar un tut nou de trinca",
   "keyboard_shortcuts.unfocus": "descentrar l'àrea de composició de text/cerca",
->>>>>>> upstream/master
   "keyboard_shortcuts.up": "moure amunt en la llista",
   "layout.auto": "Auto",
   "layout.desktop": "Desktop",
@@ -367,23 +307,14 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Apps mòbils",
   "navigation_bar.blocks": "Usuaris bloquejats",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Marcadors",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Línia de temps Local",
   "navigation_bar.compose": "Redacta un nou tut",
   "navigation_bar.direct": "Missatges directes",
   "navigation_bar.discover": "Descobreix",
   "navigation_bar.domain_blocks": "Dominis ocults",
   "navigation_bar.edit_profile": "Editar perfil",
-<<<<<<< HEAD
-  "navigation_bar.favourites": "Favorits",
-  "navigation_bar.featured_users": "Featured users",
-=======
   "navigation_bar.favourites": "Preferits",
->>>>>>> upstream/master
   "navigation_bar.filters": "Paraules silenciades",
   "navigation_bar.follow_requests": "Sol·licituds de seguiment",
   "navigation_bar.follows_and_followers": "Seguits i seguidors",
@@ -400,15 +331,9 @@
   "navigation_bar.security": "Seguretat",
   "notification.favourite": "{name} ha afavorit el teu estat",
   "notification.follow": "{name} et segueix",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} t'ha esmentat",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} ha sol·licitat seguir-te",
   "notification.mention": "{name} t'ha esmentat",
   "notification.own_poll": "La teva enquesta ha finalitzat",
->>>>>>> upstream/master
   "notification.poll": "Ha finalitzat una enquesta en la que has votat",
   "notification.reblog": "{name} ha impulsat el teu estat",
   "notification_purge.btn_all": "Select\nall",
@@ -575,18 +500,10 @@
   "status.admin_account": "Obre l'interfície de moderació per a @{name}",
   "status.admin_status": "Obre aquest tut a la interfície de moderació",
   "status.block": "Bloqueja @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-  "status.cancel_reblog_private": "Desfer l'impuls",
-  "status.cannot_reblog": "Aquesta publicació no pot ser impulsada",
-  "status.collapse": "Collapse",
-  "status.copy": "Copia l'enllaç al toot",
-=======
   "status.bookmark": "Marcador",
   "status.cancel_reblog_private": "Desfer l'impuls",
   "status.cannot_reblog": "Aquesta publicació no pot ser impulsada",
   "status.copy": "Copia l'enllaç al tut",
->>>>>>> upstream/master
   "status.delete": "Esborrar",
   "status.detailed_status": "Visualització detallada de la conversa",
   "status.direct": "Missatge directe @{name}",
@@ -616,11 +533,7 @@
   "status.reblogged_by": "{name} ha impulsat",
   "status.reblogs.empty": "Encara ningú no ha impulsat aquest tut. Quan algú ho faci, apareixeran aquí.",
   "status.redraft": "Esborrar i reescriure",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Suprimeix el marcador",
->>>>>>> upstream/master
   "status.reply": "Respondre",
   "status.replyAll": "Respondre al tema",
   "status.report": "Informar sobre @{name}",
@@ -656,19 +569,11 @@
   "upload_button.label": "Afegir multimèdia (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "S'ha superat el límit de càrrega d'arxius.",
   "upload_error.poll": "No es permet l'enviament de fitxers en les enquestes.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Descriure els problemes visuals",
-  "upload_form.edit": "Edita",
-  "upload_form.undo": "Esborra",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Descriviu per a les persones amb pèrdua auditiva",
   "upload_form.description": "Descriure els problemes visuals",
   "upload_form.edit": "Edita",
   "upload_form.undo": "Esborra",
   "upload_form.video_description": "Descriu per a les persones amb pèrdua auditiva o deficiència visual",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analitzant imatge…",
   "upload_modal.apply": "Aplica",
   "upload_modal.description_placeholder": "Uns salts ràpids de guineu marró sobre el gos gandul",
@@ -678,11 +583,7 @@
   "upload_modal.preview_label": "Previsualitza ({ratio})",
   "upload_progress.label": "Pujant...",
   "video.close": "Tancar el vídeo",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Descarrega l’arxiu",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Sortir de pantalla completa",
   "video.expand": "Ampliar el vídeo",
   "video.fullscreen": "Pantalla completa",

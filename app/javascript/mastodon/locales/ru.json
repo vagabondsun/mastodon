@@ -40,54 +40,26 @@
   "account.unfollow": "Отписаться",
   "account.unmute": "Не игнорировать @{name}",
   "account.unmute_notifications": "Показывать уведомления от @{name}",
-<<<<<<< HEAD
-  "account.view_full_profile": "View full profile",
-  "advanced_options.icon_title": "Advanced options",
-  "advanced_options.local-only.long": "Do not post to other instances",
-  "advanced_options.local-only.short": "Local-only",
-  "advanced_options.local-only.tooltip": "This post is local-only",
-  "advanced_options.threaded_mode.long": "Automatically opens a reply on posting",
-  "advanced_options.threaded_mode.short": "Threaded mode",
-  "advanced_options.threaded_mode.tooltip": "Threaded mode enabled",
-  "alert.rate_limited.message": "Пожалуйста, повторите через {retry_time, time, medium}.",
-  "alert.rate_limited.title": "Скорость ограничена",
-=======
   "alert.rate_limited.message": "Пожалуйста, повторите после {retry_time, time, medium}.",
   "alert.rate_limited.title": "Вы выполняете действие слишком часто",
->>>>>>> upstream/master
   "alert.unexpected.message": "Что-то пошло не так.",
   "alert.unexpected.title": "Ой!",
   "announcement.announcement": "Объявление",
   "autosuggest_hashtag.per_week": "{count} / неделю",
-<<<<<<< HEAD
-  "boost_modal.combo": "Нажмите {combo}, чтобы пропустить это в следующий раз",
-  "boost_modal.missing_description": "This toot contains some media without description",
-=======
   "boost_modal.combo": "{combo}, чтобы пропустить это в следующий раз",
->>>>>>> upstream/master
   "bundle_column_error.body": "Что-то пошло не так при загрузке этого компонента.",
   "bundle_column_error.retry": "Попробовать снова",
   "bundle_column_error.title": "Ошибка сети",
   "bundle_modal_error.close": "Закрыть",
   "bundle_modal_error.message": "Что-то пошло не так при загрузке этого компонента.",
   "bundle_modal_error.retry": "Попробовать снова",
-<<<<<<< HEAD
-  "column.blocks": "Список блокировки",
-  "column.bookmarks": "Bookmarks",
-=======
   "column.blocks": "Заблокированные пользователи",
   "column.bookmarks": "Закладки",
->>>>>>> upstream/master
   "column.community": "Локальная лента",
   "column.direct": "Личные сообщения",
   "column.directory": "Просмотр профилей",
   "column.domain_blocks": "Скрытые домены",
-<<<<<<< HEAD
-  "column.favourited_by": "Favourited by",
-  "column.favourites": "Понравившееся",
-=======
   "column.favourites": "Избранное",
->>>>>>> upstream/master
   "column.follow_requests": "Запросы на подписку",
   "column.heading": "Misc",
   "column.home": "Главная",
@@ -110,21 +82,6 @@
   "column_subheading.lists": "Lists",
   "column_subheading.navigation": "Navigation",
   "column_subheading.settings": "Настройки",
-<<<<<<< HEAD
-  "community.column_settings.media_only": "Только с медиа",
-  "compose.attach": "Attach...",
-  "compose.attach.doodle": "Draw something",
-  "compose.attach.upload": "Upload a file",
-  "compose.content-type.html": "HTML",
-  "compose.content-type.markdown": "Markdown",
-  "compose.content-type.plain": "Plain text",
-  "compose_form.direct_message_warning": "Этот статус будет виден только упомянутым пользователям.",
-  "compose_form.direct_message_warning_learn_more": "Узнать больше",
-  "compose_form.hashtag_warning": "Этот пост не будет показывается в поиске по хэштегу, т.к. он непубличный. Только публичные посты можно найти в поиске по хэштегу.",
-  "compose_form.lock_disclaimer": "Ваша учётная запись не {locked}. Любой пользователь может подписаться на вас и просматривать посты для подписчиков.",
-  "compose_form.lock_disclaimer.lock": "закрыт",
-  "compose_form.placeholder": "О чем вы думаете?",
-=======
   "community.column_settings.media_only": "Только с медиафайлами",
   "compose_form.direct_message_warning": "Адресованные посты отправляются и видны только упомянутым в них пользователям.",
   "compose_form.direct_message_warning_learn_more": "Узнать подробнее",
@@ -132,21 +89,10 @@
   "compose_form.lock_disclaimer": "Ваша учётная запись {locked}. Любой пользователь сможет подписаться на вас и просматривать посты для подписчиков.",
   "compose_form.lock_disclaimer.lock": "не закрыта",
   "compose_form.placeholder": "О чём думаете?",
->>>>>>> upstream/master
   "compose_form.poll.add_option": "Добавить вариант",
   "compose_form.poll.duration": "Продолжительность опроса",
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Вариант {number}",
-<<<<<<< HEAD
-  "compose_form.poll.remove_option": "Удалить этот вариант",
-  "compose_form.poll.single_choice": "Allow one choice",
-  "compose_form.publish": "Запостить",
-  "compose_form.publish_loud": "{publish}!",
-  "compose_form.sensitive.hide": "Пометить медиафайл как чувствительный",
-  "compose_form.sensitive.marked": "Медиафайлы не отмечены как чувствительные",
-  "compose_form.sensitive.unmarked": "Медиафайлы не отмечены как чувствительные",
-  "compose_form.spoiler": "Hide text behind warning",
-=======
   "compose_form.poll.remove_option": "Убрать этот вариант",
   "compose_form.poll.switch_to_multiple": "Переключить в режим выбора нескольких ответов",
   "compose_form.poll.switch_to_single": "Переключить в режим выбора одного ответа",
@@ -155,7 +101,6 @@
   "compose_form.sensitive.hide": "Отметить медиафайл как деликатный",
   "compose_form.sensitive.marked": "Медиафайл отмечен как деликатный",
   "compose_form.sensitive.unmarked": "Медиафайл не отмечен как деликатный",
->>>>>>> upstream/master
   "compose_form.spoiler.marked": "Текст скрыт за предупреждением",
   "compose_form.spoiler.unmarked": "Текст не скрыт",
   "compose_form.spoiler_placeholder": "Текст предупреждения",
@@ -172,29 +117,13 @@
   "confirmations.domain_block.message": "Вы точно уверены, что хотите скрыть все посты с узла {domain}? В большинстве случаев пары блокировок и скрытий вполне достаточно.\n\nПри блокировке узла, вы перестанете получать уведомления оттуда, все посты будут скрыты из публичных лент, а подписчики убраны.",
   "confirmations.logout.confirm": "Выйти",
   "confirmations.logout.message": "Вы уверены, что хотите выйти?",
-<<<<<<< HEAD
-  "confirmations.missing_media_description.confirm": "Send anyway",
-  "confirmations.missing_media_description.edit": "Edit media",
-  "confirmations.missing_media_description.message": "At least one media attachment is lacking a description. Consider describing all media attachments for the visually impaired before sending your toot.",
-  "confirmations.mute.confirm": "Заглушить",
-=======
   "confirmations.mute.confirm": "Игнорировать",
->>>>>>> upstream/master
   "confirmations.mute.explanation": "Это скроет посты этого пользователя и те, в которых он упоминается, но при этом он по-прежнему сможет подписаться на вас и смотреть ваши посты.",
   "confirmations.mute.message": "Вы уверены, что хотите добавить {name} в список игнорируемых?",
   "confirmations.redraft.confirm": "Удалить и исправить",
   "confirmations.redraft.message": "Вы уверены, что хотите переписать этот пост? Старый пост будет удалён, а вместе с ним пропадут отметки «избранного», продвижения и ответы.",
   "confirmations.reply.confirm": "Ответить",
-<<<<<<< HEAD
-  "confirmations.reply.message": "При ответе текст набираемого сообщения будет перезаписан. Продолжить?",
-  "confirmations.unfilter": "Information about this filtered toot",
-  "confirmations.unfilter.author": "Author",
-  "confirmations.unfilter.confirm": "Show",
-  "confirmations.unfilter.edit_filter": "Edit filter",
-  "confirmations.unfilter.filters": "Matching {count, plural, one {filter} other {filters}}",
-=======
   "confirmations.reply.message": "При ответе, текст набираемого поста будет очищен. Продолжить?",
->>>>>>> upstream/master
   "confirmations.unfollow.confirm": "Отписаться",
   "confirmations.unfollow.message": "Вы уверены, что хотите отписаться от {name}?",
   "content-type.change": "Content type",
@@ -227,11 +156,7 @@
   "empty_column.account_timeline": "Здесь нет постов!",
   "empty_column.account_unavailable": "Профиль недоступен",
   "empty_column.blocks": "Вы ещё никого не заблокировали.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "У вас пока нет постов в закладках. Как добавите один, он отобразится здесь.",
->>>>>>> upstream/master
   "empty_column.community": "Локальная лента пуста. Напишите что-нибудь, чтобы разогреть народ!",
   "empty_column.direct": "У вас пока нет личных сообщений. Как только вы отправите или получите одно, оно появится здесь.",
   "empty_column.domain_blocks": "Скрытых доменов пока нет.",
@@ -278,12 +203,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Показывать продвижения",
   "home.column_settings.show_replies": "Показывать ответы",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Скрыть объявления",
   "home.show_announcements": "Показать объявления",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# день} few {# дня} other {# дней}}",
   "intervals.full.hours": "{number, plural, one {# час} few {# часа} other {# часов}}",
   "intervals.full.minutes": "{number, plural, one {# минута} few {# минуты} other {# минут}}",
@@ -326,13 +247,8 @@
   "keyboard_shortcuts.muted": "открыть список игнорируемых",
   "keyboard_shortcuts.my_profile": "перейти к своему профилю",
   "keyboard_shortcuts.notifications": "перейти к уведомлениям",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-  "keyboard_shortcuts.pinned": "перейти к закреплённым статусам",
-=======
   "keyboard_shortcuts.open_media": "открыть вложение",
   "keyboard_shortcuts.pinned": "перейти к закреплённым постам",
->>>>>>> upstream/master
   "keyboard_shortcuts.profile": "перейти к профилю автора",
   "keyboard_shortcuts.reply": "ответить",
   "keyboard_shortcuts.requests": "перейти к запросам на подписку",
@@ -359,17 +275,8 @@
   "lists.delete": "Удалить список",
   "lists.edit": "Изменить список",
   "lists.edit.submit": "Изменить название",
-<<<<<<< HEAD
-  "lists.new.create": "Новый список",
-  "lists.new.title_placeholder": "Заголовок списка",
-  "lists.replies_policy.all_replies": "any followed user",
-  "lists.replies_policy.list_replies": "members of the list",
-  "lists.replies_policy.no_replies": "no one",
-  "lists.replies_policy.title": "Show replies to:",
-=======
   "lists.new.create": "Создать список",
   "lists.new.title_placeholder": "Название для нового списка",
->>>>>>> upstream/master
   "lists.search": "Искать среди подписок",
   "lists.subheading": "Ваши списки",
   "load_pending": "{count, plural, one {# новый элемент} few {# новых элемента} other {# новых элементов}}",
@@ -378,33 +285,18 @@
   "media_gallery.toggle_visible": "Показать/скрыть",
   "missing_indicator.label": "Не найдено",
   "missing_indicator.sublabel": "Запрашиваемый ресурс не найден",
-<<<<<<< HEAD
-  "moved_to_warning": "This account is marked as moved to {moved_to_link}, and may thus not accept new follows.",
-  "mute_modal.hide_notifications": "Убрать уведомления от этого пользователя?",
-  "navigation_bar.app_settings": "App settings",
-  "navigation_bar.apps": "Мобильные приложения",
-  "navigation_bar.blocks": "Список блокировки",
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "mute_modal.hide_notifications": "Скрыть уведомления от этого пользователя?",
   "navigation_bar.apps": "Мобильные приложения",
   "navigation_bar.blocks": "Список блокировки",
   "navigation_bar.bookmarks": "Закладки",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Локальная лента",
   "navigation_bar.compose": "Создать новый пост",
   "navigation_bar.direct": "Личные сообщения",
   "navigation_bar.discover": "Изучайте",
   "navigation_bar.domain_blocks": "Скрытые домены",
   "navigation_bar.edit_profile": "Изменить профиль",
-<<<<<<< HEAD
-  "navigation_bar.favourites": "Понравившееся",
-  "navigation_bar.featured_users": "Featured users",
-  "navigation_bar.filters": "Заглушенные слова",
-=======
   "navigation_bar.favourites": "Избранное",
   "navigation_bar.filters": "Игнорируемые слова",
->>>>>>> upstream/master
   "navigation_bar.follow_requests": "Запросы на подписку",
   "navigation_bar.follows_and_followers": "Подписки и подписчики",
   "navigation_bar.info": "Об узле",
@@ -420,40 +312,16 @@
   "navigation_bar.security": "Безопасность",
   "notification.favourite": "{name} добавил(а) ваш пост в избранное",
   "notification.follow": "{name} подписался (-лась) на вас",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} упомянул(а) вас",
-  "notification.own_poll": "Your poll has ended",
-  "notification.poll": "Опрос, в котором вы приняли участие, завершился",
-  "notification.reblog": "{name} продвинул(а) ваш статус",
-  "notification_purge.btn_all": "Select\nall",
-  "notification_purge.btn_apply": "Clear\nselected",
-  "notification_purge.btn_invert": "Invert\nselection",
-  "notification_purge.btn_none": "Select\nnone",
-  "notification_purge.start": "Enter notification cleaning mode",
-=======
   "notification.follow_request": "{name} отправил запрос на подписку",
   "notification.mention": "{name} упомянул(а) вас",
   "notification.own_poll": "Ваш опрос закончился",
   "notification.poll": "Опрос, в котором вы приняли участие, завершился",
   "notification.reblog": "{name} продвинул(а) ваш пост",
->>>>>>> upstream/master
   "notifications.clear": "Очистить уведомления",
   "notifications.clear_confirmation": "Вы уверены, что хотите очистить все уведомления?",
   "notifications.column_settings.alert": "Уведомления в фоне",
   "notifications.column_settings.favourite": "Ваш пост добавили в «избранное»:",
   "notifications.column_settings.filter_bar.advanced": "Отображать все категории",
-<<<<<<< HEAD
-  "notifications.column_settings.filter_bar.category": "Фильтры по категориям",
-  "notifications.column_settings.filter_bar.show": "Показывать",
-  "notifications.column_settings.follow": "Новые подписчики:",
-  "notifications.column_settings.mention": "Упоминания:",
-  "notifications.column_settings.poll": "Результаты опроса:",
-  "notifications.column_settings.push": "Push-уведомления",
-  "notifications.column_settings.push_meta": "This device",
-  "notifications.column_settings.reblog": "Продвижения:",
-  "notifications.column_settings.show": "Показывать в колонке",
-=======
   "notifications.column_settings.filter_bar.category": "Панель сортировки",
   "notifications.column_settings.filter_bar.show": "Отображать панель сортировки",
   "notifications.column_settings.follow": "У вас новый подписчик:",
@@ -463,7 +331,6 @@
   "notifications.column_settings.push": "Пуш-уведомления",
   "notifications.column_settings.reblog": "Ваш пост продвинули:",
   "notifications.column_settings.show": "Отображать в списке",
->>>>>>> upstream/master
   "notifications.column_settings.sound": "Проигрывать звук",
   "notifications.filter.all": "Все",
   "notifications.filter.boosts": "Продвижения",
@@ -608,39 +475,18 @@
   "status.admin_account": "Открыть интерфейс модератора для @{name}",
   "status.admin_status": "Открыть этот пост в интерфейсе модератора",
   "status.block": "Заблокировать @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-  "status.cancel_reblog_private": "Не продвигать",
-  "status.cannot_reblog": "Этот статус не может быть продвинут",
-  "status.collapse": "Collapse",
-  "status.copy": "Копировать ссылку на запись",
-=======
   "status.bookmark": "Добавить в закладки",
   "status.cancel_reblog_private": "Не продвигать",
   "status.cannot_reblog": "Этот пост не может быть продвинут",
   "status.copy": "Скопировать ссылку на пост",
->>>>>>> upstream/master
   "status.delete": "Удалить",
   "status.detailed_status": "Подробный просмотр обсуждения",
   "status.direct": "Написать @{name}",
   "status.embed": "Встроить на свой сайт",
   "status.favourite": "Нравится",
   "status.filtered": "Отфильтровано",
-<<<<<<< HEAD
-  "status.has_audio": "Features attached audio files",
-  "status.has_pictures": "Features attached pictures",
-  "status.has_preview_card": "Features an attached preview card",
-  "status.has_video": "Features attached videos",
-  "status.hide": "Hide toot",
-  "status.in_reply_to": "This toot is a reply",
-  "status.is_poll": "This toot is a poll",
-  "status.load_more": "Показать еще",
-  "status.local_only": "Only visible from your instance",
-  "status.media_hidden": "Медиа скрыто",
-=======
   "status.load_more": "Загрузить остальное",
   "status.media_hidden": "Файл скрыт",
->>>>>>> upstream/master
   "status.mention": "Упомянуть @{name}",
   "status.more": "Больше",
   "status.mute": "Игнорировать @{name}",
@@ -654,20 +500,11 @@
   "status.reblogged_by": "{name} продвинул(а)",
   "status.reblogs.empty": "Никто ещё не продвинул этот пост. Как только кто-то это сделает, они появятся здесь.",
   "status.redraft": "Удалить и исправить",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-  "status.reply": "Ответить",
-  "status.replyAll": "Ответить всем",
-  "status.report": "Пожаловаться",
-  "status.sensitive_toggle": "Click to view",
-  "status.sensitive_warning": "Чувствительный контент",
-=======
   "status.remove_bookmark": "Убрать из закладок",
   "status.reply": "Ответить",
   "status.replyAll": "Ответить всем",
   "status.report": "Пожаловаться",
   "status.sensitive_warning": "Деликатное содержимое",
->>>>>>> upstream/master
   "status.share": "Поделиться",
   "status.show_filter_reason": "(show why)",
   "status.show_less": "Свернуть",
@@ -675,14 +512,8 @@
   "status.show_more": "Развернуть",
   "status.show_more_all": "Развернуть все спойлеры в ветке",
   "status.show_thread": "Показать обсуждение",
-<<<<<<< HEAD
-  "status.uncached_media_warning": "Недоступно",
-  "status.uncollapse": "Uncollapse",
-  "status.unmute_conversation": "Снять глушение с обсуждения",
-=======
   "status.uncached_media_warning": "Файл недоступен",
   "status.unmute_conversation": "Не игнорировать обсуждение",
->>>>>>> upstream/master
   "status.unpin": "Открепить от профиля",
   "suggestions.dismiss": "Удалить предложение",
   "suggestions.header": "Вам может быть интересно…",
@@ -703,19 +534,11 @@
   "upload_button.label": "Прикрепить фото, видео или аудио",
   "upload_error.limit": "Достигнут лимит загруженных файлов.",
   "upload_error.poll": "К опросам нельзя прикреплять файлы.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Добавьте описание для людей с нарушениями зрения:",
-  "upload_form.edit": "Изменить",
-  "upload_form.undo": "Отменить",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Опишите аудиофайл для людей с нарушением слуха",
   "upload_form.description": "Добавьте описание для людей с нарушениями зрения:",
   "upload_form.edit": "Изменить",
   "upload_form.undo": "Отменить",
   "upload_form.video_description": "Опишите видео для людей с нарушением слуха или зрения",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Обработка изображения…",
   "upload_modal.apply": "Применить",
   "upload_modal.description_placeholder": "На дворе трава, на траве дрова",
@@ -725,11 +548,7 @@
   "upload_modal.preview_label": "Предпросмотр ({ratio})",
   "upload_progress.label": "Загрузка...",
   "video.close": "Закрыть видео",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Загрузить файл",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Покинуть полноэкранный режим",
   "video.expand": "Развернуть видео",
   "video.fullscreen": "Полноэкранный режим",

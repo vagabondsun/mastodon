@@ -62,12 +62,7 @@
   "bundle_modal_error.close": "Жабу",
   "bundle_modal_error.message": "Бұл компонентті жүктеген кезде бір қате пайда болды.",
   "bundle_modal_error.retry": "Қайтадан көріңіз",
-  "column.blocks": "Бұғатталғандар",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Бетбелгілер",
->>>>>>> upstream/master
   "column.community": "Жергілікті желі",
   "column.direct": "Жеке хаттар",
   "column.directory": "Профильдерді аралау",
@@ -114,12 +109,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Жауап {number}",
   "compose_form.poll.remove_option": "Бұл жауапты өшір",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Change poll to allow multiple choices",
   "compose_form.poll.switch_to_single": "Change poll to allow for a single choice",
->>>>>>> upstream/master
   "compose_form.publish": "Түрт",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Сезімтал ретінде белгіле",
@@ -189,11 +180,7 @@
   "empty_column.account_timeline": "Жазба жоқ ешқандай!",
   "empty_column.account_unavailable": "Профиль қолжетімді емес",
   "empty_column.blocks": "Ешкімді бұғаттамағансыз.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Ешқандай жазба Бетбелгілер тізіміне қосылмапты. Қосылғаннан кейін осында жинала бастайды.",
->>>>>>> upstream/master
   "empty_column.community": "Жергілікті желі бос. Сіз бастап жазыңыз!",
   "empty_column.direct": "Әзірше дым хат жоқ. Өзіңіз жазып көріңіз алдымен.",
   "empty_column.domain_blocks": "Бұғатталған домен жоқ.",
@@ -240,12 +227,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Бөлісулерді көрсету",
   "home.column_settings.show_replies": "Жауаптарды көрсету",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Анонстарды жасыр",
   "home.show_announcements": "Анонстарды көрсет",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# күн} other {# күн}}",
   "intervals.full.hours": "{number, plural, one {# сағат} other {# сағат}}",
   "intervals.full.minutes": "{number, plural, one {# минут} other {# минут}}",
@@ -288,11 +271,7 @@
   "keyboard_shortcuts.muted": "үнсіздер тізімін ашу",
   "keyboard_shortcuts.my_profile": "профиліңізді ашу",
   "keyboard_shortcuts.notifications": "ескертпелер бағанын ашу",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "медианы ашу үшін",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "жабыстырылған жазбаларды көру",
   "keyboard_shortcuts.profile": "автор профилін қарау",
   "keyboard_shortcuts.reply": "жауап жазу",
@@ -339,11 +318,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Мобиль қосымшалар",
   "navigation_bar.blocks": "Бұғатталғандар",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Бетбелгілер",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Жергілікті желі",
   "navigation_bar.compose": "Жаңа жазба бастау",
   "navigation_bar.direct": "Жеке хаттар",
@@ -368,15 +343,9 @@
   "navigation_bar.security": "Қауіпсіздік",
   "notification.favourite": "{name} жазбаңызды таңдаулыға қосты",
   "notification.follow": "{name} сізге жазылды",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} сізді атап өтті",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} сізге жазылғысы келеді",
   "notification.mention": "{name} сізді атап өтті",
   "notification.own_poll": "Сауалнама аяқталды",
->>>>>>> upstream/master
   "notification.poll": "Бұл сауалнаманың мерзімі аяқталыпты",
   "notification.reblog": "{name} жазбаңызды бөлісті",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +512,7 @@
   "status.admin_account": "@{name} үшін модерация интерфейсін аш",
   "status.admin_status": "Бұл жазбаны модерация интерфейсінде аш",
   "status.block": "Бұғаттау @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Бетбелгі",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Бөліспеу",
   "status.cannot_reblog": "Бұл жазба бөлісілмейді",
   "status.collapse": "Collapse",
@@ -581,11 +546,7 @@
   "status.reblogged_by": "{name} бөлісті",
   "status.reblogs.empty": "Бұл жазбаны әлі ешкім бөліспеді. Біреу бөліскен кезде осында көрінеді.",
   "status.redraft": "Өшіру & қайта қарастыру",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Бетбелгілерден алып тастау",
->>>>>>> upstream/master
   "status.reply": "Жауап",
   "status.replyAll": "Тақырыпқа жауап",
   "status.report": "Шағым @{name}",
@@ -621,19 +582,11 @@
   "upload_button.label": "Медиа қосу (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Файл жүктеу лимитінен асып кеттіңіз.",
   "upload_error.poll": "Сауалнамамен бірге файл жүктеуге болмайды.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Көру қабілеті нашар адамдар үшін сипаттаңыз",
-  "upload_form.edit": "Түзету",
-  "upload_form.undo": "Өшіру",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Есту қабілеті нашар адамдарға сипаттама беріңіз",
   "upload_form.description": "Көру қабілеті нашар адамдар үшін сипаттаңыз",
   "upload_form.edit": "Түзету",
   "upload_form.undo": "Өшіру",
   "upload_form.video_description": "Есту немесе көру қабілеті нашар адамдарға сипаттама беріңіз",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Суретті анализ жасау…",
   "upload_modal.apply": "Қолдану",
   "upload_modal.description_placeholder": "Щучинск съезіндегі өрт пе? Вагон-үй, аэромобиль һәм ұшақ фюзеляжы цехінен ғой",
@@ -643,11 +596,7 @@
   "upload_modal.preview_label": "Превью ({ratio})",
   "upload_progress.label": "Жүктеп жатыр...",
   "video.close": "Видеоны жабу",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Файлды түсіру",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Толық экраннан шық",
   "video.expand": "Видеоны аш",
   "video.fullscreen": "Толық экран",

@@ -54,25 +54,15 @@
   "alert.unexpected.title": "Oih!",
   "announcement.announcement": "Teadaanne",
   "autosuggest_hashtag.per_week": "{count} nädalas",
-<<<<<<< HEAD
-  "boost_modal.combo": "Saad vajutada {combo}, et see järgmine kord vahele jätta",
-  "boost_modal.missing_description": "This toot contains some media without description",
-  "bundle_column_error.body": "Mindagi läks valesti selle komponendi laadimisel.",
-=======
   "boost_modal.combo": "Võite vajutada {combo}, et see järgmine kord vahele jätta",
   "bundle_column_error.body": "Midagi läks valesti selle komponendi laadimisel.",
->>>>>>> upstream/master
   "bundle_column_error.retry": "Proovi uuesti",
   "bundle_column_error.title": "Võrgu viga",
   "bundle_modal_error.close": "Sulge",
   "bundle_modal_error.message": "Selle komponendi laadimisel läks midagi viltu.",
   "bundle_modal_error.retry": "Proovi uuesti",
   "column.blocks": "Blokeeritud kasutajad",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Järjehoidjad",
->>>>>>> upstream/master
   "column.community": "Kohalik ajajoon",
   "column.direct": "Otsesõnumid",
   "column.directory": "Sirvi profiile",
@@ -119,12 +109,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Valik {number}",
   "compose_form.poll.remove_option": "Eemalda see valik",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Muuda küsitlust lubamaks mitut valikut",
   "compose_form.poll.switch_to_single": "Muuda küsitlust lubamaks ainult ühte valikut",
->>>>>>> upstream/master
   "compose_form.publish": "Tuut",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Märgista meedia tundlikuks",
@@ -146,35 +132,16 @@
   "confirmations.domain_block.confirm": "Peida terve domeen",
   "confirmations.domain_block.message": "Olete ikka päris kindel, et soovite blokeerida terve {domain}? Enamikul juhtudel piisab mõnest sihitud blokist või vaigistusest, mis on eelistatav. Te ei näe selle domeeni sisu üheski avalikus ajajoones või teadetes. Teie jälgijad sellest domeenist eemaldatakse.",
   "confirmations.logout.confirm": "Välju",
-<<<<<<< HEAD
-  "confirmations.logout.message": "Kas oled kindel, et soovid välja logida?",
-  "confirmations.missing_media_description.confirm": "Send anyway",
-  "confirmations.missing_media_description.edit": "Edit media",
-  "confirmations.missing_media_description.message": "At least one media attachment is lacking a description. Consider describing all media attachments for the visually impaired before sending your toot.",
-=======
   "confirmations.logout.message": "Kas olete kindel, et soovite välja logida?",
->>>>>>> upstream/master
   "confirmations.mute.confirm": "Vaigista",
   "confirmations.mute.explanation": "See peidab postitusi temalt ning postitusi, kus mainitakse neid, kuid see lubab neil ikka näha Teie postitusi ning Teid jälgida.",
   "confirmations.mute.message": "Olete kindel, et soovite {name} vaigistada?",
   "confirmations.redraft.confirm": "Kustuta & taasalusta",
   "confirmations.redraft.message": "Olete kindel, et soovite selle staatuse kustutada ja alustada uuesti? Lemmikud ja upitused lähevad kaotsi ja vastused originaaalpostitusele jäävad orvuks.",
   "confirmations.reply.confirm": "Vasta",
-<<<<<<< HEAD
-  "confirmations.reply.message": "Kohene vastamine kirjutab üle sõnumi, mida hetkel koostad. Oled kindel, et soovid jätkata?",
-  "confirmations.unfilter": "Information about this filtered toot",
-  "confirmations.unfilter.author": "Author",
-  "confirmations.unfilter.confirm": "Show",
-  "confirmations.unfilter.edit_filter": "Edit filter",
-  "confirmations.unfilter.filters": "Matching {count, plural, one {filter} other {filters}}",
-  "confirmations.unfollow.confirm": "Ära jälgi",
-  "confirmations.unfollow.message": "Oled kindel, et ei soovi jälgida {name}?",
-  "content-type.change": "Content type",
-=======
   "confirmations.reply.message": "Praegu vastamine kirjutab üle sõnumi, mida hetkel koostate. Olete kindel, et soovite jätkata?",
   "confirmations.unfollow.confirm": "Ära jälgi",
   "confirmations.unfollow.message": "Olete kindel, et ei soovi rohkem jälgida kasutajat {name}?",
->>>>>>> upstream/master
   "conversation.delete": "Kustuta vestlus",
   "conversation.mark_as_read": "Märgi loetuks",
   "conversation.open": "Vaata vestlust",
@@ -204,15 +171,9 @@
   "empty_column.account_timeline": "Siin tuute ei ole!",
   "empty_column.account_unavailable": "Profiil pole saadaval",
   "empty_column.blocks": "Sa ei ole veel ühtegi kasutajat blokeerinud.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-  "empty_column.community": "Kohalik ajajoon on tühi. Kirjuta midagi avalikult, et pall veerema saada!",
-  "empty_column.direct": "Sul ei veel otsesõnumeid. Kui saadad või võtad mõne vastu, ilmuvad nad siia.",
-=======
   "empty_column.bookmarked_statuses": "Teil pole veel järjehoidjatesse lisatud tuututusi. Kui lisate mõne, näete neid siin.",
   "empty_column.community": "Kohalik ajajoon on tühi. Kirjutage midagi avalikult, et pall veerema ajada!",
   "empty_column.direct": "Teil ei ole veel otsesõnumeid. Kui saadate või võtate mõne vastu, ilmuvad nad siia.",
->>>>>>> upstream/master
   "empty_column.domain_blocks": "Siin ei ole veel peidetud domeene.",
   "empty_column.favourited_statuses": "Teil pole veel lemmikuid tuute. Kui märgite mõne, näete neid siin.",
   "empty_column.favourites": "Keegi pole veel seda tuuti lemmikuks märkinud. Kui seegi seda teeb, näed seda siin.",
@@ -238,12 +199,7 @@
   "getting_started.documentation": "Dokumentatsioon",
   "getting_started.heading": "Alustamine",
   "getting_started.invite": "Kutsu inimesi",
-<<<<<<< HEAD
-  "getting_started.onboarding": "Show me around",
-  "getting_started.open_source_notice": "Mastodon on avatud lähtekoodiga tarkvara. Saad panustada või teatada probleemidest GitHubis {github}.",
-=======
   "getting_started.open_source_notice": "Mastodon on avatud lähtekoodiga tarkvara. Saate panustada või teatada probleemidest GitHubis {github}.",
->>>>>>> upstream/master
   "getting_started.security": "Turvalisus",
   "getting_started.terms": "Kasutustingimused",
   "hashtag.column_header.tag_mode.all": "ja {additional}",
@@ -261,12 +217,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Näita upitusi",
   "home.column_settings.show_replies": "Näita vastuseid",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Peida teadaanded",
   "home.show_announcements": "Kuva teadaandeid",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# päev} other {# päevad}}",
   "intervals.full.hours": "{number, plural, one {# tund} other {# tundi}}",
   "intervals.full.minutes": "{number, plural, one {# minut} other {# minutit}}",
@@ -309,11 +261,7 @@
   "keyboard_shortcuts.muted": "avamaks vaigistatud kasutajate nimistut",
   "keyboard_shortcuts.my_profile": "avamaks profiili",
   "keyboard_shortcuts.notifications": "avamaks teadete tulpa",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "et avada meedia",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "avamaks kinnitatud tuutide nimistut",
   "keyboard_shortcuts.profile": "avamaks autori profiili",
   "keyboard_shortcuts.reply": "vastamiseks",
@@ -343,17 +291,8 @@
   "lists.edit.submit": "Muuda pealkiri",
   "lists.new.create": "Lisa nimistu",
   "lists.new.title_placeholder": "Uus nimistu pealkiri",
-<<<<<<< HEAD
-  "lists.replies_policy.all_replies": "any followed user",
-  "lists.replies_policy.list_replies": "members of the list",
-  "lists.replies_policy.no_replies": "no one",
-  "lists.replies_policy.title": "Show replies to:",
-  "lists.search": "Otsi sinu poolt jälgitavate inimese hulgast",
-  "lists.subheading": "Sinu nimistud",
-=======
   "lists.search": "Otsi Teie poolt jälgitavate inimese hulgast",
   "lists.subheading": "Teie nimistud",
->>>>>>> upstream/master
   "load_pending": "{count, plural, one {# uus kirje} other {# uut kirjet}}",
   "loading_indicator.label": "Laeb..",
   "media_gallery.sensitive": "Sensitive",
@@ -365,11 +304,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Mobiilrakendused",
   "navigation_bar.blocks": "Blokeeritud kasutajad",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Järjehoidjad",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Kohalik ajajoon",
   "navigation_bar.compose": "Koosta uus tuut",
   "navigation_bar.direct": "Otsesõnumid",
@@ -392,20 +327,6 @@
   "navigation_bar.preferences": "Eelistused",
   "navigation_bar.public_timeline": "Föderatiivne ajajoon",
   "navigation_bar.security": "Turvalisus",
-<<<<<<< HEAD
-  "notification.favourite": "{name} märkis su staatuse lemmikuks",
-  "notification.follow": "{name} jälgib sind",
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} mainis sind",
-  "notification.own_poll": "Your poll has ended",
-  "notification.poll": "Küsitlus, milles osalesid, on lõppenud",
-  "notification.reblog": "{name} upitas su staatust",
-  "notification_purge.btn_all": "Select\nall",
-  "notification_purge.btn_apply": "Clear\nselected",
-  "notification_purge.btn_invert": "Invert\nselection",
-  "notification_purge.btn_none": "Select\nnone",
-  "notification_purge.start": "Enter notification cleaning mode",
-=======
   "notification.favourite": "{name} märkis Teie staatuse lemmikuks",
   "notification.follow": "{name} jälgib nüüd Teid",
   "notification.follow_request": "{name} soovib Teid jälgida",
@@ -413,7 +334,6 @@
   "notification.own_poll": "Teie küsitlus on lõppenud",
   "notification.poll": "Küsitlus, milles osalesite, on lõppenud",
   "notification.reblog": "{name} upitas Teie staatust",
->>>>>>> upstream/master
   "notifications.clear": "Puhasta teated",
   "notifications.clear_confirmation": "Olete kindel, et soovite püsivalt kõik oma teated eemaldada?",
   "notifications.column_settings.alert": "Töölauateated",
@@ -573,11 +493,7 @@
   "status.admin_account": "Ava moderaatoriliides kasutajale @{name}",
   "status.admin_status": "Ava see staatus moderaatoriliites",
   "status.block": "Blokeeri @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Järjehoidja",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Äraupita",
   "status.cannot_reblog": "Seda postitust ei saa upitada",
   "status.collapse": "Collapse",
@@ -611,11 +527,7 @@
   "status.reblogged_by": "{name} upitatud",
   "status.reblogs.empty": "Keegi pole seda tuuti veel upitanud. Kui keegi upitab, näed seda siin.",
   "status.redraft": "Kustuta & alga uuesti",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Eemalda järjehoidja",
->>>>>>> upstream/master
   "status.reply": "Vasta",
   "status.replyAll": "Vasta lõimele",
   "status.report": "Raport @{name}",
@@ -651,19 +563,11 @@
   "upload_button.label": "Lisa meedia (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Faili üleslaadimise limiit ületatud.",
   "upload_error.poll": "Küsitlustes pole faili üleslaadimine lubatud.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Kirjelda vaegnägijatele",
-  "upload_form.edit": "Redigeeri",
-  "upload_form.undo": "Kustuta",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Kirjelda kuulmispuudega inimeste jaoks",
   "upload_form.description": "Kirjelda vaegnägijatele",
   "upload_form.edit": "Redigeeri",
   "upload_form.undo": "Kustuta",
   "upload_form.video_description": "Kirjelda kuulmis- või nägemispuudega inimeste jaoks",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analüüsime pilti…",
   "upload_modal.apply": "Rakenda",
   "upload_modal.description_placeholder": "Kiire pruun rebane hüppab üle laisa koera",
@@ -673,11 +577,7 @@
   "upload_modal.preview_label": "Eelvaade ({ratio})",
   "upload_progress.label": "Laeb üles....",
   "video.close": "Sulge video",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Faili allalaadimine",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Välju täisekraanist",
   "video.expand": "Suurenda video",
   "video.fullscreen": "Täisekraan",

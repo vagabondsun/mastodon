@@ -6,12 +6,7 @@
   "account.block_domain": "{domain} alanından her şeyi gizle",
   "account.blocked": "Engellenmiş",
   "account.cancel_follow_request": "Takip isteğini iptal et",
-<<<<<<< HEAD
-  "account.direct": "Mesaj gönder : @{name}",
-  "account.disclaimer_full": "Information below may reflect the user's profile incompletely.",
-=======
   "account.direct": "Mesaj gönder @{name}",
->>>>>>> upstream/master
   "account.domain_blocked": "Alan adı gizlendi",
   "account.edit_profile": "Profili düzenle",
   "account.endorse": "Profildeki özellik",
@@ -67,11 +62,7 @@
   "bundle_modal_error.message": "Bu bileşen yüklenirken bir şeyler ters gitti.",
   "bundle_modal_error.retry": "Tekrar deneyin",
   "column.blocks": "Engellenen kullanıcılar",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Yer imleri",
->>>>>>> upstream/master
   "column.community": "Yerel zaman tüneli",
   "column.direct": "Doğrudan mesajlar",
   "column.directory": "Profillere göz at",
@@ -118,12 +109,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Seçim {number}",
   "compose_form.poll.remove_option": "Bu seçimi kaldır",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Birden çok seçeneğe izin vermek için anketi değiştir",
   "compose_form.poll.switch_to_single": "Tek bir seçeneğe izin vermek için anketi değiştir",
->>>>>>> upstream/master
   "compose_form.publish": "Tootla",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Medyayı hassas olarak işaretle",
@@ -193,11 +180,7 @@
   "empty_column.account_timeline": "Burada hiç toot yok!",
   "empty_column.account_unavailable": "Profil kullanılamıyor",
   "empty_column.blocks": "Henüz bir kullanıcıyı engellemediniz.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Hiç işaretlediğiniz tootunuz yok. Bir tane olduğunda burada görünecek.",
->>>>>>> upstream/master
   "empty_column.community": "Yerel zaman çizelgesi boş. Daha fazla eğlence için herkese açık bir gönderi paylaşın!",
   "empty_column.direct": "Henüz doğrudan mesajınız yok. Bir tane gönderdiğinizde veya aldığınızda burada görünecektir.",
   "empty_column.domain_blocks": "Henüz hiçbir gizli alan adı yok.",
@@ -244,12 +227,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Boost edilenleri göster",
   "home.column_settings.show_replies": "Cevapları göster",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Duyuruları gizle",
   "home.show_announcements": "Duyuruları göster",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# gün} other {# gün}}",
   "intervals.full.hours": "{number, plural, one {# saat} other {# saat}}",
   "intervals.full.minutes": "{number, plural, one {# dakika} other {# dakika}}",
@@ -292,11 +271,7 @@
   "keyboard_shortcuts.muted": "susturulmuş kullanıcı listesini açmak için",
   "keyboard_shortcuts.my_profile": "profilinizi açmak için",
   "keyboard_shortcuts.notifications": "bildirimler sütununu açmak için",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "medyayı açmak için",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "sabitlenmiş tootların listesini açmak için",
   "keyboard_shortcuts.profile": "yazarın profilini açmak için",
   "keyboard_shortcuts.reply": "cevaplamak için",
@@ -343,11 +318,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Mobil uygulamalar",
   "navigation_bar.blocks": "Engellenen kullanıcılar",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Yer imleri",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Yerel zaman tüneli",
   "navigation_bar.compose": "Yeni toot oluştur",
   "navigation_bar.direct": "Direkt Mesajlar",
@@ -372,15 +343,9 @@
   "navigation_bar.security": "Güvenlik",
   "notification.favourite": "{name} senin durumunu favorilere ekledi",
   "notification.follow": "{name} seni takip ediyor",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} senden bahsetti",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} sizi takip etme isteği gönderdi",
   "notification.mention": "{name} senden bahsetti",
   "notification.own_poll": "Anketiniz sona erdi",
->>>>>>> upstream/master
   "notification.poll": "Oy verdiğiniz bir anket bitti",
   "notification.reblog": "{name} senin durumunu boost etti",
   "notification_purge.btn_all": "Select\nall",
@@ -547,11 +512,7 @@
   "status.admin_account": "@{name} için denetim arayüzünü açın",
   "status.admin_status": "Denetim arayüzünde bu durumu açın",
   "status.block": "Engelle : @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Yer imlerine ekle",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Boost'u geri al",
   "status.cannot_reblog": "Bu gönderi boost edilemez",
   "status.collapse": "Collapse",
@@ -585,11 +546,7 @@
   "status.reblogged_by": "{name} boost etti",
   "status.reblogs.empty": "Henüz kimse bu tootu yinelemedi. Biri yaptığında burada görünecek.",
   "status.redraft": "Sil & tekrar taslakla",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Yer imini kaldır",
->>>>>>> upstream/master
   "status.reply": "Cevapla",
   "status.replyAll": "Mesaj dizisini cevapla",
   "status.report": "@{name}'i raporla",
@@ -625,19 +582,11 @@
   "upload_button.label": "Görsel ekle",
   "upload_error.limit": "Dosya yükleme sınırı aşıldı.",
   "upload_error.poll": "Anketlerde dosya yüklemesine izin verilmez.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Görme engelliler için açıklama",
-  "upload_form.edit": "Düzenle",
-  "upload_form.undo": "Geri al",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "İşitme kaybı olan kişiler için tarif edin",
   "upload_form.description": "Görme engelliler için açıklama",
   "upload_form.edit": "Düzenle",
   "upload_form.undo": "Geri al",
   "upload_form.video_description": "İşitme kaybı veya görme engeli olan kişiler için tarif edin",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Resmi analiz ediyor…",
   "upload_modal.apply": "Uygula",
   "upload_modal.description_placeholder": "Pijamalı hasta yağız şoföre çabucak güvendi",
@@ -647,11 +596,7 @@
   "upload_modal.preview_label": "Ön izleme ({ratio})",
   "upload_progress.label": "Yükleniyor...",
   "video.close": "Videoyu kapat",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Dosyayı indir",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Tam ekrandan çık",
   "video.expand": "Videoyu genişlet",
   "video.fullscreen": "Tam ekran",

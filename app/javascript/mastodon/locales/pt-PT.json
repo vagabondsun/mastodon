@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "Algo de errado aconteceu enquanto este componente era carregado.",
   "bundle_modal_error.retry": "Tente de novo",
   "column.blocks": "Utilizadores Bloqueados",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Favoritos",
->>>>>>> upstream/master
   "column.community": "Cronologia local",
   "column.direct": "Mensagens directas",
   "column.directory": "Procurar perfis",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Opção {number}",
   "compose_form.poll.remove_option": "Eliminar esta opção",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Alterar a votação para permitir múltiplas escolhas",
   "compose_form.poll.switch_to_single": "Alterar a votação para permitir uma única escolha",
->>>>>>> upstream/master
   "compose_form.publish": "Toot",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Marcar multimédia como sensível",
@@ -189,11 +181,7 @@
   "empty_column.account_timeline": "Sem toots por aqui!",
   "empty_column.account_unavailable": "Perfil indisponível",
   "empty_column.blocks": "Ainda não bloqueaste qualquer utilizador.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Ainda não assinalou toots como favoritos. Quando o fizer, eles aparecerão aqui.",
->>>>>>> upstream/master
   "empty_column.community": "A timeline local está vazia. Escreve algo publicamente para começar!",
   "empty_column.direct": "Ainda não tens qualquer mensagem directa. Quando enviares ou receberes alguma, ela irá aparecer aqui.",
   "empty_column.domain_blocks": "Ainda não há qualquer domínio escondido.",
@@ -240,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Mostrar boosts",
   "home.column_settings.show_replies": "Mostrar respostas",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Ocultar anúncios",
   "home.show_announcements": "Exibir anúncios",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# dia} other {# dias}}",
   "intervals.full.hours": "{number, plural, one {# hora} other {# horas}}",
   "intervals.full.minutes": "{number, plural, one {# minuto} other {# minutos}}",
@@ -288,11 +272,7 @@
   "keyboard_shortcuts.muted": "para abrir a lista dos utilizadores silenciados",
   "keyboard_shortcuts.my_profile": "para abrir o teu perfil",
   "keyboard_shortcuts.notifications": "para abrir a coluna das notificações",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "para abrir média",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "para abrir a lista dos toots fixados",
   "keyboard_shortcuts.profile": "para abrir o perfil do autor",
   "keyboard_shortcuts.reply": "para responder",
@@ -339,11 +319,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Aplicações móveis",
   "navigation_bar.blocks": "Utilizadores bloqueados",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Favoritos",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Cronologia local",
   "navigation_bar.compose": "Escrever novo toot",
   "navigation_bar.direct": "Mensagens directas",
@@ -368,15 +344,9 @@
   "navigation_bar.security": "Segurança",
   "notification.favourite": "{name} adicionou o teu estado aos favoritos",
   "notification.follow": "{name} começou a seguir-te",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} mencionou-te",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} pediu para segui-lo",
   "notification.mention": "{name} mencionou-te",
   "notification.own_poll": "A sua votação terminou",
->>>>>>> upstream/master
   "notification.poll": "Uma votação em participaste chegou ao fim",
   "notification.reblog": "{name} fez boost ao teu o teu estado",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +513,7 @@
   "status.admin_account": "Abrir a interface de moderação para @{name}",
   "status.admin_status": "Abrir esta publicação na interface de moderação",
   "status.block": "Bloquear @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Favorito",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Remover boost",
   "status.cannot_reblog": "Não é possível fazer boost a esta publicação",
   "status.collapse": "Collapse",
@@ -581,11 +547,7 @@
   "status.reblogged_by": "{name} fez boost",
   "status.reblogs.empty": "Ainda ninguém fez boost a este toot. Quando alguém o fizer, ele irá aparecer aqui.",
   "status.redraft": "Apagar & reescrever",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Remover favorito",
->>>>>>> upstream/master
   "status.reply": "Responder",
   "status.replyAll": "Responder à conversa",
   "status.report": "Denunciar @{name}",
@@ -621,19 +583,11 @@
   "upload_button.label": "Adicionar media",
   "upload_error.limit": "Limite máximo do ficheiro a carregar excedido.",
   "upload_error.poll": "Carregamento de ficheiros não é permitido em votações.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Descrição da imagem para pessoas com dificuldades visuais",
-  "upload_form.edit": "Editar",
-  "upload_form.undo": "Apagar",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Descreva para pessoas com diminuição da acuidade auditiva",
   "upload_form.description": "Descrição da imagem para pessoas com dificuldades visuais",
   "upload_form.edit": "Editar",
   "upload_form.undo": "Apagar",
   "upload_form.video_description": "Descreva para pessoas com diminuição da acuidade auditiva ou visual",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "A analizar imagem…",
   "upload_modal.apply": "Aplicar",
   "upload_modal.description_placeholder": "Grave e cabisbaixo, o filho justo zelava pela querida mãe doente",
@@ -643,11 +597,7 @@
   "upload_modal.preview_label": "Pré-visualizar ({ratio})",
   "upload_progress.label": "A enviar...",
   "video.close": "Fechar vídeo",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Descarregar ficheiro",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Sair de full screen",
   "video.expand": "Expandir vídeo",
   "video.fullscreen": "Ecrã completo",

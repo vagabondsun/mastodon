@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "Etwas ist beim Laden schiefgelaufen.",
   "bundle_modal_error.retry": "Erneut versuchen",
   "column.blocks": "Blockierte Profile",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Lesezeichen",
->>>>>>> upstream/master
   "column.community": "Lokale Zeitleiste",
   "column.direct": "Direktnachrichten",
   "column.directory": "Profile durchsuchen",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Wahl {number}",
   "compose_form.poll.remove_option": "Wahl entfernen",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Umfrage ändern, um mehrere Optionen zu erlauben",
   "compose_form.poll.switch_to_single": "Umfrage ändern, um eine einzige Wahl zu ermöglichen",
->>>>>>> upstream/master
   "compose_form.publish": "Tröt",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Medien als heikel markieren",
@@ -189,11 +181,6 @@
   "empty_column.account_timeline": "Keine Beiträge!",
   "empty_column.account_unavailable": "Konto nicht verfügbar",
   "empty_column.blocks": "Du hast keine Profile blockiert.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
-  "empty_column.bookmarked_statuses": "Du hast bis jetzt keine Beiträge als Toots gespeichert. Wenn du einen Beitrag als Toot speicherst, wird er hier erscheinen.",
->>>>>>> upstream/master
   "empty_column.community": "Die lokale Zeitleiste ist leer. Schreibe einen öffentlichen Beitrag, um den Ball ins Rollen zu bringen!",
   "empty_column.direct": "Du hast noch keine Direktnachrichten erhalten. Wenn du eine sendest oder empfängst, wird sie hier zu sehen sein.",
   "empty_column.domain_blocks": "Es ist noch keine versteckten Domains.",
@@ -240,12 +227,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Geteilte Beiträge anzeigen",
   "home.column_settings.show_replies": "Antworten anzeigen",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Verstecke Ankündigungen",
   "home.show_announcements": "Zeige Ankündigungen",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# Tag} other {# Tage}}",
   "intervals.full.hours": "{number, plural, one {# Stunde} other {# Stunden}}",
   "intervals.full.minutes": "{number, plural, one {# Minute} other {# Minuten}}",
@@ -288,11 +271,7 @@
   "keyboard_shortcuts.muted": "Liste stummgeschalteter Profile öffnen",
   "keyboard_shortcuts.my_profile": "Dein Profil öffnen",
   "keyboard_shortcuts.notifications": "Benachrichtigungsspalte öffnen",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "um Medien zu öffnen",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "Liste angehefteter Beiträge öffnen",
   "keyboard_shortcuts.profile": "Profil des Autors öffnen",
   "keyboard_shortcuts.reply": "antworten",
@@ -339,11 +318,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Mobile Apps",
   "navigation_bar.blocks": "Blockierte Profile",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Lesezeichen",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Lokale Zeitleiste",
   "navigation_bar.compose": "Neuen Beitrag verfassen",
   "navigation_bar.direct": "Direktnachrichten",
@@ -368,15 +343,9 @@
   "navigation_bar.security": "Sicherheit",
   "notification.favourite": "{name} hat deinen Beitrag favorisiert",
   "notification.follow": "{name} folgt dir",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} hat dich erwähnt",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} möchte dir folgen",
   "notification.mention": "{name} hat dich erwähnt",
   "notification.own_poll": "Deine Umfrage ist beendet",
->>>>>>> upstream/master
   "notification.poll": "Eine Umfrage in der du abgestimmt hast ist vorbei",
   "notification.reblog": "{name} hat deinen Beitrag geteilt",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +512,7 @@
   "status.admin_account": "Öffne Moderationsoberfläche für @{name}",
   "status.admin_status": "Öffne Beitrag in der Moderationsoberfläche",
   "status.block": "Blockiere @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Lesezeichen",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Nicht mehr teilen",
   "status.cannot_reblog": "Dieser Beitrag kann nicht geteilt werden",
   "status.collapse": "Collapse",
@@ -581,11 +546,7 @@
   "status.reblogged_by": "{name} teilte",
   "status.reblogs.empty": "Diesen Beitrag hat noch niemand geteilt. Sobald es jemand tut, wird diese Person hier angezeigt.",
   "status.redraft": "Löschen und neu erstellen",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Lesezeichen entfernen",
->>>>>>> upstream/master
   "status.reply": "Antworten",
   "status.replyAll": "Allen antworten",
   "status.report": "@{name} melden",
@@ -621,19 +582,11 @@
   "upload_button.label": "Mediendatei hinzufügen ({formats})",
   "upload_error.limit": "Dateiupload-Limit erreicht.",
   "upload_error.poll": "Dateiuploads sind in Kombination mit Umfragen nicht erlaubt.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Für Menschen mit Sehbehinderung beschreiben",
-  "upload_form.edit": "Bearbeiten",
-  "upload_form.undo": "Löschen",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Beschreibe die Audiodatei für Menschen mit Hörschädigungen",
   "upload_form.description": "Für Menschen mit Sehbehinderung beschreiben",
   "upload_form.edit": "Bearbeiten",
   "upload_form.undo": "Löschen",
   "upload_form.video_description": "Beschreibe das Video für Menschen mit einer Hör- oder Sehbehinderung",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analysiere Bild…",
   "upload_modal.apply": "Übernehmen",
   "upload_modal.description_placeholder": "Die heiße Zypernsonne quälte Max und Victoria ja böse auf dem Weg bis zur Küste",
@@ -643,11 +596,7 @@
   "upload_modal.preview_label": "Vorschau ({ratio})",
   "upload_progress.label": "Wird hochgeladen …",
   "video.close": "Video schließen",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Datei herunterladen",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Vollbild verlassen",
   "video.expand": "Video vergrößern",
   "video.fullscreen": "Vollbild",

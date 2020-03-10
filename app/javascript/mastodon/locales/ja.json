@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "コンポーネントの読み込み中に問題が発生しました。",
   "bundle_modal_error.retry": "再試行",
   "column.blocks": "ブロックしたユーザー",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "ブックマーク",
->>>>>>> upstream/master
   "column.community": "ローカルタイムライン",
   "column.direct": "ダイレクトメッセージ",
   "column.directory": "ディレクトリ",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "項目 {number}",
   "compose_form.poll.remove_option": "この項目を削除",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "複数選択に変更",
   "compose_form.poll.switch_to_single": "単一選択に変更",
->>>>>>> upstream/master
   "compose_form.publish": "トゥート",
   "compose_form.publish_loud": "{publish}！",
   "compose_form.sensitive.hide": "メディアを閲覧注意にする",
@@ -189,11 +181,7 @@
   "empty_column.account_timeline": "トゥートがありません！",
   "empty_column.account_unavailable": "プロフィールは利用できません",
   "empty_column.blocks": "まだ誰もブロックしていません。",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "まだ何もブックマーク登録していません。ブックマーク登録するとここに表示されます。",
->>>>>>> upstream/master
   "empty_column.community": "ローカルタイムラインはまだ使われていません。何か書いてみましょう！",
   "empty_column.direct": "ダイレクトメッセージはまだありません。ダイレクトメッセージをやりとりすると、ここに表示されます。",
   "empty_column.domain_blocks": "非表示にしているドメインはありません。",
@@ -240,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "ブースト表示",
   "home.column_settings.show_replies": "返信表示",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "お知らせを隠す",
   "home.show_announcements": "お知らせを表示",
->>>>>>> upstream/master
   "intervals.full.days": "{number}日",
   "intervals.full.hours": "{number}時間",
   "intervals.full.minutes": "{number}分",
@@ -288,11 +272,7 @@
   "keyboard_shortcuts.muted": "ミュートしたユーザーのリストを開く",
   "keyboard_shortcuts.my_profile": "自分のプロフィールを開く",
   "keyboard_shortcuts.notifications": "通知カラムを開く",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "メディアを開く",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "固定したトゥートのリストを開く",
   "keyboard_shortcuts.profile": "プロフィールを開く",
   "keyboard_shortcuts.reply": "返信",
@@ -339,11 +319,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "アプリ",
   "navigation_bar.blocks": "ブロックしたユーザー",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "ブックマーク",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "ローカルタイムライン",
   "navigation_bar.compose": "トゥートの新規作成",
   "navigation_bar.direct": "ダイレクトメッセージ",
@@ -368,15 +344,9 @@
   "navigation_bar.security": "セキュリティ",
   "notification.favourite": "{name}さんがあなたのトゥートをお気に入りに登録しました",
   "notification.follow": "{name}さんにフォローされました",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name}さんがあなたに返信しました",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} さんがあなたにフォローリクエストしました",
   "notification.mention": "{name}さんがあなたに返信しました",
   "notification.own_poll": "アンケートが終了しました",
->>>>>>> upstream/master
   "notification.poll": "アンケートが終了しました",
   "notification.reblog": "{name}さんがあなたのトゥートをブーストしました",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +513,7 @@
   "status.admin_account": "@{name} のモデレーション画面を開く",
   "status.admin_status": "このトゥートをモデレーション画面で開く",
   "status.block": "@{name}さんをブロック",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "ブックマーク",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "ブースト解除",
   "status.cannot_reblog": "この投稿はブーストできません",
   "status.collapse": "Collapse",
@@ -581,11 +547,7 @@
   "status.reblogged_by": "{name}さんがブースト",
   "status.reblogs.empty": "まだ誰もブーストしていません。ブーストされるとここに表示されます。",
   "status.redraft": "削除して下書きに戻す",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "ブックマークを削除",
->>>>>>> upstream/master
   "status.reply": "返信",
   "status.replyAll": "全員に返信",
   "status.report": "@{name}さんを通報",
@@ -621,19 +583,11 @@
   "upload_button.label": "メディアを追加 ({formats})",
   "upload_error.limit": "アップロードできる上限を超えています。",
   "upload_error.poll": "アンケートではファイルをアップロードできません。",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "視覚障害者のための説明",
-  "upload_form.edit": "編集",
-  "upload_form.undo": "削除",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "聴取が難しいユーザーへの説明",
   "upload_form.description": "閲覧が難しいユーザーへの説明",
   "upload_form.edit": "編集",
   "upload_form.undo": "削除",
   "upload_form.video_description": "視聴が難しいユーザーへの説明",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "画像を解析中…",
   "upload_modal.apply": "適用",
   "upload_modal.description_placeholder": "あのイーハトーヴォのすきとおった風",
@@ -643,11 +597,7 @@
   "upload_modal.preview_label": "プレビュー ({ratio})",
   "upload_progress.label": "アップロード中...",
   "video.close": "動画を閉じる",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "ダウンロード",
->>>>>>> upstream/master
   "video.exit_fullscreen": "全画面を終了する",
   "video.expand": "動画を拡大する",
   "video.fullscreen": "全画面",

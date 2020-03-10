@@ -6,12 +6,7 @@
   "account.block_domain": "Verberg alles van {domain}",
   "account.blocked": "Geblokkeerd",
   "account.cancel_follow_request": "Volgverzoek annuleren",
-<<<<<<< HEAD
-  "account.direct": "Direct Message @{name}",
-  "account.disclaimer_full": "Information below may reflect the user's profile incompletely.",
-=======
   "account.direct": "Direct bericht @{name}",
->>>>>>> upstream/master
   "account.domain_blocked": "Domein verborgen",
   "account.edit_profile": "Profiel bewerken",
   "account.endorse": "Op profiel weergeven",
@@ -67,11 +62,7 @@
   "bundle_modal_error.message": "Tijdens het laden van dit onderdeel is er iets fout gegaan.",
   "bundle_modal_error.retry": "Opnieuw proberen",
   "column.blocks": "Geblokkeerde gebruikers",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Bladwijzers",
->>>>>>> upstream/master
   "column.community": "Lokale tijdlijn",
   "column.direct": "Directe berichten",
   "column.directory": "Gebruikersgids",
@@ -101,17 +92,7 @@
   "column_subheading.navigation": "Navigation",
   "column_subheading.settings": "Instellingen",
   "community.column_settings.media_only": "Alleen media",
-<<<<<<< HEAD
-  "compose.attach": "Attach...",
-  "compose.attach.doodle": "Draw something",
-  "compose.attach.upload": "Upload a file",
-  "compose.content-type.html": "HTML",
-  "compose.content-type.markdown": "Markdown",
-  "compose.content-type.plain": "Plain text",
-  "compose_form.direct_message_warning": "Deze toot wordt alleen naar vermelde gebruikers verstuurd. Echter, de beheerders en moderatoren van jouw en de ontvangende Mastodonserver(s) kunnen dit bericht mogelijk wel bekijken.",
-=======
   "compose_form.direct_message_warning": "Deze toot wordt alleen naar vermelde gebruikers verstuurd. Echter, de beheerders en moderatoren van jouw en de ontvangende server(s) kunnen dit bericht mogelijk wel bekijken.",
->>>>>>> upstream/master
   "compose_form.direct_message_warning_learn_more": "Meer leren",
   "compose_form.hashtag_warning": "Deze toot valt niet onder een hashtag te bekijken, omdat deze niet op openbare tijdlijnen wordt getoond. Alleen openbare toots kunnen via hashtags gevonden worden.",
   "compose_form.lock_disclaimer": "Jouw account is niet {locked}. Iedereen kan jou volgen en kan de toots zien die je alleen aan jouw volgers hebt gericht.",
@@ -122,12 +103,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Keuze {number}",
   "compose_form.poll.remove_option": "Deze keuze verwijderen",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Poll wijzigen om meerdere keuzes toe te staan",
   "compose_form.poll.switch_to_single": "Poll wijzigen om een enkele keuze toe te staan",
->>>>>>> upstream/master
   "compose_form.publish": "Toot",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Media als gevoelig markeren",
@@ -197,11 +174,7 @@
   "empty_column.account_timeline": "Hier zijn geen toots!",
   "empty_column.account_unavailable": "Profiel is niet beschikbaar",
   "empty_column.blocks": "Jij hebt nog geen enkele gebruiker geblokkeerd.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Jij hebt nog geen toots aan je bladwijzers toegevoegd. Wanneer je er een aan jouw bladwijzers toevoegt, valt deze hier te zien.",
->>>>>>> upstream/master
   "empty_column.community": "De lokale tijdlijn is nog leeg. Toot iets in het openbaar om de bal aan het rollen te krijgen!",
   "empty_column.direct": "Je hebt nog geen directe berichten. Wanneer je er een verzend of ontvangt, zijn deze hier te zien.",
   "empty_column.domain_blocks": "Er zijn nog geen genegeerde servers.",
@@ -248,12 +221,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Boosts tonen",
   "home.column_settings.show_replies": "Reacties tonen",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Mededelingen verbergen",
   "home.show_announcements": "Mededelingen tonen",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# dag} other {# dagen}}",
   "intervals.full.hours": "{number, plural, one {# uur} other {# uur}}",
   "intervals.full.minutes": "{number, plural, one {# minuut} other {# minuten}}",
@@ -296,11 +265,7 @@
   "keyboard_shortcuts.muted": "om de door jou genegeerde gebruikers te tonen",
   "keyboard_shortcuts.my_profile": "om jouw profiel te tonen",
   "keyboard_shortcuts.notifications": "om jouw meldingen te tonen",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "om media te openen",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "om jouw vastgezette toots te tonen",
   "keyboard_shortcuts.profile": "om het gebruikersprofiel te openen",
   "keyboard_shortcuts.reply": "om te reageren",
@@ -347,11 +312,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Mobiele apps",
   "navigation_bar.blocks": "Geblokkeerde gebruikers",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Bladwijzers",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Lokale tijdlijn",
   "navigation_bar.compose": "Nieuw toot schrijven",
   "navigation_bar.direct": "Directe berichten",
@@ -376,15 +337,9 @@
   "navigation_bar.security": "Beveiliging",
   "notification.favourite": "{name} voegde jouw toot als favoriet toe",
   "notification.follow": "{name} volgt jou nu",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} vermeldde jou",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} wil jou graag volgen",
   "notification.mention": "{name} vermeldde jou",
   "notification.own_poll": "Jouw poll is beëindigd",
->>>>>>> upstream/master
   "notification.poll": "Een poll waaraan jij hebt meegedaan is beëindigd",
   "notification.reblog": "{name} boostte jouw toot",
   "notification_purge.btn_all": "Select\nall",
@@ -551,11 +506,7 @@
   "status.admin_account": "Moderatie-omgeving van @{name} openen",
   "status.admin_status": "Deze toot in de moderatie-omgeving openen",
   "status.block": "Blokkeer @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Bladwijzer toevoegen",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Niet langer boosten",
   "status.cannot_reblog": "Deze toot kan niet geboost worden",
   "status.collapse": "Collapse",
@@ -589,11 +540,7 @@
   "status.reblogged_by": "{name} boostte",
   "status.reblogs.empty": "Niemand heeft deze toot nog geboost. Wanneer iemand dit doet, valt dat hier te zien.",
   "status.redraft": "Verwijderen en herschrijven",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Bladwijzer verwijderen",
->>>>>>> upstream/master
   "status.reply": "Reageren",
   "status.replyAll": "Reageer op iedereen",
   "status.report": "Rapporteer @{name}",
@@ -629,19 +576,11 @@
   "upload_button.label": "Media toevoegen ({formats})",
   "upload_error.limit": "Uploadlimiet van bestand overschreden.",
   "upload_error.poll": "Het uploaden van bestanden is in polls niet toegestaan.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Omschrijf dit voor mensen met een visuele beperking",
-  "upload_form.edit": "Bewerken",
-  "upload_form.undo": "Verwijderen",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Omschrijf dit voor mensen met een auditieve beperking",
   "upload_form.description": "Omschrijf dit voor mensen met een visuele beperking",
   "upload_form.edit": "Bewerken",
   "upload_form.undo": "Verwijderen",
   "upload_form.video_description": "Omschrijf dit voor mensen met een auditieve of visuele beperking",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Afbeelding analyseren…",
   "upload_modal.apply": "Toepassen",
   "upload_modal.description_placeholder": "A quick brown fox jumps over the lazy dog",
@@ -651,11 +590,7 @@
   "upload_modal.preview_label": "Voorvertoning ({ratio})",
   "upload_progress.label": "Uploaden...",
   "video.close": "Video sluiten",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Bestand downloaden",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Volledig scherm sluiten",
   "video.expand": "Video groter maken",
   "video.fullscreen": "Volledig scherm",

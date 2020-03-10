@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "Hiba történt a komponens betöltésekor.",
   "bundle_modal_error.retry": "Próbáld újra",
   "column.blocks": "Letiltott felhasználók",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Könyvjelzők",
->>>>>>> upstream/master
   "column.community": "Helyi idővonal",
   "column.direct": "Közvetlen üzenetek",
   "column.directory": "Profilok böngészése",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "{number}. lehetőség",
   "compose_form.poll.remove_option": "Lehetőség törlése",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Szavazás megváltoztatása több választásosra",
   "compose_form.poll.switch_to_single": "Szavazás megváltoztatása egyetlen választásosra",
->>>>>>> upstream/master
   "compose_form.publish": "Tülk",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Média megjelölése szenzitívként",
@@ -189,11 +181,7 @@
   "empty_column.account_timeline": "Itt nincs tülkölés!",
   "empty_column.account_unavailable": "A profil nem érhető el",
   "empty_column.blocks": "Még senkit sem tiltottál le.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Még nincs egyetlen könyvjelzőzött tülköd sem. Ha könyvjelzőzöl egyet, itt fog megjelenni.",
->>>>>>> upstream/master
   "empty_column.community": "A helyi idővonal üres. Tülkölj egyet nyilvánosan, hogy elindítsd az eseményeket!",
   "empty_column.direct": "Még nincs egy közvetlen üzeneted sem. Ha küldesz vagy kapsz egyet, itt fog megjelenni.",
   "empty_column.domain_blocks": "Még nem rejtettél el egyetlen domaint sem.",
@@ -240,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Megtolások mutatása",
   "home.column_settings.show_replies": "Válaszok mutatása",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Közlemények elrejtése",
   "home.show_announcements": "Közlemények mutatása",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# nap} other {# nap}}",
   "intervals.full.hours": "{number, plural, one {# óra} other {# óra}}",
   "intervals.full.minutes": "{number, plural, one {# perc} other {# perc}}",
@@ -288,11 +272,7 @@
   "keyboard_shortcuts.muted": "némított felhasználók listájának megnyitása",
   "keyboard_shortcuts.my_profile": "profilod megnyitása",
   "keyboard_shortcuts.notifications": "értesítések megnyitása",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "média megnyitása",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "kitűzött tülkök listájának megnyitása",
   "keyboard_shortcuts.profile": "szerző profiljának megnyitása",
   "keyboard_shortcuts.reply": "válasz",
@@ -339,11 +319,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Mobil appok",
   "navigation_bar.blocks": "Letiltott felhasználók",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Könyvjelzők",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Helyi idővonal",
   "navigation_bar.compose": "Új tülk írása",
   "navigation_bar.direct": "Közvetlen üzenetek",
@@ -368,15 +344,9 @@
   "navigation_bar.security": "Biztonság",
   "notification.favourite": "{name} kedvencnek jelölte egy tülködet",
   "notification.follow": "{name} követ téged",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} megemlített",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} követni szeretne téged",
   "notification.mention": "{name} megemlített",
   "notification.own_poll": "A szavazásod véget ért",
->>>>>>> upstream/master
   "notification.poll": "Egy szavazás, melyben részt vettél, véget ért",
   "notification.reblog": "{name} megtolta a tülködet",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +513,7 @@
   "status.admin_account": "Moderáció megnyitása @{name} felhasználóhoz",
   "status.admin_status": "Tülk megnyitása moderációra",
   "status.block": "@{name} letiltása",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Könyvjelzőzés",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Megtolás törlése",
   "status.cannot_reblog": "Ez a tülk nem tolható meg",
   "status.collapse": "Collapse",
@@ -581,11 +547,7 @@
   "status.reblogged_by": "{name} megtolta",
   "status.reblogs.empty": "Senki sem tolta még meg ezt a tülköt. Ha valaki megteszi, itt fog megjelenni.",
   "status.redraft": "Törlés és újraírás",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Könyvjelző eltávolítása",
->>>>>>> upstream/master
   "status.reply": "Válasz",
   "status.replyAll": "Válasz a beszélgetésre",
   "status.report": "@{name} jelentése",
@@ -621,19 +583,11 @@
   "upload_button.label": "Média hozzáadása ({formats})",
   "upload_error.limit": "Túllépted a fájlfeltöltési korlátot.",
   "upload_error.poll": "Szavazásnál nem lehet fájlt feltölteni.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Leírás látáskorlátozottak számára",
-  "upload_form.edit": "Szerkesztés",
-  "upload_form.undo": "Mégsem",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Írja le a hallássérültek számára",
   "upload_form.description": "Leírás látáskorlátozottak számára",
   "upload_form.edit": "Szerkesztés",
   "upload_form.undo": "Mégsem",
   "upload_form.video_description": "Írja le a hallás- vagy látássérültek számára",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Kép elemzése…",
   "upload_modal.apply": "Alkalmaz",
   "upload_modal.description_placeholder": "A gyors, barna róka átugrik a lusta kutya fölött",
@@ -643,11 +597,7 @@
   "upload_modal.preview_label": "Előnézet ({ratio})",
   "upload_progress.label": "Feltöltés...",
   "video.close": "Videó bezárása",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Fájl letöltése",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Kilépés teljes képernyőből",
   "video.expand": "Videó nagyítása",
   "video.fullscreen": "Teljes képernyő",

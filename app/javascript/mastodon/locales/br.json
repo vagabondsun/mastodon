@@ -40,30 +40,13 @@
   "account.unfollow": "Diheuliañ",
   "account.unmute": "Diguzhat @{name}",
   "account.unmute_notifications": "Diguzhat kemennoù a @{name}",
-<<<<<<< HEAD
-  "account.view_full_profile": "View full profile",
-  "advanced_options.icon_title": "Advanced options",
-  "advanced_options.local-only.long": "Do not post to other instances",
-  "advanced_options.local-only.short": "Local-only",
-  "advanced_options.local-only.tooltip": "This post is local-only",
-  "advanced_options.threaded_mode.long": "Automatically opens a reply on posting",
-  "advanced_options.threaded_mode.short": "Threaded mode",
-  "advanced_options.threaded_mode.tooltip": "Threaded mode enabled",
-  "alert.rate_limited.message": "Please retry after {retry_time, time, medium}.",
-=======
   "alert.rate_limited.message": "Klaskit en-dro a-benn {retry_time, time, medium}.",
->>>>>>> upstream/master
   "alert.rate_limited.title": "Rate limited",
   "alert.unexpected.message": "Ur fazi dic'hortozet zo degouezhet.",
   "alert.unexpected.title": "C'hem !",
   "announcement.announcement": "Kemenn",
   "autosuggest_hashtag.per_week": "{count} bep sizhun",
-<<<<<<< HEAD
-  "boost_modal.combo": "You can press {combo} to skip this next time",
-  "boost_modal.missing_description": "This toot contains some media without description",
-=======
   "boost_modal.combo": "Ar wezh kentañ e c'halliot gwaskañ war {combo} evit tremen hebiou",
->>>>>>> upstream/master
   "bundle_column_error.body": "Something went wrong while loading this component.",
   "bundle_column_error.retry": "Klask endro",
   "bundle_column_error.title": "Fazi rouedad",
@@ -71,50 +54,11 @@
   "bundle_modal_error.message": "Something went wrong while loading this component.",
   "bundle_modal_error.retry": "Klask endro",
   "column.blocks": "Implijour·ezed·ion stanket",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Sinedoù",
->>>>>>> upstream/master
   "column.community": "Red-amzer lec'hel",
   "column.direct": "Kemennadoù prevez",
   "column.directory": "Mont a-dreuz ar profiloù",
   "column.domain_blocks": "Domani kuzhet",
-<<<<<<< HEAD
-  "column.favourited_by": "Favourited by",
-  "column.favourites": "Favourites",
-  "column.follow_requests": "Follow requests",
-  "column.heading": "Misc",
-  "column.home": "Home",
-  "column.lists": "Lists",
-  "column.mutes": "Muted users",
-  "column.notifications": "Notifications",
-  "column.pins": "Pinned toot",
-  "column.public": "Federated timeline",
-  "column.reblogged_by": "Boosted by",
-  "column.subheading": "Miscellaneous options",
-  "column.toot": "Toots and replies",
-  "column_back_button.label": "Back",
-  "column_header.hide_settings": "Hide settings",
-  "column_header.moveLeft_settings": "Move column to the left",
-  "column_header.moveRight_settings": "Move column to the right",
-  "column_header.pin": "Pin",
-  "column_header.profile": "Profile",
-  "column_header.show_settings": "Show settings",
-  "column_header.unpin": "Unpin",
-  "column_subheading.lists": "Lists",
-  "column_subheading.navigation": "Navigation",
-  "column_subheading.settings": "Settings",
-  "community.column_settings.media_only": "Media only",
-  "compose.attach": "Attach...",
-  "compose.attach.doodle": "Draw something",
-  "compose.attach.upload": "Upload a file",
-  "compose.content-type.html": "HTML",
-  "compose.content-type.markdown": "Markdown",
-  "compose.content-type.plain": "Plain text",
-  "compose_form.direct_message_warning": "This toot will only be sent to all the mentioned users.",
-  "compose_form.direct_message_warning_learn_more": "Learn more",
-=======
   "column.favourites": "Ar re vuiañ-karet",
   "column.follow_requests": "Pedadoù heuliañ",
   "column.home": "Degemer",
@@ -134,28 +78,18 @@
   "community.column_settings.media_only": "Nemet Mediaoù",
   "compose_form.direct_message_warning": "An toud-mañ a vo kaset nemet d'an implijer·ion·ezed meneget.",
   "compose_form.direct_message_warning_learn_more": "Gouiet hiroc'h",
->>>>>>> upstream/master
   "compose_form.hashtag_warning": "This toot won't be listed under any hashtag as it is unlisted. Only public toots can be searched by hashtag.",
   "compose_form.lock_disclaimer": "Your account is not {locked}. Anyone can follow you to view your follower-only posts.",
   "compose_form.lock_disclaimer.lock": "prennet",
   "compose_form.placeholder": "Petra eh oc'h é soñjal a-barzh ?",
   "compose_form.poll.add_option": "Ouzhpenniñ un dibab",
   "compose_form.poll.duration": "Poll duration",
-<<<<<<< HEAD
-  "compose_form.poll.multiple_choices": "Allow multiple choices",
-  "compose_form.poll.option_placeholder": "Choice {number}",
-  "compose_form.poll.remove_option": "Remove this choice",
-  "compose_form.poll.single_choice": "Allow one choice",
-  "compose_form.publish": "Toot",
-  "compose_form.publish_loud": "{publish}!",
-=======
   "compose_form.poll.option_placeholder": "Dibab {number}",
   "compose_form.poll.remove_option": "Lemel an dibab-mañ",
   "compose_form.poll.switch_to_multiple": "Change poll to allow multiple choices",
   "compose_form.poll.switch_to_single": "Change poll to allow for a single choice",
   "compose_form.publish": "Toudañ",
   "compose_form.publish_loud": "{publish} !",
->>>>>>> upstream/master
   "compose_form.sensitive.hide": "Mark media as sensitive",
   "compose_form.sensitive.marked": "Media is marked as sensitive",
   "compose_form.sensitive.unmarked": "Media is not marked as sensitive",
@@ -163,12 +97,7 @@
   "compose_form.spoiler.marked": "Text is hidden behind warning",
   "compose_form.spoiler.unmarked": "N'eo ket kuzhet an destenn",
   "compose_form.spoiler_placeholder": "Write your warning here",
-<<<<<<< HEAD
-  "confirmation_modal.cancel": "Cancel",
-  "confirmation_modal.do_not_ask_again": "Do not ask for confirmation again",
-=======
   "confirmation_modal.cancel": "Nullañ",
->>>>>>> upstream/master
   "confirmations.block.block_and_report": "Block & Report",
   "confirmations.block.confirm": "Block",
   "confirmations.block.message": "Are you sure you want to block {name}?",
@@ -180,30 +109,14 @@
   "confirmations.domain_block.message": "Are you really, really sure you want to block the entire {domain}? In most cases a few targeted blocks or mutes are sufficient and preferable. You will not see content from that domain in any public timelines or your notifications. Your followers from that domain will be removed.",
   "confirmations.logout.confirm": "Digevreañ",
   "confirmations.logout.message": "Are you sure you want to log out?",
-<<<<<<< HEAD
-  "confirmations.missing_media_description.confirm": "Send anyway",
-  "confirmations.missing_media_description.edit": "Edit media",
-  "confirmations.missing_media_description.message": "At least one media attachment is lacking a description. Consider describing all media attachments for the visually impaired before sending your toot.",
-  "confirmations.mute.confirm": "Mute",
-=======
   "confirmations.mute.confirm": "Kuzhat",
->>>>>>> upstream/master
   "confirmations.mute.explanation": "This will hide posts from them and posts mentioning them, but it will still allow them to see your posts and follow you.",
   "confirmations.mute.message": "Ha sur oc'h e fell deoc'h kuzhaat {name} ?",
   "confirmations.redraft.confirm": "Diverkañ ha skrivañ en-dro",
   "confirmations.redraft.message": "Are you sure you want to delete this status and re-draft it? Favourites and boosts will be lost, and replies to the original post will be orphaned.",
   "confirmations.reply.confirm": "Respont",
   "confirmations.reply.message": "Replying now will overwrite the message you are currently composing. Are you sure you want to proceed?",
-<<<<<<< HEAD
-  "confirmations.unfilter": "Information about this filtered toot",
-  "confirmations.unfilter.author": "Author",
-  "confirmations.unfilter.confirm": "Show",
-  "confirmations.unfilter.edit_filter": "Edit filter",
-  "confirmations.unfilter.filters": "Matching {count, plural, one {filter} other {filters}}",
-  "confirmations.unfollow.confirm": "Unfollow",
-=======
   "confirmations.unfollow.confirm": "Diheuliañ",
->>>>>>> upstream/master
   "confirmations.unfollow.message": "Are you sure you want to unfollow {name}?",
   "content-type.change": "Content type",
   "conversation.delete": "Delete conversation",
@@ -282,12 +195,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Show boosts",
   "home.column_settings.show_replies": "Show replies",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Hide announcements",
   "home.show_announcements": "Show announcements",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# day} other {# days}}",
   "intervals.full.hours": "{number, plural, one {# hour} other {# hours}}",
   "intervals.full.minutes": "{number, plural, one {# minute} other {# minutes}}",
@@ -368,12 +277,7 @@
   "lists.subheading": "Your lists",
   "load_pending": "{count, plural, one {# new item} other {# new items}}",
   "loading_indicator.label": "Loading...",
-<<<<<<< HEAD
-  "media_gallery.sensitive": "Sensitive",
-  "media_gallery.toggle_visible": "Toggle visibility",
-=======
   "media_gallery.toggle_visible": "Hide media",
->>>>>>> upstream/master
   "missing_indicator.label": "Not found",
   "missing_indicator.sublabel": "This resource could not be found",
   "moved_to_warning": "This account is marked as moved to {moved_to_link}, and may thus not accept new follows.",
@@ -406,11 +310,7 @@
   "navigation_bar.security": "Security",
   "notification.favourite": "{name} favourited your status",
   "notification.follow": "{name} followed you",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-=======
   "notification.follow_request": "{name} has requested to follow you",
->>>>>>> upstream/master
   "notification.mention": "{name} mentioned you",
   "notification.own_poll": "Your poll has ended",
   "notification.poll": "A poll you have voted in has ended",

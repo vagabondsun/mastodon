@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "Aeth rhywbeth o'i le tra'n llwytho'r elfen hon.",
   "bundle_modal_error.retry": "Ceiswich eto",
   "column.blocks": "Defnyddwyr a flociwyd",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Tudalnodau",
->>>>>>> upstream/master
   "column.community": "Ffrwd lleol",
   "column.direct": "Negeseuon preifat",
   "column.directory": "Pori proffiliau",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Dewisiad {number}",
   "compose_form.poll.remove_option": "Tynnu'r dewisiad",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Newid pleidlais i adael mwy nag un dewis",
   "compose_form.poll.switch_to_single": "Newid pleidlais i gyfyngu i un dewis",
->>>>>>> upstream/master
   "compose_form.publish": "Tŵt",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Marcio cyfryngau fel eu bod yn sensitif",
@@ -189,11 +181,7 @@
   "empty_column.account_timeline": "Dim tŵtiau fama!",
   "empty_column.account_unavailable": "Proffil ddim ar gael",
   "empty_column.blocks": "Nid ydych wedi blocio unrhyw ddefnyddwyr eto.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Nid oes gennych unrhyw dwtiau tudalnodiedig eto. Pan y byddwch yn tudalnodi un, mi fydd yn ymddangos yma.",
->>>>>>> upstream/master
   "empty_column.community": "Mae'r ffrwd lleol yn wag. Ysgrifenwch rhywbeth yn gyhoeddus i gael dechrau arni!",
   "empty_column.direct": "Nid oes gennych unrhyw negeseuon preifat eto. Pan y byddwch yn anfon neu derbyn un, mi fydd yn ymddangos yma.",
   "empty_column.domain_blocks": "Nid oes yna unrhyw barthau cuddiedig eto.",
@@ -240,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Dangos bŵstiau",
   "home.column_settings.show_replies": "Dangos ymatebion",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Cuddio cyhoeddiadau",
   "home.show_announcements": "Dangos cyhoeddiadau",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# ddydd} other {# o ddyddiau}}",
   "intervals.full.hours": "{number, plural, one {# awr} other {# o oriau}}",
   "intervals.full.minutes": "{number, plural, one {# funud} other {# o funudau}}",
@@ -288,11 +272,7 @@
   "keyboard_shortcuts.muted": "i agor rhestr defnyddwyr a dawelwyd",
   "keyboard_shortcuts.my_profile": "i agor eich proffil",
   "keyboard_shortcuts.notifications": "i agor colofn hysbysiadau",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "i agor cyfryngau",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "i agor rhestr tŵtiau wedi'i pinio",
   "keyboard_shortcuts.profile": "i agor proffil yr awdur",
   "keyboard_shortcuts.reply": "i ateb",
@@ -339,11 +319,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Apiau symudol",
   "navigation_bar.blocks": "Defnyddwyr wedi eu blocio",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Tudalnodau",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Ffrwd leol",
   "navigation_bar.compose": "Cyfansoddi tŵt newydd",
   "navigation_bar.direct": "Negeseuon preifat",
@@ -368,15 +344,9 @@
   "navigation_bar.security": "Diogelwch",
   "notification.favourite": "hoffodd {name} eich tŵt",
   "notification.follow": "dilynodd {name} chi",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "Soniodd {name} amdanoch chi",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "Mae {name} wedi gwneud cais i'ch dilyn",
   "notification.mention": "Soniodd {name} amdanoch chi",
   "notification.own_poll": "Mae eich pôl wedi diweddu",
->>>>>>> upstream/master
   "notification.poll": "Mae pleidlais rydych wedi pleidleisio ynddi wedi dod i ben",
   "notification.reblog": "Hysbysebodd {name} eich tŵt",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +513,7 @@
   "status.admin_account": "Agor rhyngwyneb goruwchwylio ar gyfer @{name}",
   "status.admin_status": "Agor y tŵt yn y rhyngwyneb goruwchwylio",
   "status.block": "Blocio @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Tudalnodi",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Dadfŵstio",
   "status.cannot_reblog": "Ni ellir sbarduno'r tŵt hwn",
   "status.collapse": "Collapse",
@@ -581,11 +547,7 @@
   "status.reblogged_by": "Bŵstio {name}",
   "status.reblogs.empty": "Does neb wedi bŵstio'r tŵt yma eto. Pan y bydd rhywun yn gwneud, byddent yn ymddangos yma.",
   "status.redraft": "Dileu & ailddrafftio",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Tynnu'r tudalnod",
->>>>>>> upstream/master
   "status.reply": "Ateb",
   "status.replyAll": "Ateb i edefyn",
   "status.report": "Adrodd @{name}",
@@ -621,19 +583,11 @@
   "upload_button.label": "Ychwanegwch gyfryngau (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Wedi mynd heibio'r uchafswm terfyn uwchlwytho.",
   "upload_error.poll": "Nid oes modd uwchlwytho ffeiliau â phleidleisiau.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Disgrifio i'r rheini a nam ar ei golwg",
-  "upload_form.edit": "Golygu",
-  "upload_form.undo": "Dileu",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Disgrifio ar gyfer pobl sydd â cholled clyw",
   "upload_form.description": "Disgrifio i'r rheini a nam ar ei golwg",
   "upload_form.edit": "Golygu",
   "upload_form.undo": "Dileu",
   "upload_form.video_description": "Disgrifio ar gyfer pobl sydd â cholled clyw neu amhariad golwg",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Dadansoddi llun…",
   "upload_modal.apply": "Gweithredu",
   "upload_modal.description_placeholder": "Mae ei phen bach llawn jocs, 'run peth a fy nghot golff, rhai dyddiau",
@@ -643,11 +597,7 @@
   "upload_modal.preview_label": "Rhagolwg ({ratio})",
   "upload_progress.label": "Uwchlwytho...",
   "video.close": "Cau fideo",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Lawrlwytho ffeil",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Gadael sgrîn llawn",
   "video.expand": "Ymestyn fideo",
   "video.fullscreen": "Sgrîn llawn",

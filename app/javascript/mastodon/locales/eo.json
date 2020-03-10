@@ -63,11 +63,7 @@
   "bundle_modal_error.message": "Io misfunkciis en la ŝargado de ĉi tiu elemento.",
   "bundle_modal_error.retry": "Bonvolu reprovi",
   "column.blocks": "Blokitaj uzantoj",
-<<<<<<< HEAD
-  "column.bookmarks": "Bookmarks",
-=======
   "column.bookmarks": "Legosignoj",
->>>>>>> upstream/master
   "column.community": "Loka tempolinio",
   "column.direct": "Rektaj mesaĝoj",
   "column.directory": "Trarigardi profilojn",
@@ -114,12 +110,8 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Elekteblo {number}",
   "compose_form.poll.remove_option": "Forigi ĉi tiu elekteblon",
-<<<<<<< HEAD
-  "compose_form.poll.single_choice": "Allow one choice",
-=======
   "compose_form.poll.switch_to_multiple": "Ŝanĝi la balotenketon por permesi multajn elektojn",
   "compose_form.poll.switch_to_single": "Ŝanĝi la balotenketon por permesi unu solan elekton",
->>>>>>> upstream/master
   "compose_form.publish": "Hup",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Marki la aŭdovidaĵojn kiel tiklaj",
@@ -189,11 +181,7 @@
   "empty_column.account_timeline": "Neniu mesaĝo ĉi tie!",
   "empty_column.account_unavailable": "Profilo ne disponebla",
   "empty_column.blocks": "Vi ankoraŭ ne blokis uzanton.",
-<<<<<<< HEAD
-  "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
-=======
   "empty_column.bookmarked_statuses": "Vi ankoraŭ ne aldonis mesaĝon al viaj legosignoj. Kiam vi aldonos iun, tiu aperos ĉi tie.",
->>>>>>> upstream/master
   "empty_column.community": "La loka tempolinio estas malplena. Skribu ion por plenigi ĝin!",
   "empty_column.direct": "Vi ankoraŭ ne havas rektan mesaĝon. Kiam vi sendos aŭ ricevos iun, ĝi aperos ĉi tie.",
   "empty_column.domain_blocks": "Ankoraŭ neniu domajno estas blokita.",
@@ -240,12 +228,8 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Montri diskonigojn",
   "home.column_settings.show_replies": "Montri respondojn",
-<<<<<<< HEAD
-  "home.settings": "Column settings",
-=======
   "home.hide_announcements": "Kaŝi anoncojn",
   "home.show_announcements": "Montri anoncojn",
->>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# tago} other {# tagoj}}",
   "intervals.full.hours": "{number, plural, one {# horo} other {# horoj}}",
   "intervals.full.minutes": "{number, plural, one {# minuto} other {# minutoj}}",
@@ -288,11 +272,7 @@
   "keyboard_shortcuts.muted": "por malfermi la liston de silentigitaj uzantoj",
   "keyboard_shortcuts.my_profile": "por malfermi vian profilon",
   "keyboard_shortcuts.notifications": "por malfermi la kolumnon de sciigoj",
-<<<<<<< HEAD
-  "keyboard_shortcuts.open_media": "to open media",
-=======
   "keyboard_shortcuts.open_media": "por malfermi aŭdovidaĵon",
->>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "por malfermi la liston de alpinglitaj mesaĝoj",
   "keyboard_shortcuts.profile": "por malfermi la profilon de la aŭtoro",
   "keyboard_shortcuts.reply": "por respondi",
@@ -339,11 +319,7 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Telefonaj aplikaĵoj",
   "navigation_bar.blocks": "Blokitaj uzantoj",
-<<<<<<< HEAD
-  "navigation_bar.bookmarks": "Bookmarks",
-=======
   "navigation_bar.bookmarks": "Legosignoj",
->>>>>>> upstream/master
   "navigation_bar.community_timeline": "Loka tempolinio",
   "navigation_bar.compose": "Skribi novan mesaĝon",
   "navigation_bar.direct": "Rektaj mesaĝoj",
@@ -368,15 +344,9 @@
   "navigation_bar.security": "Sekureco",
   "notification.favourite": "{name} stelumis vian mesaĝon",
   "notification.follow": "{name} eksekvis vin",
-<<<<<<< HEAD
-  "notification.markForDeletion": "Mark for deletion",
-  "notification.mention": "{name} menciis vin",
-  "notification.own_poll": "Your poll has ended",
-=======
   "notification.follow_request": "{name} petis sekvi vin",
   "notification.mention": "{name} menciis vin",
   "notification.own_poll": "Via balotenketo finiĝitis",
->>>>>>> upstream/master
   "notification.poll": "Partoprenita balotenketo finiĝis",
   "notification.reblog": "{name} diskonigis vian mesaĝon",
   "notification_purge.btn_all": "Select\nall",
@@ -543,11 +513,7 @@
   "status.admin_account": "Malfermi la kontrolan interfacon por @{name}",
   "status.admin_status": "Malfermi ĉi tiun mesaĝon en la kontrola interfaco",
   "status.block": "Bloki @{name}",
-<<<<<<< HEAD
-  "status.bookmark": "Bookmark",
-=======
   "status.bookmark": "Aldoni al la legosignoj",
->>>>>>> upstream/master
   "status.cancel_reblog_private": "Ne plu diskonigi",
   "status.cannot_reblog": "Ĉi tiu mesaĝo ne diskonigeblas",
   "status.collapse": "Collapse",
@@ -581,11 +547,7 @@
   "status.reblogged_by": "{name} diskonigis",
   "status.reblogs.empty": "Ankoraŭ neniu diskonigis tiun mesaĝon. Kiam iu faros tion, tiu aperos ĉi tie.",
   "status.redraft": "Forigi kaj reskribi",
-<<<<<<< HEAD
-  "status.remove_bookmark": "Remove bookmark",
-=======
   "status.remove_bookmark": "Forigi legosignon",
->>>>>>> upstream/master
   "status.reply": "Respondi",
   "status.replyAll": "Respondi al la fadeno",
   "status.report": "Signali @{name}",
@@ -621,19 +583,11 @@
   "upload_button.label": "Aldoni aŭdovidaĵon (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Limo de dosiera alŝutado transpasita.",
   "upload_error.poll": "Alŝuto de dosiero ne permesita kun balotenketo.",
-<<<<<<< HEAD
-  "upload_form.audio_description": "Describe for people with hearing loss",
-  "upload_form.description": "Priskribi por misvidantaj homoj",
-  "upload_form.edit": "Redakti",
-  "upload_form.undo": "Forigi",
-  "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
-=======
   "upload_form.audio_description": "Priskribi por homoj kiuj malfacile aŭdi",
   "upload_form.description": "Priskribi por misvidantaj homoj",
   "upload_form.edit": "Redakti",
   "upload_form.undo": "Forigi",
   "upload_form.video_description": "Priskribi por homoj kiuj malfacile aŭdi aŭ vidi",
->>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Bilda analizado…",
   "upload_modal.apply": "Apliki",
   "upload_modal.description_placeholder": "Laŭ Ludoviko Zamenhof bongustas freŝa ĉeĥa manĝaĵo kun spicoj",
@@ -643,11 +597,7 @@
   "upload_modal.preview_label": "Antaŭvido ({ratio})",
   "upload_progress.label": "Alŝutado…",
   "video.close": "Fermi la videon",
-<<<<<<< HEAD
-  "video.download": "Download file",
-=======
   "video.download": "Elŝuti dosieron",
->>>>>>> upstream/master
   "video.exit_fullscreen": "Eksigi plenekrana",
   "video.expand": "Grandigi la videon",
   "video.fullscreen": "Igi plenekrana",
