@@ -1,6 +1,7 @@
 {
-  "account.add_or_remove_from_list": "Gehitu edo Kendu zerrendetatik",
+  "account.add_or_remove_from_list": "Gehitu edo kendu zerrendetatik",
   "account.badges.bot": "Bot-a",
+  "account.badges.group": "Taldea",
   "account.block": "Blokeatu @{name}",
   "account.block_domain": "Ezkutatu {domain} domeinuko guztia",
   "account.blocked": "Blokeatuta",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Abiadura mugatua",
   "alert.unexpected.message": "Ustekabeko errore bat gertatu da.",
   "alert.unexpected.title": "Ene!",
+  "announcement.announcement": "Iragarpena",
   "autosuggest_hashtag.per_week": "{count} asteko",
   "boost_modal.combo": "{combo} sakatu dezakezu hurrengoan hau saltatzeko",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "Zerbait okerra gertatu da osagai hau kargatzean.",
   "bundle_modal_error.retry": "Saiatu berriro",
   "column.blocks": "Blokeatutako erabiltzaileak",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Laster-markak",
+>>>>>>> upstream/master
   "column.community": "Denbora-lerro lokala",
   "column.direct": "Mezu zuzenak",
   "column.directory": "Arakatu profilak",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "{number}. aukera",
   "compose_form.poll.remove_option": "Kendu aukera hau",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Aldatu inkesta hainbat aukera onartzeko",
+  "compose_form.poll.switch_to_single": "Aldatu inkesta aukera bakarra onartzeko",
+>>>>>>> upstream/master
   "compose_form.publish": "Toot",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Markatu multimedia hunkigarri gisa",
@@ -178,7 +189,11 @@
   "empty_column.account_timeline": "Ez dago toot-ik hemen!",
   "empty_column.account_unavailable": "Profila ez dago eskuragarri",
   "empty_column.blocks": "Ez duzu erabiltzailerik blokeatu oraindik.",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "Oraindik ez dituzu toot laster-markatutarik. Bat laster-markatzerakoan, hemen agertuko da.",
+>>>>>>> upstream/master
   "empty_column.community": "Denbora-lerro lokala hutsik dago. Idatzi zerbait publikoki pilota biraka jartzeko!",
   "empty_column.direct": "Ez duzu mezu zuzenik oraindik. Baten bat bidali edo jasotzen duzunean, hemen agertuko da.",
   "empty_column.domain_blocks": "Ez dago ezkutatutako domeinurik oraindik.",
@@ -225,7 +240,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Erakutsi bultzadak",
   "home.column_settings.show_replies": "Erakutsi erantzunak",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Ezkutatu iragarpenak",
+  "home.show_announcements": "Erakutsi iragarpenak",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {egun #} other {# egun}}",
   "intervals.full.hours": "{number, plural, one {ordu #} other {# ordu}}",
   "intervals.full.minutes": "{number, plural, one {minutu #} other {# minutu}}",
@@ -268,7 +288,11 @@
   "keyboard_shortcuts.muted": "mutututako erabiltzaileen zerrenda irekitzeko",
   "keyboard_shortcuts.my_profile": "zure profila irekitzeko",
   "keyboard_shortcuts.notifications": "jakinarazpenen zutabea irekitzeko",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "media zabaltzeko",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "finkatutako toot-en zerrenda irekitzeko",
   "keyboard_shortcuts.profile": "egilearen profila irekitzeko",
   "keyboard_shortcuts.reply": "erantzutea",
@@ -315,7 +339,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Mugikorrerako aplikazioak",
   "navigation_bar.blocks": "Blokeatutako erabiltzaileak",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Laster-markak",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Denbora-lerro lokala",
   "navigation_bar.compose": "Idatzi toot berria",
   "navigation_bar.direct": "Mezu zuzenak",
@@ -340,9 +368,15 @@
   "navigation_bar.security": "Segurtasuna",
   "notification.favourite": "{name}(e)k zure mezua gogoko du",
   "notification.follow": "{name}(e)k jarraitzen zaitu",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name}(e)k aipatu zaitu",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "{name}(e)k zu jarraitzeko eskaera egin du",
+  "notification.mention": "{name}(e)k aipatu zaitu",
+  "notification.own_poll": "Zure inkesta amaitu da",
+>>>>>>> upstream/master
   "notification.poll": "Zuk erantzun duzun inkesta bat bukatu da",
   "notification.reblog": "{name}(e)k bultzada eman dio zure mezuari",
   "notification_purge.btn_all": "Select\nall",
@@ -358,6 +392,7 @@
   "notifications.column_settings.filter_bar.category": "Iragazki azkarraren barra",
   "notifications.column_settings.filter_bar.show": "Erakutsi",
   "notifications.column_settings.follow": "Jarraitzaile berriak:",
+  "notifications.column_settings.follow_request": "Jarraitzeko eskaera berriak:",
   "notifications.column_settings.mention": "Aipamenak:",
   "notifications.column_settings.poll": "Inkestaren emaitzak:",
   "notifications.column_settings.push": "Push jakinarazpenak",
@@ -415,10 +450,11 @@
   "regeneration_indicator.label": "Kargatzen…",
   "regeneration_indicator.sublabel": "Zure hasiera-jarioa prestatzen ari da!",
   "relative_time.days": "{number}e",
-  "relative_time.hours": "{number}o",
+  "relative_time.hours": "{number}h",
   "relative_time.just_now": "orain",
   "relative_time.minutes": "{number}m",
   "relative_time.seconds": "{number}s",
+  "relative_time.today": "gaur",
   "reply_indicator.cancel": "Utzi",
   "report.forward": "Birbidali hona: {target}",
   "report.forward_hint": "Kontu hau beste zerbitzari batekoa da. Bidali txostenaren kopia anonimo hara ere?",
@@ -437,6 +473,7 @@
   "search_results.hashtags": "Traolak",
   "search_results.statuses": "Toot-ak",
   "search_results.statuses_fts_disabled": "Mastodon zerbitzari honek ez du Toot-en edukiaren bilaketa gaitu.",
+<<<<<<< HEAD
   "search_results.total": "{count, number} {count, plural, one {emaitza} other {emaitzak}}",
   "settings.always_show_spoilers_field": "Always enable the Content Warning field",
   "settings.auto_collapse": "Automatic collapsing",
@@ -508,6 +545,13 @@
   "status.admin_status": "Ireki mezu hau moderazio interfazean",
   "status.block": "Blokeatu @{name}",
   "status.bookmark": "Bookmark",
+=======
+  "search_results.total": "{count, number} {count, plural, one {emaitza} other {emaitza}}",
+  "status.admin_account": "Ireki @{name} erabiltzailearen moderazio interfazea",
+  "status.admin_status": "Ireki mezu hau moderazio interfazean",
+  "status.block": "Blokeatu @{name}",
+  "status.bookmark": "Laster-marka",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Kendu bultzada",
   "status.cannot_reblog": "Mezu honi ezin zaio bultzada eman",
   "status.collapse": "Collapse",
@@ -541,7 +585,11 @@
   "status.reblogged_by": "{name}(r)en bultzada",
   "status.reblogs.empty": "Ez dio inork bultzada eman toot honi oraindik. Inork egiten duenean, hemen agertuko dira.",
   "status.redraft": "Ezabatu eta berridatzi",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Kendu laster-marka",
+>>>>>>> upstream/master
   "status.reply": "Erantzun",
   "status.replyAll": "Erantzun harian",
   "status.report": "Salatu @{name}",
@@ -570,28 +618,40 @@
   "time_remaining.minutes": "{number, plural, one {minutu #} other {# minutu}} amaitzeko",
   "time_remaining.moments": "Amaitzekotan",
   "time_remaining.seconds": "{number, plural, one {segundo #} other {# segundo}} amaitzeko",
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} hitz egiten",
+  "trends.count_by_accounts": "{count} {rawCount, plural, one {pertsona} other {pertsona}} hitz egiten",
   "trends.trending_now": "Joera orain",
   "ui.beforeunload": "Zure zirriborroa galduko da Mastodon uzten baduzu.",
   "upload_area.title": "Arrastatu eta jaregin igotzeko",
   "upload_button.label": "Gehitu multimedia  (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Fitxategi igoera muga gaindituta.",
   "upload_error.poll": "Ez da inkestetan fitxategiak igotzea onartzen.",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "Deskribatu ikusmen arazoak dituztenentzat",
   "upload_form.edit": "Editatu",
   "upload_form.undo": "Ezabatu",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "Deskribatu entzumen galera duten pertsonentzat",
+  "upload_form.description": "Deskribatu ikusmen arazoak dituztenentzat",
+  "upload_form.edit": "Editatu",
+  "upload_form.undo": "Ezabatu",
+  "upload_form.video_description": "Deskribatu entzumen galera edo ikusmen urritasuna duten pertsonentzat",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Irudia aztertzen…",
   "upload_modal.apply": "Aplikatu",
-  "upload_modal.description_placeholder": "Azeri marroi azkar batek txakur alferraren gainetik salto egiten du",
+  "upload_modal.description_placeholder": "Vaudeville itxurako filmean yogi ñaño bat jipoitzen dute Quebec-en whiski truk",
   "upload_modal.detect_text": "Antzeman testua iruditik",
   "upload_modal.edit_media": "Editatu media",
   "upload_modal.hint": "Sakatu eta jaregin aurrebistako zirkulua iruditxoetan beti ikusgai egongo den puntu fokala hautatzeko.",
   "upload_modal.preview_label": "Aurreikusi ({ratio})",
   "upload_progress.label": "Igotzen...",
   "video.close": "Itxi bideoa",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Deskargatu fitxategia",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Irten pantaila osotik",
   "video.expand": "Hedatu bideoa",
   "video.fullscreen": "Pantaila osoa",

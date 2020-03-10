@@ -1,6 +1,7 @@
 {
   "account.add_or_remove_from_list": "జాబితాల నుండి చేర్చు లేదా తీసివేయి",
   "account.badges.bot": "బాట్",
+  "account.badges.group": "Group",
   "account.block": "@{name} ను బ్లాక్ చేయి",
   "account.block_domain": "{domain} నుంచి అన్నీ దాచిపెట్టు",
   "account.blocked": "బ్లాక్ అయినవి",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Rate limited",
   "alert.unexpected.message": "అనుకోని తప్పు జరిగినది.",
   "alert.unexpected.title": "అయ్యో!",
+  "announcement.announcement": "Announcement",
   "autosuggest_hashtag.per_week": "{count} per week",
   "boost_modal.combo": "మీరు తదుపరిసారి దీనిని దాటవేయడానికి {combo} నొక్కవచ్చు",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -108,7 +110,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "ఎంపిక {number}",
   "compose_form.poll.remove_option": "ఈ ఎంపికను తొలగించు",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Change poll to allow multiple choices",
+  "compose_form.poll.switch_to_single": "Change poll to allow for a single choice",
+>>>>>>> upstream/master
   "compose_form.publish": "టూట్",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Mark media as sensitive",
@@ -225,7 +232,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "బూస్ట్ లను చూపించు",
   "home.column_settings.show_replies": "ప్రత్యుత్తరాలను చూపించు",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Hide announcements",
+  "home.show_announcements": "Show announcements",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# day} other {# days}}",
   "intervals.full.hours": "{number, plural, one {# hour} other {# hours}}",
   "intervals.full.minutes": "{number, plural, one {# minute} other {# minutes}}",
@@ -340,7 +352,11 @@
   "navigation_bar.security": "భద్రత",
   "notification.favourite": "{name} మీ స్టేటస్ ను ఇష్టపడ్డారు",
   "notification.follow": "{name} మిమ్మల్ని అనుసరిస్తున్నారు",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
+=======
+  "notification.follow_request": "{name} has requested to follow you",
+>>>>>>> upstream/master
   "notification.mention": "{name} మిమ్మల్ని ప్రస్తావించారు",
   "notification.own_poll": "Your poll has ended",
   "notification.poll": "మీరు పాల్గొనిన ఎన్సిక ముగిసినది",
@@ -358,6 +374,7 @@
   "notifications.column_settings.filter_bar.category": "క్విక్ ఫిల్టర్ బార్",
   "notifications.column_settings.filter_bar.show": "చూపించు",
   "notifications.column_settings.follow": "క్రొత్త అనుచరులు:",
+  "notifications.column_settings.follow_request": "New follow requests:",
   "notifications.column_settings.mention": "ప్రస్తావనలు:",
   "notifications.column_settings.poll": "ఎన్నిక ఫలితాలు:",
   "notifications.column_settings.push": "పుష్ ప్రకటనలు",
@@ -419,6 +436,7 @@
   "relative_time.just_now": "ఇప్పుడు",
   "relative_time.minutes": "{number}m",
   "relative_time.seconds": "{number}s",
+  "relative_time.today": "today",
   "reply_indicator.cancel": "రద్దు చెయ్యి",
   "report.forward": "{target}కి ఫార్వార్డ్ చేయండి",
   "report.forward_hint": "ఖాతా మరొక సర్వర్లో ఉంది. నివేదిక యొక్క ఒక అనామకంగా ఉన్న కాపీని అక్కడికి కూడా పంపించమంటారా?",

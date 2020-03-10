@@ -1,10 +1,11 @@
 {
   "account.add_or_remove_from_list": "Pridaj do, alebo odober zo zoznamov",
   "account.badges.bot": "Bot",
+  "account.badges.group": "Skupina",
   "account.block": "Blokuj @{name}",
   "account.block_domain": "Ukry všetko z {domain}",
   "account.blocked": "Blokovaný/á",
-  "account.cancel_follow_request": "Zruš požiadanie o sledovanie",
+  "account.cancel_follow_request": "Zruš žiadosť o sledovanie",
   "account.direct": "Priama správa pre @{name}",
   "account.disclaimer_full": "Information below may reflect the user's profile incompletely.",
   "account.domain_blocked": "Doména ukrytá",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Tempo obmedzené",
   "alert.unexpected.message": "Vyskytla sa nečakaná chyba.",
   "alert.unexpected.title": "Ups!",
+  "announcement.announcement": "Oboznámenie",
   "autosuggest_hashtag.per_week": "{count} týždenne",
   "boost_modal.combo": "Nabudúce môžeš kliknúť {combo} pre preskočenie",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "Nastala chyba pri načítaní tohto komponentu.",
   "bundle_modal_error.retry": "Skúsiť znova",
   "column.blocks": "Blokovaní užívatelia",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Záložky",
+>>>>>>> upstream/master
   "column.community": "Miestna časová os",
   "column.direct": "Priame správy",
   "column.directory": "Prehľadávaj profily",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Voľba {number}",
   "compose_form.poll.remove_option": "Odstráň túto voľbu",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Zmeň anketu pre povolenie viacerých možností",
+  "compose_form.poll.switch_to_single": "Zmeň anketu na takú s jedinou voľbou",
+>>>>>>> upstream/master
   "compose_form.publish": "Pošli",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Označ médiá ako chúlostivé",
@@ -178,7 +189,11 @@
   "empty_column.account_timeline": "Niesú tu žiadne príspevky!",
   "empty_column.account_unavailable": "Profil nedostupný",
   "empty_column.blocks": "Ešte si nikoho nezablokoval/a.",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "Ešte nemáš žiadné záložky. Keď si pridáš príspevok k záložkám, zobrazí sa tu.",
+>>>>>>> upstream/master
   "empty_column.community": "Lokálna časová os je prázdna. Napíšte niečo, aby sa to tu začalo hýbať!",
   "empty_column.direct": "Ešte nemáš žiadne priame správy. Keď nejakú pošleš, alebo dostaneš, ukáže sa tu.",
   "empty_column.domain_blocks": "Žiadne domény ešte niesú skryté.",
@@ -221,11 +236,18 @@
   "hashtag.column_settings.tag_toggle": "Vlož dodatočné haštagy pre tento stĺpec",
   "home.column_settings.advanced": "Advanced",
   "home.column_settings.basic": "Základné",
+<<<<<<< HEAD
   "home.column_settings.filter_regex": "Filter out by regular expressions",
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Zobraziť povýšené",
   "home.column_settings.show_replies": "Ukázať odpovede",
   "home.settings": "Column settings",
+=======
+  "home.column_settings.show_reblogs": "Ukáž vyzdvihnuté",
+  "home.column_settings.show_replies": "Ukáž odpovede",
+  "home.hide_announcements": "Skry oboznámenia",
+  "home.show_announcements": "Ukáž oboznámenia",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# deň} few {# dní} many {# dní} other {# dní}}",
   "intervals.full.hours": "{number, plural, one {# hodina} few {# hodín} many {# hodín} other {# hodín}}",
   "intervals.full.minutes": "{number, plural, one {# minúta} few {# minút} many {# minút} other {# minút}}",
@@ -240,7 +262,7 @@
   "introduction.interactions.favourite.headline": "Obľúbené",
   "introduction.interactions.favourite.text": "Obľúbením si môžeš príspevok uložiť na neskôr, a zároveň dať jeho autorovi vedieť, že sa ti páčil.",
   "introduction.interactions.reblog.headline": "Vyzdvihni",
-  "introduction.interactions.reblog.text": "Môžeš zdieľať príspevky iných ľudí s vašimi následovateľmi tým, že ich povýšiš.",
+  "introduction.interactions.reblog.text": "Môžeš zdieľať príspevky iných ľudí s tvojími následovateľmi tak, že ich vyzdvihneš.",
   "introduction.interactions.reply.headline": "Odpovedz",
   "introduction.interactions.reply.text": "Odpovedať môžeš na príspevky iných ľudí, aj na svoje vlastné, čím sa spolu prepoja do konverzácie.",
   "introduction.welcome.action": "Poďme do toho!",
@@ -268,7 +290,11 @@
   "keyboard_shortcuts.muted": "otvor zoznam stíšených užívateľov",
   "keyboard_shortcuts.my_profile": "otvor svoj profil",
   "keyboard_shortcuts.notifications": "otvor panel oboznámení",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "na otvorenie médií",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "otvor zoznam pripnutých príspevkov",
   "keyboard_shortcuts.profile": "otvor autorov profil",
   "keyboard_shortcuts.reply": "odpovedať",
@@ -315,7 +341,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Aplikácie",
   "navigation_bar.blocks": "Blokovaní užívatelia",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Záložky",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Miestna časová os",
   "navigation_bar.compose": "Napíš nový príspevok",
   "navigation_bar.direct": "Priame správy",
@@ -335,14 +365,20 @@
   "navigation_bar.mutes": "Ignorovaní užívatelia",
   "navigation_bar.personal": "Osobné",
   "navigation_bar.pins": "Pripnuté príspevky",
-  "navigation_bar.preferences": "Voľby",
+  "navigation_bar.preferences": "Nastavenia",
   "navigation_bar.public_timeline": "Federovaná časová os",
   "navigation_bar.security": "Zabezbečenie",
   "notification.favourite": "{name} si obľúbil/a tvoj príspevok",
   "notification.follow": "{name} ťa začal/a následovať",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name} ťa spomenul/a",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "{name} žiada ťa následovať",
+  "notification.mention": "{name} ťa spomenul/a",
+  "notification.own_poll": "Tvoja anketa sa skončila",
+>>>>>>> upstream/master
   "notification.poll": "Anketa v ktorej si hlasoval/a sa skončila",
   "notification.reblog": "{name} zdieľal/a tvoj príspevok",
   "notification_purge.btn_all": "Select\nall",
@@ -358,12 +394,13 @@
   "notifications.column_settings.filter_bar.category": "Rýchle triedenie",
   "notifications.column_settings.filter_bar.show": "Ukáž",
   "notifications.column_settings.follow": "Noví sledujúci:",
+  "notifications.column_settings.follow_request": "Nové žiadosti o následovanie:",
   "notifications.column_settings.mention": "Zmienenia:",
   "notifications.column_settings.poll": "Výsledky ankiet:",
   "notifications.column_settings.push": "Push notifikácie",
   "notifications.column_settings.push_meta": "This device",
   "notifications.column_settings.reblog": "Vyzdvihnutia:",
-  "notifications.column_settings.show": "Zobraz v stĺpci",
+  "notifications.column_settings.show": "Ukáž v stĺpci",
   "notifications.column_settings.sound": "Prehraj zvuk",
   "notifications.filter.all": "Všetky",
   "notifications.filter.boosts": "Vyzdvihnutia",
@@ -419,6 +456,7 @@
   "relative_time.just_now": "teraz",
   "relative_time.minutes": "{number}min",
   "relative_time.seconds": "{number}sek",
+  "relative_time.today": "dnes",
   "reply_indicator.cancel": "Zrušiť",
   "report.forward": "Posuň ku {target}",
   "report.forward_hint": "Tento účet je z iného serveru. Chceš poslať anonymnú kópiu hlásenia aj tam?",
@@ -507,7 +545,11 @@
   "status.admin_account": "Otvor moderovacie rozhranie užívateľa @{name}",
   "status.admin_status": "Otvor tento príspevok v moderovacom rozhraní",
   "status.block": "Blokuj @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "Záložka",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Nezdieľaj",
   "status.cannot_reblog": "Tento príspevok nemôže byť zdieľaný",
   "status.collapse": "Collapse",
@@ -538,10 +580,14 @@
   "status.read_more": "Čítaj ďalej",
   "status.reblog": "Vyzdvihni",
   "status.reblog_private": "Vyzdvihni k pôvodnému publiku",
-  "status.reblogged_by": "{name} povýšil/a",
+  "status.reblogged_by": "{name} vyzdvihli",
   "status.reblogs.empty": "Nikto ešte nevyzdvihol tento príspevok. Keď tak niekto urobí, bude to zobrazené práve tu.",
   "status.redraft": "Vymaž a prepíš",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Odstráň záložku",
+>>>>>>> upstream/master
   "status.reply": "Odpovedať",
   "status.replyAll": "Odpovedz na diskusiu",
   "status.report": "Nahlás @{name}",
@@ -570,28 +616,40 @@
   "time_remaining.minutes": "Ostáva {number, plural, one {# minúta} few {# minút} many {# minút} other {# minúty}}",
   "time_remaining.moments": "Ostáva už iba chviľka",
   "time_remaining.seconds": "Ostáva {number, plural, one {# sekunda} few {# sekúnd} many {# sekúnd} other {# sekúnd}}",
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {človek vraví} other {ľudia vravia}}",
+  "trends.count_by_accounts": "{count} {rawCount, plural, one {človek spomína} other {ľudí spomína}}",
   "trends.trending_now": "Teraz populárne",
   "ui.beforeunload": "Čo máš rozpísané sa stratí, ak opustíš Mastodon.",
   "upload_area.title": "Pretiahni a pusť pre nahratie",
   "upload_button.label": "Pridaj médiálny súbor (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Limit pre nahrávanie súborov bol prekročený.",
   "upload_error.poll": "Nahrávanie súborov pri anketách nieje možné.",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "Opis pre slabo vidiacich",
   "upload_form.edit": "Uprav",
   "upload_form.undo": "Vymaž",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "Popíš, pre ľudí so stratou sluchu",
+  "upload_form.description": "Opis pre slabo vidiacich",
+  "upload_form.edit": "Uprav",
+  "upload_form.undo": "Vymaž",
+  "upload_form.video_description": "Popíš, pre ľudí so stratou sluchu, alebo očným znevýhodnením",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analyzujem obrázok…",
   "upload_modal.apply": "Použi",
   "upload_modal.description_placeholder": "Rýchla hnedá líška skáče ponad lenivého psa",
   "upload_modal.detect_text": "Rozpoznaj text z obrázka",
   "upload_modal.edit_media": "Uprav médiá",
-  "upload_modal.hint": "Click or drag the circle on the preview to choose the focal point which will always be in view on all thumbnails.",
+  "upload_modal.hint": "Klikni, alebo potiahni okruh ukážky pre zvolenie z ktorého východzieho bodu bude vždy v dohľadne na všetkých náhľadoch.",
   "upload_modal.preview_label": "Náhľad ({ratio})",
   "upload_progress.label": "Nahráva sa...",
   "video.close": "Zavri video",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Stiahni súbor",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Vypni zobrazenie na celú obrazovku",
   "video.expand": "Zväčši video",
   "video.fullscreen": "Zobraz na celú obrazovku",

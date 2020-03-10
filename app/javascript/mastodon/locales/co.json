@@ -1,6 +1,7 @@
 {
   "account.add_or_remove_from_list": "Aghjunghje o toglie da e liste",
   "account.badges.bot": "Bot",
+  "account.badges.group": "Gruppu",
   "account.block": "Bluccà @{name}",
   "account.block_domain": "Piattà tuttu da {domain}",
   "account.blocked": "Bluccatu",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Ghjettu limitatu",
   "alert.unexpected.message": "Un prublemu inaspettatu hè accadutu.",
   "alert.unexpected.title": "Uups!",
+  "announcement.announcement": "Annunziu",
   "autosuggest_hashtag.per_week": "{count} per settimana",
   "boost_modal.combo": "Pudete appughjà nant'à {combo} per saltà quessa a prussima volta",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "C'hè statu un prublemu caricandu st'elementu.",
   "bundle_modal_error.retry": "Pruvà torna",
   "column.blocks": "Utilizatori bluccati",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Segnalibri",
+>>>>>>> upstream/master
   "column.community": "Linea pubblica lucale",
   "column.direct": "Missaghji diretti",
   "column.directory": "Percorre i prufili",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Scelta {number}",
   "compose_form.poll.remove_option": "Toglie sta scelta",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Cambià u scandagliu per accittà parechje scelte",
+  "compose_form.poll.switch_to_single": "Cambià u scandagliu per ùn accittà ch'una scelta",
+>>>>>>> upstream/master
   "compose_form.publish": "Toot",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Indicà u media cum'è sensibile",
@@ -178,7 +189,11 @@
   "empty_column.account_timeline": "Nisun statutu quì!",
   "empty_column.account_unavailable": "Prufile micca dispunibule",
   "empty_column.blocks": "Per avà ùn avete bluccatu manc'un utilizatore.",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "Ùn avete manc'un segnalibru. Quandu aghjunghjerate unu, sarà mustratu quì.",
+>>>>>>> upstream/master
   "empty_column.community": "Ùn c'hè nunda indè a linea lucale. Scrivete puru qualcosa!",
   "empty_column.direct": "Ùn avete ancu nisun missaghju direttu. S'è voi mandate o ricevete unu, u vidarete quì.",
   "empty_column.domain_blocks": "Ùn c'hè manc'un duminiu bluccatu avà.",
@@ -225,7 +240,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Vede e spartere",
   "home.column_settings.show_replies": "Vede e risposte",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Piattà annunzii",
+  "home.show_announcements": "Vede annunzii",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# ghjornu} other {# ghjorni}}",
   "intervals.full.hours": "{number, plural, one {# ora} other {# ore}}",
   "intervals.full.minutes": "{number, plural, one {# minuta} other {# minute}}",
@@ -268,7 +288,11 @@
   "keyboard_shortcuts.muted": "per apre a lista di l'utilizatori piattati",
   "keyboard_shortcuts.my_profile": "per apre u vostru prufile",
   "keyboard_shortcuts.notifications": "per apre a culonna di nutificazione",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "per apre i media",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "per apre a lista di statuti puntarulati",
   "keyboard_shortcuts.profile": "per apre u prufile di l'autore",
   "keyboard_shortcuts.reply": "risponde",
@@ -315,7 +339,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Applicazione per u telefuninu",
   "navigation_bar.blocks": "Utilizatori bluccati",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Segnalibri",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Linea pubblica lucale",
   "navigation_bar.compose": "Scrive un novu statutu",
   "navigation_bar.direct": "Missaghji diretti",
@@ -340,9 +368,15 @@
   "navigation_bar.security": "Sicurità",
   "notification.favourite": "{name} hà aghjuntu u vostru statutu à i so favuriti",
   "notification.follow": "{name} v'hà seguitatu",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name} v'hà mintuvatu",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "{name} vole abbunassi à u vostru contu",
+  "notification.mention": "{name} v'hà mintuvatu",
+  "notification.own_poll": "U vostru scandagliu hè compiu",
+>>>>>>> upstream/master
   "notification.poll": "Un scandagliu induve avete vutatu hè finitu",
   "notification.reblog": "{name} hà spartutu u vostru statutu",
   "notification_purge.btn_all": "Select\nall",
@@ -358,6 +392,7 @@
   "notifications.column_settings.filter_bar.category": "Barra di ricerca pronta",
   "notifications.column_settings.filter_bar.show": "Mustrà",
   "notifications.column_settings.follow": "Abbunati novi:",
+  "notifications.column_settings.follow_request": "Nove dumande d'abbunamentu:",
   "notifications.column_settings.mention": "Minzione:",
   "notifications.column_settings.poll": "Risultati:",
   "notifications.column_settings.push": "Nutificazione Push",
@@ -419,6 +454,7 @@
   "relative_time.just_now": "avà",
   "relative_time.minutes": "{number}m",
   "relative_time.seconds": "{number}s",
+  "relative_time.today": "oghji",
   "reply_indicator.cancel": "Annullà",
   "report.forward": "Trasferisce à {target}",
   "report.forward_hint": "U contu hè nant'à un'altru servore. Vulete ancu mandà una copia anonima di u signalamentu quallà?",
@@ -507,7 +543,11 @@
   "status.admin_account": "Apre l'interfaccia di muderazione per @{name}",
   "status.admin_status": "Apre stu statutu in l'interfaccia di muderazione",
   "status.block": "Bluccà @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "Segnalibru",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Ùn sparte più",
   "status.cannot_reblog": "Stu statutu ùn pò micca esse spartutu",
   "status.collapse": "Collapse",
@@ -541,7 +581,11 @@
   "status.reblogged_by": "{name} hà spartutu",
   "status.reblogs.empty": "Per avà nisunu hà spartutu u statutu. Quandu qualch'unu u sparterà, u so contu sarà mustratu quì.",
   "status.redraft": "Sguassà è riscrive",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Toglie segnalibru",
+>>>>>>> upstream/master
   "status.reply": "Risponde",
   "status.replyAll": "Risponde à tutti",
   "status.report": "Palisà @{name}",
@@ -577,11 +621,19 @@
   "upload_button.label": "Aghjunghje un media (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Limita di caricamentu di fugliali trapassata.",
   "upload_error.poll": "Ùn si pò micca caricà fugliali cù i scandagli.",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "Discrive per i malvistosi",
   "upload_form.edit": "Mudificà",
   "upload_form.undo": "Sguassà",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "Discrizzione per i ciochi",
+  "upload_form.description": "Discrive per i malvistosi",
+  "upload_form.edit": "Mudificà",
+  "upload_form.undo": "Sguassà",
+  "upload_form.video_description": "Discrizzione per i ciochi o cechi",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analisi di u ritrattu…",
   "upload_modal.apply": "Affettà",
   "upload_modal.description_placeholder": "Chì tempi brevi ziu, quandu solfeghji",
@@ -591,7 +643,11 @@
   "upload_modal.preview_label": "Vista ({ratio})",
   "upload_progress.label": "Caricamentu...",
   "video.close": "Chjudà a video",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Scaricà fugliale",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Caccià u pienu screnu",
   "video.expand": "Ingrandà a video",
   "video.fullscreen": "Pienu screnu",

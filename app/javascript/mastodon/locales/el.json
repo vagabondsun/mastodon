@@ -1,8 +1,9 @@
 {
   "account.add_or_remove_from_list": "Προσθήκη ή Αφαίρεση από λίστες",
   "account.badges.bot": "Μποτ",
+  "account.badges.group": "Ομάδα",
   "account.block": "Αποκλεισμός @{name}",
-  "account.block_domain": "Απόκρυψε τα πάντα από το {domain}",
+  "account.block_domain": "Απόκρυψη όλων από {domain}",
   "account.blocked": "Αποκλεισμένος/η",
   "account.cancel_follow_request": "Ακύρωση αιτήματος παρακολούθησης",
   "account.direct": "Προσωπικό μήνυμα προς @{name}",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Περιορισμός συχνότητας",
   "alert.unexpected.message": "Προέκυψε απροσδόκητο σφάλμα.",
   "alert.unexpected.title": "Εεπ!",
+  "announcement.announcement": "Ανακοίνωση",
   "autosuggest_hashtag.per_week": "{count} ανα εβδομάδα",
   "boost_modal.combo": "Μπορείς να πατήσεις {combo} για να το προσπεράσεις αυτό την επόμενη φορά",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "Κάτι πήγε στραβά κατά τη φόρτωση του στοιχείου.",
   "bundle_modal_error.retry": "Δοκίμασε ξανά",
   "column.blocks": "Αποκλεισμένοι χρήστες",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Σελιδοδείκτες",
+>>>>>>> upstream/master
   "column.community": "Τοπική ροή",
   "column.direct": "Προσωπικά μηνύματα",
   "column.directory": "Δες προφίλ",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Επιλογή {number}",
   "compose_form.poll.remove_option": "Αφαίρεση επιλογής",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Ενημέρωση δημοσκόπησης με πολλαπλές επιλογές",
+  "compose_form.poll.switch_to_single": "Ενημέρωση δημοσκόπησης με μοναδική επιλογή",
+>>>>>>> upstream/master
   "compose_form.publish": "Τουτ",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Σημείωσε τα πολυμέσα ως ευαίσθητα",
@@ -178,7 +189,11 @@
   "empty_column.account_timeline": "Δεν έχει τουτ εδώ!",
   "empty_column.account_unavailable": "Μη διαθέσιμο προφίλ",
   "empty_column.blocks": "Δεν έχεις αποκλείσει κανέναν χρήστη ακόμα.",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "Δεν έχεις κανένα αποθηκευμένο τουτ ακόμα. Μόλις αποθηκεύσεις κάποιο, θα εμφανιστεί εδώ.",
+>>>>>>> upstream/master
   "empty_column.community": "Η τοπική ροή είναι κενή. Γράψε κάτι δημόσιο παραμύθι ν' αρχινίσει!",
   "empty_column.direct": "Δεν έχεις προσωπικά μηνύματα ακόμα. Όταν στείλεις ή λάβεις κανένα, θα εμφανιστεί εδώ.",
   "empty_column.domain_blocks": "Δεν υπάρχουν αποκλεισμένοι τομείς ακόμα.",
@@ -225,7 +240,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Εμφάνιση προωθήσεων",
   "home.column_settings.show_replies": "Εμφάνιση απαντήσεων",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Απόκρυψη ανακοινώσεων",
+  "home.show_announcements": "Εμφάνιση ανακοινώσεων",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# μέρα} other {# μέρες}}",
   "intervals.full.hours": "{number, plural, one {# ώρα} other {# ώρες}}",
   "intervals.full.minutes": "{number, plural, one {# λεπτό} other {# λεπτά}}",
@@ -268,7 +288,11 @@
   "keyboard_shortcuts.muted": "άνοιγμα λίστας αποσιωπημενων χρηστών",
   "keyboard_shortcuts.my_profile": "άνοιγμα του προφίλ σου",
   "keyboard_shortcuts.notifications": "άνοιγμα στήλης ειδοποιήσεων",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "εμφάνιση πολυμέσου",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "άνοιγμα λίστας καρφιτσωμένων τουτ",
   "keyboard_shortcuts.profile": "άνοιγμα προφίλ συγγραφέα",
   "keyboard_shortcuts.reply": "απάντηση",
@@ -315,7 +339,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Εφαρμογές φορητών συσκευών",
   "navigation_bar.blocks": "Αποκλεισμένοι χρήστες",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Σελιδοδείκτες",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Τοπική ροή",
   "navigation_bar.compose": "Γράψε νέο τουτ",
   "navigation_bar.direct": "Προσωπικά μηνύματα",
@@ -340,9 +368,15 @@
   "navigation_bar.security": "Ασφάλεια",
   "notification.favourite": "Ο/Η {name} σημείωσε ως αγαπημένη την κατάστασή σου",
   "notification.follow": "Ο/Η {name} σε ακολούθησε",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "Ο/Η {name} σε ανέφερε",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "Ο/H {name} ζήτησε να σε παρακολουθεί",
+  "notification.mention": "Ο/Η {name} σε ανέφερε",
+  "notification.own_poll": "Η ψηφοφορία σου έληξε",
+>>>>>>> upstream/master
   "notification.poll": "Τελείωσε μια από τις ψηφοφορίες που συμμετείχες",
   "notification.reblog": "Ο/Η {name} προώθησε την κατάστασή σου",
   "notification_purge.btn_all": "Select\nall",
@@ -358,6 +392,7 @@
   "notifications.column_settings.filter_bar.category": "Μπάρα γρήγορου φίλτρου",
   "notifications.column_settings.filter_bar.show": "Εμφάνιση",
   "notifications.column_settings.follow": "Νέοι ακόλουθοι:",
+  "notifications.column_settings.follow_request": "Νέο αίτημα παρακολούθησης:",
   "notifications.column_settings.mention": "Αναφορές:",
   "notifications.column_settings.poll": "Αποτελέσματα ψηφοφορίας:",
   "notifications.column_settings.push": "Άμεσες ειδοποιήσεις",
@@ -419,6 +454,7 @@
   "relative_time.just_now": "τώρα",
   "relative_time.minutes": "{number}λ",
   "relative_time.seconds": "{number}δ",
+  "relative_time.today": "σήμερα",
   "reply_indicator.cancel": "Άκυρο",
   "report.forward": "Προώθηση προς {target}",
   "report.forward_hint": "Ο λογαριασμός είναι από διαφορετικό διακομιστή. Να σταλεί ανώνυμο αντίγραφο της καταγγελίας κι εκεί;",
@@ -507,7 +543,11 @@
   "status.admin_account": "Άνοιγμα λειτουργίας διαμεσολάβησης για τον/την @{name}",
   "status.admin_status": "Άνοιγμα αυτής της δημοσίευσης στη λειτουργία διαμεσολάβησης",
   "status.block": "Αποκλεισμός @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "Σελιδοδείκτης",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Ακύρωσε την προώθηση",
   "status.cannot_reblog": "Αυτή η δημοσίευση δεν μπορεί να προωθηθεί",
   "status.collapse": "Collapse",
@@ -541,7 +581,11 @@
   "status.reblogged_by": "{name} προώθησε",
   "status.reblogs.empty": "Κανείς δεν προώθησε αυτό το τουτ ακόμα. Μόλις το κάνει κάποια, θα εμφανιστούν εδώ.",
   "status.redraft": "Σβήσε & ξαναγράψε",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Αφαίρεση σελιδοδείκτη",
+>>>>>>> upstream/master
   "status.reply": "Απάντησε",
   "status.replyAll": "Απάντησε στην συζήτηση",
   "status.report": "Κατάγγειλε @{name}",
@@ -570,18 +614,26 @@
   "time_remaining.minutes": "απομένουν {number, plural, one {# λεπτό} other {# λεπτά}}",
   "time_remaining.moments": "Απομένουν στιγμές",
   "time_remaining.seconds": "απομένουν {number, plural, one {# δευτερόλεπτο} other {# δευτερόλεπτα}}",
-  "trends.count_by_accounts": "{count} {rawCount, plural, one {person} other {people}} μιλάνε",
+  "trends.count_by_accounts": "{count} {rawCount, plural, one {άτομο μιλάει} other {άτομα μιλάνε}}",
   "trends.trending_now": "Δημοφιλή τώρα",
   "ui.beforeunload": "Το προσχέδιό σου θα χαθεί αν φύγεις από το Mastodon.",
   "upload_area.title": "Drag & drop για να ανεβάσεις",
   "upload_button.label": "Πρόσθεσε πολυμέσα ({formats})",
   "upload_error.limit": "Υπέρβαση ορίου μεγέθους ανεβασμένων αρχείων.",
   "upload_error.poll": "Στις δημοσκοπήσεις δεν επιτρέπεται η μεταφόρτωση αρχείου.",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "Περιέγραψε για όσους & όσες έχουν προβλήματα όρασης",
   "upload_form.edit": "Ενημέρωση",
   "upload_form.undo": "Διαγραφή",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "Περιγραφή για άτομα με προβλήματα ακοής",
+  "upload_form.description": "Περιέγραψε για όσους & όσες έχουν προβλήματα όρασης",
+  "upload_form.edit": "Ενημέρωση",
+  "upload_form.undo": "Διαγραφή",
+  "upload_form.video_description": "Περιγραφή για άτομα με προβλήματα ακοής ή όρασης",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Ανάλυση εικόνας…",
   "upload_modal.apply": "Εφαρμογή",
   "upload_modal.description_placeholder": "Λύκος μαύρος και ισχνός του πατέρα του καημός",
@@ -591,7 +643,11 @@
   "upload_modal.preview_label": "Προεπισκόπηση ({ratio})",
   "upload_progress.label": "Ανεβαίνει...",
   "video.close": "Κλείσε το βίντεο",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Λήψη αρχείου",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Έξοδος από πλήρη οθόνη",
   "video.expand": "Επέκταση βίντεο",
   "video.fullscreen": "Πλήρης οθόνη",

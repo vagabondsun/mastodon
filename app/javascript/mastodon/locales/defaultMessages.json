@@ -3620,7 +3620,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Unhide {domain}",
+        "defaultMessage": "Unblock domain {domain}",
         "id": "account.unblock_domain"
       }
     ],
@@ -3695,7 +3695,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Toggle visibility",
+        "defaultMessage": "Hide media",
         "id": "media_gallery.toggle_visible"
       },
       {
@@ -3771,6 +3771,10 @@
   },
   {
     "descriptors": [
+      {
+        "defaultMessage": "today",
+        "id": "relative_time.today"
+      },
       {
         "defaultMessage": "now",
         "id": "relative_time.just_now"
@@ -3925,11 +3929,19 @@
         "id": "status.copy"
       },
       {
+<<<<<<< HEAD
         "defaultMessage": "Hide everything from {domain}",
         "id": "account.block_domain"
       },
       {
         "defaultMessage": "Unhide {domain}",
+=======
+        "defaultMessage": "Block domain {domain}",
+        "id": "account.block_domain"
+      },
+      {
+        "defaultMessage": "Unblock domain {domain}",
+>>>>>>> upstream/master
         "id": "account.unblock_domain"
       },
       {
@@ -4171,11 +4183,11 @@
         "id": "account.media"
       },
       {
-        "defaultMessage": "Hide everything from {domain}",
+        "defaultMessage": "Block domain {domain}",
         "id": "account.block_domain"
       },
       {
-        "defaultMessage": "Unhide {domain}",
+        "defaultMessage": "Unblock domain {domain}",
         "id": "account.unblock_domain"
       },
       {
@@ -4253,6 +4265,10 @@
       {
         "defaultMessage": "Bot",
         "id": "account.badges.bot"
+      },
+      {
+        "defaultMessage": "Group",
+        "id": "account.badges.group"
       },
       {
         "defaultMessage": "Toots",
@@ -4514,6 +4530,14 @@
         "id": "compose_form.poll.duration"
       },
       {
+        "defaultMessage": "Change poll to allow multiple choices",
+        "id": "compose_form.poll.switch_to_multiple"
+      },
+      {
+        "defaultMessage": "Change poll to allow for a single choice",
+        "id": "compose_form.poll.switch_to_single"
+      },
+      {
         "defaultMessage": "{number, plural, one {# minute} other {# minutes}}",
         "id": "intervals.full.minutes"
       },
@@ -4535,7 +4559,7 @@
         "id": "privacy.public.short"
       },
       {
-        "defaultMessage": "Post to public timelines",
+        "defaultMessage": "Visible for all, shown in public timelines",
         "id": "privacy.public.long"
       },
       {
@@ -4543,7 +4567,7 @@
         "id": "privacy.unlisted.short"
       },
       {
-        "defaultMessage": "Do not show in public timelines",
+        "defaultMessage": "Visible for all, but not in public timelines",
         "id": "privacy.unlisted.long"
       },
       {
@@ -4551,7 +4575,7 @@
         "id": "privacy.private.short"
       },
       {
-        "defaultMessage": "Post to followers only",
+        "defaultMessage": "Visible for followers only",
         "id": "privacy.private.long"
       },
       {
@@ -4559,7 +4583,7 @@
         "id": "privacy.direct.short"
       },
       {
-        "defaultMessage": "Post to mentioned users only",
+        "defaultMessage": "Visible for mentioned users only",
         "id": "privacy.direct.long"
       },
       {
@@ -4874,6 +4898,10 @@
         "id": "account.unmute"
       },
       {
+        "defaultMessage": "Unfollow",
+        "id": "confirmations.unfollow.confirm"
+      },
+      {
         "defaultMessage": "Are you sure you want to unfollow {name}?",
         "id": "confirmations.unfollow.message"
       },
@@ -4928,7 +4956,7 @@
         "id": "column.domain_blocks"
       },
       {
-        "defaultMessage": "Unhide {domain}",
+        "defaultMessage": "Unblock domain {domain}",
         "id": "account.unblock_domain"
       },
       {
@@ -5015,6 +5043,27 @@
       }
     ],
     "path": "app/javascript/mastodon/features/following/index.json"
+  },
+  {
+    "descriptors": [
+      {
+        "defaultMessage": "Close",
+        "id": "lightbox.close"
+      },
+      {
+        "defaultMessage": "Previous",
+        "id": "lightbox.previous"
+      },
+      {
+        "defaultMessage": "Next",
+        "id": "lightbox.next"
+      },
+      {
+        "defaultMessage": "Announcement",
+        "id": "announcement.announcement"
+      }
+    ],
+    "path": "app/javascript/mastodon/features/getting_started/components/announcements.json"
   },
   {
     "descriptors": [
@@ -5182,6 +5231,14 @@
       {
         "defaultMessage": "Home",
         "id": "column.home"
+      },
+      {
+        "defaultMessage": "Show announcements",
+        "id": "home.show_announcements"
+      },
+      {
+        "defaultMessage": "Hide announcements",
+        "id": "home.hide_announcements"
       },
       {
         "defaultMessage": "Your home timeline is empty! Visit {public} or use search to get started and meet other users.",
@@ -5560,6 +5617,10 @@
         "id": "notifications.column_settings.follow"
       },
       {
+        "defaultMessage": "New follow requests:",
+        "id": "notifications.column_settings.follow_request"
+      },
+      {
         "defaultMessage": "Favourites:",
         "id": "notifications.column_settings.favourite"
       },
@@ -5610,6 +5671,19 @@
   {
     "descriptors": [
       {
+        "defaultMessage": "Authorize",
+        "id": "follow_request.authorize"
+      },
+      {
+        "defaultMessage": "Reject",
+        "id": "follow_request.reject"
+      }
+    ],
+    "path": "app/javascript/mastodon/features/notifications/components/follow_request.json"
+  },
+  {
+    "descriptors": [
+      {
         "defaultMessage": "{name} favourited your status",
         "id": "notification.favourite"
       },
@@ -5628,6 +5702,10 @@
       {
         "defaultMessage": "{name} boosted your status",
         "id": "notification.reblog"
+      },
+      {
+        "defaultMessage": "{name} has requested to follow you",
+        "id": "notification.follow_request"
       }
     ],
     "path": "app/javascript/mastodon/features/notifications/components/notification.json"
@@ -5740,6 +5818,13 @@
         "id": "status.bookmark"
       },
       {
+<<<<<<< HEAD
+=======
+        "defaultMessage": "More",
+        "id": "status.more"
+      },
+      {
+>>>>>>> upstream/master
         "defaultMessage": "Mute @{name}",
         "id": "status.mute"
       },
@@ -5788,11 +5873,19 @@
         "id": "status.copy"
       },
       {
+<<<<<<< HEAD
         "defaultMessage": "Hide everything from {domain}",
         "id": "account.block_domain"
       },
       {
         "defaultMessage": "Unhide {domain}",
+=======
+        "defaultMessage": "Block domain {domain}",
+        "id": "account.block_domain"
+      },
+      {
+        "defaultMessage": "Unblock domain {domain}",
+>>>>>>> upstream/master
         "id": "account.unblock_domain"
       },
       {

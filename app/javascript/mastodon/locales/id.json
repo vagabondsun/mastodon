@@ -1,6 +1,7 @@
 {
   "account.add_or_remove_from_list": "Tambah atau Hapus dari daftar",
   "account.badges.bot": "Bot",
+  "account.badges.group": "Grup",
   "account.block": "Blokir @{name}",
   "account.block_domain": "Sembunyikan segalanya dari {domain}",
   "account.blocked": "Terblokir",
@@ -48,9 +49,10 @@
   "advanced_options.threaded_mode.short": "Threaded mode",
   "advanced_options.threaded_mode.tooltip": "Threaded mode enabled",
   "alert.rate_limited.message": "Tolong ulangi setelah {retry_time, time, medium}.",
-  "alert.rate_limited.title": "Rate limited",
+  "alert.rate_limited.title": "Batasan tingkat",
   "alert.unexpected.message": "Terjadi kesalahan yang tidak terduga.",
   "alert.unexpected.title": "Oops!",
+  "announcement.announcement": "Pengumuman",
   "autosuggest_hashtag.per_week": "{count} per minggu",
   "boost_modal.combo": "Anda dapat menekan {combo} untuk melewati ini",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "Kesalahan terjadi saat memuat komponen ini.",
   "bundle_modal_error.retry": "Coba lagi",
   "column.blocks": "Pengguna diblokir",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Markah",
+>>>>>>> upstream/master
   "column.community": "Linimasa Lokal",
   "column.direct": "Pesan langsung",
   "column.directory": "Jelajahi profil",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Pilihan {number}",
   "compose_form.poll.remove_option": "Hapus opsi ini",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Ubah japat menjadi pilihan ganda",
+  "compose_form.poll.switch_to_single": "Ubah japat menjadi pilihan tunggal",
+>>>>>>> upstream/master
   "compose_form.publish": "Toot",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Tandai sebagai media sensitif",
@@ -178,7 +189,11 @@
   "empty_column.account_timeline": "Tidak ada toot di sini!",
   "empty_column.account_unavailable": "Profil tidak tersedia",
   "empty_column.blocks": "Anda belum memblokir siapapun.",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "Anda belum memiliki toot termarkah. Saat Anda menandainya sebagai markah, ia akan muncul di sini.",
+>>>>>>> upstream/master
   "empty_column.community": "Linimasa lokal masih kosong. Tulis sesuatu secara publik dan buat roda berputar!",
   "empty_column.direct": "Anda belum memiliki pesan langsung. Ketika Anda mengirim atau menerimanya, maka akan muncul di sini.",
   "empty_column.domain_blocks": "Tidak ada topik tersembunyi.",
@@ -225,7 +240,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Tampilkan boost",
   "home.column_settings.show_replies": "Tampilkan balasan",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Sembunyikan pengumuman",
+  "home.show_announcements": "Tampilkan pengumuman",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, other {# hari}}",
   "intervals.full.hours": "{number, plural, other {# jam}}",
   "intervals.full.minutes": "{number, plural, other {# menit}}",
@@ -268,7 +288,11 @@
   "keyboard_shortcuts.muted": "buka daftar pengguna terbisukan",
   "keyboard_shortcuts.my_profile": "buka profil Anda",
   "keyboard_shortcuts.notifications": "buka kolom notifikasi",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "membuka media",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "buka daftar toot tersemat",
   "keyboard_shortcuts.profile": "buka profil pencipta",
   "keyboard_shortcuts.reply": "balas",
@@ -315,7 +339,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Aplikasi mobile",
   "navigation_bar.blocks": "Pengguna diblokir",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Markah",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Linimasa lokal",
   "navigation_bar.compose": "Tulis toot baru",
   "navigation_bar.direct": "Pesan langsung",
@@ -340,9 +368,15 @@
   "navigation_bar.security": "Keamanan",
   "notification.favourite": "{name} menyukai status anda",
   "notification.follow": "{name} mengikuti anda",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name} menyebut Anda",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "{name} ingin mengikuti Anda",
+  "notification.mention": "{name} menyebut Anda",
+  "notification.own_poll": "Japat Anda telah berakhir",
+>>>>>>> upstream/master
   "notification.poll": "Japat yang Anda ikuti telah berakhir",
   "notification.reblog": "{name} mem-boost status anda",
   "notification_purge.btn_all": "Select\nall",
@@ -358,6 +392,7 @@
   "notifications.column_settings.filter_bar.category": "Bilah penyaring cepat",
   "notifications.column_settings.filter_bar.show": "Tampilkan",
   "notifications.column_settings.follow": "Pengikut baru:",
+  "notifications.column_settings.follow_request": "Permintaan mengikuti baru:",
   "notifications.column_settings.mention": "Balasan:",
   "notifications.column_settings.poll": "Hasil japat:",
   "notifications.column_settings.push": "Notifikasi dorong",
@@ -419,6 +454,7 @@
   "relative_time.just_now": "sekarang",
   "relative_time.minutes": "{number}b",
   "relative_time.seconds": "{number}d",
+  "relative_time.today": "hari ini",
   "reply_indicator.cancel": "Batal",
   "report.forward": "Teruskan ke {target}",
   "report.forward_hint": "Akun dari server lain. Kirim salinan laporan scr anonim ke sana?",
@@ -507,7 +543,11 @@
   "status.admin_account": "Buka antar muka moderasi untuk @{name}",
   "status.admin_status": "Buka status ini dalam antar muka moderasi",
   "status.block": "Blokir @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "Markah",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Batalkan boost",
   "status.cannot_reblog": "Pos ini tak dapat di-boost",
   "status.collapse": "Collapse",
@@ -541,7 +581,11 @@
   "status.reblogged_by": "di-boost {name}",
   "status.reblogs.empty": "Belum ada yang mem-boost toot ini. Ketika seseorang melakukannya, maka akan muncul di sini.",
   "status.redraft": "Hapus & redraf",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Hapus markah",
+>>>>>>> upstream/master
   "status.reply": "Balas",
   "status.replyAll": "Balas ke semua",
   "status.report": "Laporkan @{name}",
@@ -550,9 +594,9 @@
   "status.share": "Bagikan",
   "status.show_filter_reason": "(show why)",
   "status.show_less": "Tampilkan lebih sedikit",
-  "status.show_less_all": "Show less for all",
+  "status.show_less_all": "Tampilkan lebih sedikit",
   "status.show_more": "Tampilkan semua",
-  "status.show_more_all": "Show more for all",
+  "status.show_more_all": "Tampilkan lebih banyak",
   "status.show_thread": "Tampilkan utas",
   "status.uncached_media_warning": "Tak tersedia",
   "status.uncollapse": "Uncollapse",
@@ -577,11 +621,19 @@
   "upload_button.label": "Tambahkan media",
   "upload_error.limit": "Batas unggah berkas terlampaui.",
   "upload_error.poll": "Unggah berkas tak diizinkan di japat ini.",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "Deskripsikan untuk mereka yang tidak bisa melihat dengan jelas",
   "upload_form.edit": "Sunting",
   "upload_form.undo": "Undo",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "Penjelasan untuk orang dengan gangguan pendengaran",
+  "upload_form.description": "Deskripsikan untuk mereka yang tidak bisa melihat dengan jelas",
+  "upload_form.edit": "Sunting",
+  "upload_form.undo": "Undo",
+  "upload_form.video_description": "Penjelasan untuk orang dengan gangguan pendengaran atau penglihatan",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analisis gambar…",
   "upload_modal.apply": "Terapkan",
   "upload_modal.description_placeholder": "Muharjo seorang xenofobia universal yang takut pada warga jazirah, contohnya Qatar",
@@ -591,7 +643,11 @@
   "upload_modal.preview_label": "Pratinjau ({ratio})",
   "upload_progress.label": "Mengunggah...",
   "video.close": "Tutup video",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Unduh berkas",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Keluar dari layar penuh",
   "video.expand": "Perbesar video",
   "video.fullscreen": "Layar penuh",

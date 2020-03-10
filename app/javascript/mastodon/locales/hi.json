@@ -1,6 +1,7 @@
 {
   "account.add_or_remove_from_list": "सूची में जोड़ें या हटाए",
   "account.badges.bot": "बॉट",
+  "account.badges.group": "Group",
   "account.block": "@{name} को ब्लॉक करें",
   "account.block_domain": "{domain} के सारी चीज़े छुपाएं",
   "account.blocked": "ब्लॉक",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "सीमित दर",
   "alert.unexpected.message": "एक अप्रत्याशित त्रुटि हुई है!",
   "alert.unexpected.title": "उफ़!",
+  "announcement.announcement": "Announcement",
   "autosuggest_hashtag.per_week": "{count} हर सप्ताह",
   "boost_modal.combo": "अगली बार स्किप करने के लिए आप {combo} दबा सकते है",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -108,7 +110,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "कुल विकल्प {number}",
   "compose_form.poll.remove_option": "इस विकल्प को हटाएँ",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Change poll to allow multiple choices",
+  "compose_form.poll.switch_to_single": "Change poll to allow for a single choice",
+>>>>>>> upstream/master
   "compose_form.publish": "टूट्",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "मीडिया को संवेदनशील के रूप में चिह्नित करें",
@@ -225,7 +232,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "बूस्ट दिखाए",
   "home.column_settings.show_replies": "जवाबों को दिखाए",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Hide announcements",
+  "home.show_announcements": "Show announcements",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# day} other {# days}}",
   "intervals.full.hours": "{number, plural, one {# hour} other {# hours}}",
   "intervals.full.minutes": "{number, plural, one {# minute} other {# minutes}}",
@@ -306,8 +318,12 @@
   "lists.subheading": "Your lists",
   "load_pending": "{count, plural, one {# new item} other {# new items}}",
   "loading_indicator.label": "लोड हो रहा है...",
+<<<<<<< HEAD
   "media_gallery.sensitive": "Sensitive",
   "media_gallery.toggle_visible": "Toggle visibility",
+=======
+  "media_gallery.toggle_visible": "Hide media",
+>>>>>>> upstream/master
   "missing_indicator.label": "नहीं मिला",
   "missing_indicator.sublabel": "यह संसाधन नहीं मिल सका।",
   "moved_to_warning": "This account is marked as moved to {moved_to_link}, and may thus not accept new follows.",
@@ -340,7 +356,11 @@
   "navigation_bar.security": "Security",
   "notification.favourite": "{name} favourited your status",
   "notification.follow": "{name} followed you",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
+=======
+  "notification.follow_request": "{name} has requested to follow you",
+>>>>>>> upstream/master
   "notification.mention": "{name} mentioned you",
   "notification.own_poll": "Your poll has ended",
   "notification.poll": "A poll you have voted in has ended",
@@ -358,6 +378,7 @@
   "notifications.column_settings.filter_bar.category": "फ़िल्टर बार",
   "notifications.column_settings.filter_bar.show": "दिखाएँ",
   "notifications.column_settings.follow": "नए फ़ॉलोअर्स",
+  "notifications.column_settings.follow_request": "New follow requests:",
   "notifications.column_settings.mention": "उल्लेख:",
   "notifications.column_settings.poll": "चुनाव परिणाम",
   "notifications.column_settings.push": "पुश सूचनाएँ",
@@ -419,6 +440,7 @@
   "relative_time.just_now": "अभी",
   "relative_time.minutes": "{number}m",
   "relative_time.seconds": "{number}s",
+  "relative_time.today": "today",
   "reply_indicator.cancel": "रद्द करें",
   "report.forward": "Forward to {target}",
   "report.forward_hint": "The account is from another server. Send an anonymized copy of the report there as well?",
@@ -591,7 +613,11 @@
   "upload_modal.preview_label": "Preview ({ratio})",
   "upload_progress.label": "अपलोडिंग...",
   "video.close": "Close video",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "फाइल डाउनलोड करें",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Exit full screen",
   "video.expand": "Expand video",
   "video.fullscreen": "Full screen",

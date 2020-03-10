@@ -1,9 +1,10 @@
 {
   "account.add_or_remove_from_list": "เพิ่มหรือเอาออกจากรายการ",
   "account.badges.bot": "บอต",
-  "account.block": "บล็อค @{name}",
+  "account.badges.group": "กลุ่ม",
+  "account.block": "ปิดกั้น @{name}",
   "account.block_domain": "ซ่อนทุกอย่างจาก {domain}",
-  "account.blocked": "ถูกบล็อค",
+  "account.blocked": "ปิดกั้นอยู่",
   "account.cancel_follow_request": "ยกเลิกคำขอติดตาม",
   "account.direct": "ส่งข้อความโดยตรงถึง @{name}",
   "account.disclaimer_full": "Information below may reflect the user's profile incompletely.",
@@ -48,9 +49,10 @@
   "advanced_options.threaded_mode.short": "Threaded mode",
   "advanced_options.threaded_mode.tooltip": "Threaded mode enabled",
   "alert.rate_limited.message": "โปรดลองใหม่หลังจาก {retry_time, time, medium}",
-  "alert.rate_limited.title": "เข้าใช้งานบ่อยเกินไป",
+  "alert.rate_limited.title": "มีการจำกัดอัตรา",
   "alert.unexpected.message": "เกิดข้อผิดพลาดที่ไม่คาดคิด",
   "alert.unexpected.title": "อุปส์!",
+  "announcement.announcement": "ประกาศ",
   "autosuggest_hashtag.per_week": "{count} ต่อสัปดาห์",
   "boost_modal.combo": "คุณสามารถกด {combo} เพื่อข้ามสิ่งนี้ในครั้งถัดไป",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "มีบางอย่างผิดพลาดขณะโหลดส่วนประกอบนี้",
   "bundle_modal_error.retry": "ลองอีกครั้ง",
   "column.blocks": "ผู้ใช้ที่ปิดกั้นอยู่",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "ที่คั่นหน้า",
+>>>>>>> upstream/master
   "column.community": "เส้นเวลาในเว็บ",
   "column.direct": "ข้อความโดยตรง",
   "column.directory": "เรียกดูโปรไฟล์",
@@ -104,11 +110,19 @@
   "compose_form.lock_disclaimer.lock": "ล็อคอยู่",
   "compose_form.placeholder": "คุณกำลังคิดอะไรอยู่?",
   "compose_form.poll.add_option": "เพิ่มทางเลือก",
+<<<<<<< HEAD
   "compose_form.poll.duration": "ระยะเวลาโพล",
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "ทางเลือก {number}",
   "compose_form.poll.remove_option": "เอาทางเลือกนี้ออก",
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.duration": "ระยะเวลาการสำรวจความคิดเห็น",
+  "compose_form.poll.option_placeholder": "ทางเลือก {number}",
+  "compose_form.poll.remove_option": "เอาทางเลือกนี้ออก",
+  "compose_form.poll.switch_to_multiple": "เปลี่ยนการสำรวจความคิดเห็นเป็นอนุญาตหลายทางเลือก",
+  "compose_form.poll.switch_to_single": "เปลี่ยนการสำรวจความคิดเห็นเป็นอนุญาตทางเลือกเดี่ยว",
+>>>>>>> upstream/master
   "compose_form.publish": "โพสต์",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "ทำเครื่องหมายสื่อว่าละเอียดอ่อน",
@@ -128,14 +142,14 @@
   "confirmations.delete_list.confirm": "ลบ",
   "confirmations.delete_list.message": "คุณแน่ใจหรือไม่ว่าต้องการลบรายการนี้อย่างถาวร?",
   "confirmations.domain_block.confirm": "ซ่อนทั้งโดเมน",
-  "confirmations.domain_block.message": "Are you really, really sure you want to block the entire {domain}? In most cases a few targeted blocks or mutes are sufficient and preferable.",
+  "confirmations.domain_block.message": "คุณแน่ใจจริง ๆ หรือไม่ว่าต้องการปิดกั้นทั้ง {domain}? ในกรณีส่วนใหญ่ การปิดกั้นหรือการปิดเสียงแบบกำหนดเป้าหมายไม่กี่รายการนั้นเพียงพอและเป็นที่นิยม คุณจะไม่เห็นเนื้อหาจากโดเมนนั้นในเส้นเวลาสาธารณะใด ๆ หรือการแจ้งเตือนของคุณ จะเอาผู้ติดตามของคุณจากโดเมนนั้นออก",
   "confirmations.logout.confirm": "ออกจากระบบ",
   "confirmations.logout.message": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
   "confirmations.missing_media_description.confirm": "Send anyway",
   "confirmations.missing_media_description.edit": "Edit media",
   "confirmations.missing_media_description.message": "At least one media attachment is lacking a description. Consider describing all media attachments for the visually impaired before sending your toot.",
   "confirmations.mute.confirm": "ปิดเสียง",
-  "confirmations.mute.explanation": "การกระทำนี้จะซ่อนโพสต์ของเขาและโพสต์ที่มีการกล่าวถึงเขา แต่ยังอนุญาตให้เขาเห็นโพสต์ของคุณและติดตามคุณได้",
+  "confirmations.mute.explanation": "นี่จะซ่อนโพสต์จากเขาและโพสต์ที่กล่าวถึงเขา แต่จะยังอนุญาตให้เขาเห็นโพสต์ของคุณและติดตามคุณ",
   "confirmations.mute.message": "คุณแน่ใจหรือไม่ว่าต้องการปิดเสียง {name}?",
   "confirmations.redraft.confirm": "ลบแล้วร่างใหม่",
   "confirmations.redraft.message": "คุณแน่ใจหรือไม่ว่าต้องการลบสถานะนี้แล้วร่างใหม่? รายการโปรดและการดันจะหายไป และการตอบกลับโพสต์ดั้งเดิมจะไม่มีความเกี่ยวพัน",
@@ -178,7 +192,11 @@
   "empty_column.account_timeline": "ไม่มีโพสต์ที่นี่!",
   "empty_column.account_unavailable": "ไม่มีโปรไฟล์",
   "empty_column.blocks": "คุณยังไม่ได้ปิดกั้นผู้ใช้ใด ๆ",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "คุณยังไม่มีโพสต์ที่เพิ่มที่คั่นหน้าไว้ใด ๆ เมื่อคุณเพิ่มที่คั่นหน้าโพสต์ โพสต์จะปรากฏที่นี่",
+>>>>>>> upstream/master
   "empty_column.community": "เส้นเวลาในเว็บว่างเปล่า เขียนบางอย่างเป็นสาธารณะเพื่อเริ่มต้น!",
   "empty_column.direct": "คุณยังไม่มีข้อความโดยตรงใด ๆ เมื่อคุณส่งหรือรับข้อความ ข้อความจะปรากฏที่นี่",
   "empty_column.domain_blocks": "ยังไม่มีโดเมนที่ซ่อนอยู่",
@@ -193,9 +211,14 @@
   "empty_column.mutes": "คุณยังไม่ได้ปิดเสียงผู้ใช้ใด ๆ",
   "empty_column.notifications": "คุณยังไม่มีการแจ้งเตือนใด ๆ โต้ตอบกับผู้อื่นเพื่อเริ่มการสนทนา",
   "empty_column.public": "ไม่มีสิ่งใดที่นี่! เขียนบางอย่างเป็นสาธารณะ หรือติดตามผู้ใช้จากเซิร์ฟเวอร์อื่น ๆ ด้วยตนเองเพื่อเติมให้เต็ม",
+<<<<<<< HEAD
   "endorsed_accounts_editor.endorsed_accounts": "Featured accounts",
   "error.unexpected_crash.explanation": "หน้านี้ไม่สามารถแสดงผลได้อย่างถูกต้อง เนื่องจากบั๊กในโค้ดของเราหรือปัญหาความเข้ากับได้กับเบราเซอร์",
   "error.unexpected_crash.next_steps": "ลองรีเฟรชหน้านี้ หากไม่สามารถช่วยได้ คุณอาจจะยังคงใช้ Mastodon ผ่านเบราเซอร์อื่นหรือผ่านแอปได้",
+=======
+  "error.unexpected_crash.explanation": "เนื่องจากข้อบกพร่องในโค้ดของเราหรือปัญหาความเข้ากันได้ของเบราว์เซอร์ จึงไม่สามารถแสดงหน้านี้ได้อย่างถูกต้อง",
+  "error.unexpected_crash.next_steps": "ลองรีเฟรชหน้า หากนั่นไม่ช่วย คุณอาจยังสามารถใช้ Mastodon ผ่านเบราว์เซอร์อื่นหรือแอป",
+>>>>>>> upstream/master
   "errors.unexpected_crash.copy_stacktrace": "คัดลอกการติดตามสแตกไปยังคลิปบอร์ด",
   "errors.unexpected_crash.report_issue": "รายงานปัญหา",
   "favourite_modal.combo": "You can press {combo} to skip this next time",
@@ -208,7 +231,7 @@
   "getting_started.invite": "เชิญผู้คน",
   "getting_started.onboarding": "Show me around",
   "getting_started.open_source_notice": "Mastodon เป็นซอฟต์แวร์เปิดต้นฉบับ คุณสามารถมีส่วนร่วมหรือรายงานปัญหาที่ GitHub ที่ {github}",
-  "getting_started.security": "ความปลอดภัย",
+  "getting_started.security": "การตั้งค่าบัญชี",
   "getting_started.terms": "เงื่อนไขการให้บริการ",
   "hashtag.column_header.tag_mode.all": "และ {additional}",
   "hashtag.column_header.tag_mode.any": "หรือ {additional}",
@@ -225,7 +248,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "แสดงการดัน",
   "home.column_settings.show_replies": "แสดงการตอบกลับ",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "ซ่อนประกาศ",
+  "home.show_announcements": "แสดงประกาศ",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, other {# วัน}}",
   "intervals.full.hours": "{number, plural, other {# ชั่วโมง}}",
   "intervals.full.minutes": "{number, plural, other {# นาที}}",
@@ -238,14 +266,14 @@
   "introduction.federation.local.text": "โพสต์สาธารณะจากผู้คนในเซิร์ฟเวอร์เดียวกันกับคุณจะปรากฏในเส้นเวลาในเว็บ",
   "introduction.interactions.action": "เสร็จสิ้นบทช่วยสอน!",
   "introduction.interactions.favourite.headline": "ชื่นชอบ",
-  "introduction.interactions.favourite.text": "คุณสามารถบันทึกโพสต์เพื่ออ่านทีหลัง และแจ้งให้ผู้เขียนโพสต์ทราบว่าคุณชอบโพสต์นั้นโดยการชื่นชอบโพสต์",
+  "introduction.interactions.favourite.text": "คุณสามารถบันทึกโพสต์ไว้ในภายหลังและแจ้งให้ผู้สร้างทราบว่าคุณชอบโพสต์โดยการชื่นชอบโพสต์",
   "introduction.interactions.reblog.headline": "ดัน",
-  "introduction.interactions.reblog.text": "คุณสามารถแชร์โพสต์ของผู้อื่นให้กับผู้ติดตามของคุณได้โดยการดันโพสต์",
+  "introduction.interactions.reblog.text": "คุณสามารถแบ่งปันโพสต์ของผู้อื่นกับผู้ติดตามของคุณโดยการดันโพสต์",
   "introduction.interactions.reply.headline": "ตอบกลับ",
-  "introduction.interactions.reply.text": "คุณสามารถตอบกลับโพสต์ของผู้อื่นและโพสต์ของคุณได้ ซึ่งจะถูกรวมเข้าด้วยกันเป็นบทสนทนา",
+  "introduction.interactions.reply.text": "คุณสามารถตอบกลับโพสต์ของผู้อื่นและของคุณเอง ซึ่งจะเชื่อมโยงโพสต์เข้าด้วยกันในการสนทนา",
   "introduction.welcome.action": "ไปกันเลย!",
   "introduction.welcome.headline": "ขั้นตอนแรก",
-  "introduction.welcome.text": "ยินดีต้อนรับสู่เฟดิเวิร์ส! ในอีกสักครู่คุณจะได้เผยแพร่ข้อความและคุยกับเพื่อนของคุณในหลากหลายเซิร์ฟเวอร์ แต่เซิร์ฟเวอร์ {domain} นี้มีความพิเศษ เพราะเป็นที่ที่โปรไฟล์ของคุณตั้งอยู่ จำชื่อไว้ด้วยนะ",
+  "introduction.welcome.text": "ยินดีต้อนรับสู่เฟดิเวิร์ส! ในอีกสักครู่ คุณจะสามารถออกอากาศข้อความและพูดคุยกับเพื่อน ๆ ของคุณผ่านเซิร์ฟเวอร์ที่หลากหลาย แต่เซิร์ฟเวอร์นี้ {domain} มีความพิเศษคือเป็นเซิร์ฟเวอร์ที่โฮสต์โปรไฟล์ของคุณ ดังนั้นจดจำชื่อของเซิร์ฟเวอร์ไว้",
   "keyboard_shortcuts.back": "เพื่อนำทางย้อนกลับ",
   "keyboard_shortcuts.blocked": "เพื่อเปิดรายการผู้ใช้ที่ปิดกั้นอยู่",
   "keyboard_shortcuts.bookmark": "to bookmark",
@@ -268,7 +296,11 @@
   "keyboard_shortcuts.muted": "เพื่อเปิดรายการผู้ใช้ที่ปิดเสียงอยู่",
   "keyboard_shortcuts.my_profile": "เพื่อเปิดโปรไฟล์ของคุณ",
   "keyboard_shortcuts.notifications": "เพื่อเปิดคอลัมน์การแจ้งเตือน",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "เพื่อเปิดสื่อ",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "เพื่อเปิดรายการโพสต์ที่ปักหมุด",
   "keyboard_shortcuts.profile": "เพื่อเปิดโปรไฟล์ของผู้สร้าง",
   "keyboard_shortcuts.reply": "เพื่อตอบกลับ",
@@ -315,7 +347,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "แอปมือถือ",
   "navigation_bar.blocks": "ผู้ใช้ที่ปิดกั้นอยู่",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "ที่คั่นหน้า",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "เส้นเวลาในเว็บ",
   "navigation_bar.compose": "เขียนโพสต์ใหม่",
   "navigation_bar.direct": "ข้อความโดยตรง",
@@ -340,10 +376,17 @@
   "navigation_bar.security": "ความปลอดภัย",
   "notification.favourite": "{name} ได้ชื่นชอบสถานะของคุณ",
   "notification.follow": "{name} ได้ติดตามคุณ",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name} ได้กล่าวถึงคุณ",
   "notification.own_poll": "Your poll has ended",
   "notification.poll": "โพลที่คุณได้ลงคะแนนได้สิ้นสุดแล้ว",
+=======
+  "notification.follow_request": "{name} ได้ขอติดตามคุณ",
+  "notification.mention": "{name} ได้กล่าวถึงคุณ",
+  "notification.own_poll": "การสำรวจความคิดเห็นของคุณได้สิ้นสุดแล้ว",
+  "notification.poll": "การสำรวจความคิดเห็นที่คุณได้ลงคะแนนได้สิ้นสุดแล้ว",
+>>>>>>> upstream/master
   "notification.reblog": "{name} ได้ดันสถานะของคุณ",
   "notification_purge.btn_all": "Select\nall",
   "notification_purge.btn_apply": "Clear\nselected",
@@ -358,8 +401,9 @@
   "notifications.column_settings.filter_bar.category": "แถบตัวกรองด่วน",
   "notifications.column_settings.filter_bar.show": "แสดง",
   "notifications.column_settings.follow": "ผู้ติดตามใหม่:",
+  "notifications.column_settings.follow_request": "คำขอติดตามใหม่:",
   "notifications.column_settings.mention": "การกล่าวถึง:",
-  "notifications.column_settings.poll": "ผลลัพธ์โพล:",
+  "notifications.column_settings.poll": "ผลลัพธ์การสำรวจความคิดเห็น:",
   "notifications.column_settings.push": "การแจ้งเตือนแบบผลัก",
   "notifications.column_settings.push_meta": "This device",
   "notifications.column_settings.reblog": "การดัน:",
@@ -370,7 +414,7 @@
   "notifications.filter.favourites": "รายการโปรด",
   "notifications.filter.follows": "การติดตาม",
   "notifications.filter.mentions": "การกล่าวถึง",
-  "notifications.filter.polls": "ผลลัพธ์โพล",
+  "notifications.filter.polls": "ผลลัพธ์การสำรวจความคิดเห็น",
   "notifications.group": "{count} การแจ้งเตือน",
   "notifications.marked_clear": "Clear selected notifications",
   "notifications.marked_clear_confirmation": "Are you sure you want to permanently clear all selected notifications?",
@@ -400,8 +444,8 @@
   "poll.total_votes": "{count, plural, other {# การลงคะแนน}}",
   "poll.vote": "ลงคะแนน",
   "poll.voted": "คุณได้ลงคะแนนให้กับคำตอบนี้",
-  "poll_button.add_poll": "เพิ่มโพล",
-  "poll_button.remove_poll": "เอาโพลออก",
+  "poll_button.add_poll": "เพิ่มการสำรวจความคิดเห็น",
+  "poll_button.remove_poll": "เอาการสำรวจความคิดเห็นออก",
   "privacy.change": "ปรับเปลี่ยนความเป็นส่วนตัวของสถานะ",
   "privacy.direct.long": "โพสต์ไปยังผู้ใช้ที่กล่าวถึงเท่านั้น",
   "privacy.direct.short": "โดยตรง",
@@ -419,6 +463,7 @@
   "relative_time.just_now": "ตอนนี้",
   "relative_time.minutes": "{number} นาที",
   "relative_time.seconds": "{number} วินาที",
+  "relative_time.today": "วันนี้",
   "reply_indicator.cancel": "ยกเลิก",
   "report.forward": "ส่งต่อไปยัง {target}",
   "report.forward_hint": "บัญชีมาจากเซิร์ฟเวอร์อื่น ส่งสำเนาของรายงานที่ไม่ระบุตัวตนไปที่นั่นด้วย?",
@@ -436,7 +481,7 @@
   "search_results.accounts": "ผู้คน",
   "search_results.hashtags": "แฮชแท็ก",
   "search_results.statuses": "โพสต์",
-  "search_results.statuses_fts_disabled": "การค้นหาเนื้อหาในโพสต์ถูกปิดบนเซิร์ฟเวอร์ Mastodon นี้",
+  "search_results.statuses_fts_disabled": "ไม่มีการเปิดใช้งานการค้นหาโพสต์โดยเนื้อหาของโพสต์ในเซิร์ฟเวอร์ Mastodon นี้",
   "search_results.total": "{count, number} {count, plural, other {ผลลัพธ์}}",
   "settings.always_show_spoilers_field": "Always enable the Content Warning field",
   "settings.auto_collapse": "Automatic collapsing",
@@ -507,7 +552,11 @@
   "status.admin_account": "เปิดส่วนติดต่อการควบคุมสำหรับ @{name}",
   "status.admin_status": "เปิดสถานะนี้ในส่วนติดต่อการควบคุม",
   "status.block": "ปิดกั้น @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "เพิ่มที่คั่นหน้า",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "เลิกดัน",
   "status.cannot_reblog": "ไม่สามารถดันโพสต์นี้",
   "status.collapse": "Collapse",
@@ -541,7 +590,11 @@
   "status.reblogged_by": "{name} ได้ดัน",
   "status.reblogs.empty": "ยังไม่มีใครดันโพสต์นี้ เมื่อใครสักคนดัน เขาจะปรากฏที่นี่",
   "status.redraft": "ลบแล้วร่างใหม่",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "เอาที่คั่นหน้าออก",
+>>>>>>> upstream/master
   "status.reply": "ตอบกลับ",
   "status.replyAll": "ตอบกลับกระทู้",
   "status.report": "รายงาน @{name}",
@@ -554,8 +607,12 @@
   "status.show_more": "แสดงเพิ่มเติม",
   "status.show_more_all": "แสดงเพิ่มเติมทั้งหมด",
   "status.show_thread": "แสดงกระทู้",
+<<<<<<< HEAD
   "status.uncached_media_warning": "ไม่สามารถดูได้",
   "status.uncollapse": "Uncollapse",
+=======
+  "status.uncached_media_warning": "ไม่พร้อมใช้งาน",
+>>>>>>> upstream/master
   "status.unmute_conversation": "เลิกปิดเสียงการสนทนา",
   "status.unpin": "ถอนหมุดจากโปรไฟล์",
   "suggestions.dismiss": "ยกเลิกข้อเสนอแนะ",
@@ -574,24 +631,36 @@
   "trends.trending_now": "กำลังนิยม",
   "ui.beforeunload": "แบบร่างของคุณจะหายไปหากคุณออกจาก Mastodon",
   "upload_area.title": "ลากแล้วปล่อยเพื่ออัปโหลด",
-  "upload_button.label": "เพิ่มสื่อ (JPEG, PNG, GIF, WebM, MP4, MOV)",
+  "upload_button.label": "เพิ่มสื่อ ({formats})",
   "upload_error.limit": "เกินขีดจำกัดการอัปโหลดไฟล์",
   "upload_error.poll": "ไม่อนุญาตให้อัปโหลดไฟล์กับการลงคะแนน",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "อธิบายสำหรับผู้บกพร่องทางการมองเห็น",
   "upload_form.edit": "แก้ไข",
   "upload_form.undo": "ลบ",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "อธิบายสำหรับผู้สูญเสียการได้ยิน",
+  "upload_form.description": "อธิบายสำหรับผู้บกพร่องทางการมองเห็น",
+  "upload_form.edit": "แก้ไข",
+  "upload_form.undo": "ลบ",
+  "upload_form.video_description": "อธิบายสำหรับผู้สูญเสียการได้ยินหรือบกพร่องทางการมองเห็น",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "กำลังวิเคราะห์รูปภาพ…",
   "upload_modal.apply": "นำไปใช้",
-  "upload_modal.description_placeholder": "A quick brown fox jumps over the lazy dog",
-  "upload_modal.detect_text": "ตรวจจับข้อความจากรูปภาพ",
+  "upload_modal.description_placeholder": "สุนัขจิ้งจอกสีน้ำตาลที่ว่องไวกระโดดข้ามสุนัขขี้เกียจ",
+  "upload_modal.detect_text": "ตรวจหาข้อความจากรูปภาพ",
   "upload_modal.edit_media": "แก้ไขสื่อ",
-  "upload_modal.hint": "คลิกหรือลากวงกลมในภาพเพื่อเลือกจุดโฟกัส ซึ่งจะทำให้ส่วนนั้นอยู่ในกรอบของภาพขนาดย่อตลอดเวลา",
+  "upload_modal.hint": "คลิกหรือลากวงกลมในตัวอย่างเพื่อเลือกจุดโฟกัส ซึ่งจะอยู่ในมุมมองของภาพขนาดย่อทั้งหมดเสมอ",
   "upload_modal.preview_label": "ตัวอย่าง ({ratio})",
   "upload_progress.label": "กำลังอัปโหลด...",
   "video.close": "ปิดวิดีโอ",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "ดาวน์โหลดไฟล์",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "ออกจากเต็มหน้าจอ",
   "video.expand": "ขยายวิดีโอ",
   "video.fullscreen": "เต็มหน้าจอ",

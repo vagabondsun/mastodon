@@ -53,7 +53,7 @@ const expandNormalizedTimeline = (state, timeline, statuses, next, isPartial, is
 
         return oldIds.take(firstIndex + 1).concat(
           isPartial && oldIds.get(firstIndex) !== null ? newIds.unshift(null) : newIds,
-          oldIds.skip(lastIndex)
+          oldIds.skip(lastIndex),
         );
       });
     }
@@ -71,7 +71,7 @@ const updateTimeline = (state, timeline, status, usePendingItems, filtered) => {
     state = state.update(timeline, initialTimeline, map => map.update('pendingItems', list => list.unshift(status.get('id'))));
 
     if (!filtered) {
-      state = state.update('unread', unread => unread + 1);
+      state = state.updateIn([timeline, 'unread'], unread => unread + 1);
     }
 
     return state;
@@ -171,7 +171,7 @@ export default function timelines(state = initialState, action) {
     return state.update(
       action.timeline,
       initialTimeline,
-      map => map.set('online', false).update(action.usePendingItems ? 'pendingItems' : 'items', items => items.first() ? items.unshift(null) : items)
+      map => map.set('online', false).update(action.usePendingItems ? 'pendingItems' : 'items', items => items.first() ? items.unshift(null) : items),
     );
   default:
     return state;

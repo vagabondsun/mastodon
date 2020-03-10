@@ -1,6 +1,7 @@
 {
   "account.add_or_remove_from_list": "Agregar o quitar de las listas",
   "account.badges.bot": "Bot",
+  "account.badges.group": "Grupo",
   "account.block": "Bloquear a @{name}",
   "account.block_domain": "Ocultar todo de {domain}",
   "account.blocked": "Bloqueado",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Tarifa limitada",
   "alert.unexpected.message": "Ocurrió un error.",
   "alert.unexpected.title": "¡Epa!",
+  "announcement.announcement": "Anuncio",
   "autosuggest_hashtag.per_week": "{count} por semana",
   "boost_modal.combo": "Podés hacer clic en {combo} para saltar esto la próxima vez",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "Algo salió mal al cargar este componente.",
   "bundle_modal_error.retry": "Intentá de nuevo",
   "column.blocks": "Usuarios bloqueados",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Marcadores",
+>>>>>>> upstream/master
   "column.community": "Línea temporal local",
   "column.direct": "Mensajes directos",
   "column.directory": "Explorar perfiles",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Opción {number}",
   "compose_form.poll.remove_option": "Quitá esta opción",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Cambiar encuesta para permitir opciones múltiples",
+  "compose_form.poll.switch_to_single": "Cambiar encuesta para permitir una sola opción",
+>>>>>>> upstream/master
   "compose_form.publish": "Tootear",
   "compose_form.publish_loud": "¡{publish}!",
   "compose_form.sensitive.hide": "Marcar medio como sensible",
@@ -178,7 +189,11 @@
   "empty_column.account_timeline": "¡No hay toots aquí!",
   "empty_column.account_unavailable": "Perfil no disponible",
   "empty_column.blocks": "Todavía no bloqueaste a ningún usuario.",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "Todavía no tenés toots guardados en marcadores. Cuando guardés uno en marcadores, se mostrará acá.",
+>>>>>>> upstream/master
   "empty_column.community": "La línea temporal local está vacía. ¡Escribí algo en modo público para que se empiece a correr la bola!",
   "empty_column.direct": "Todavía no tenés ningún mensaje directo. Cuando enviés o recibás uno, se mostrará acá.",
   "empty_column.domain_blocks": "Todavía no hay dominios ocultos.",
@@ -225,7 +240,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Mostrar retoots",
   "home.column_settings.show_replies": "Mostrar respuestas",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Ocultar anuncios",
+  "home.show_announcements": "Mostrar anuncios",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# día} other {# días}}",
   "intervals.full.hours": "{number, plural, one {# hora} other {# horas}}",
   "intervals.full.minutes": "{number, plural, one {# minuto} other {# minutos}}",
@@ -233,7 +253,7 @@
   "introduction.federation.federated.headline": "Federado",
   "introduction.federation.federated.text": "Los toots públicos de otros servidores del fediverso aparecerán en la línea temporal federada.",
   "introduction.federation.home.headline": "Principal",
-  "introduction.federation.home.text": "Los toots de las personas que seguíss aparecerán en tu línea temporal principal. ¡Podés seguir a cualquiera en cualquier servidor!",
+  "introduction.federation.home.text": "Los toots de las personas que seguís aparecerán en tu línea temporal principal. ¡Podés seguir a cualquiera en cualquier servidor!",
   "introduction.federation.local.headline": "Local",
   "introduction.federation.local.text": "Los toots públicos de las personas en el mismo servidor aparecerán en la línea temporal local.",
   "introduction.interactions.action": "¡Terminar tutorial!",
@@ -268,7 +288,11 @@
   "keyboard_shortcuts.muted": "abrir la lista de usuarios silenciados",
   "keyboard_shortcuts.my_profile": "para abrir tu perfil",
   "keyboard_shortcuts.notifications": "para abrir la columna de notificaciones",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "para abrir archivos de medios",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "para abrir lista de toots fijados",
   "keyboard_shortcuts.profile": "para abrir el perfil del autor",
   "keyboard_shortcuts.reply": "para responder",
@@ -315,7 +339,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Aplicaciones móviles",
   "navigation_bar.blocks": "Usuarios bloqueados",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Marcadores",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Línea temporal local",
   "navigation_bar.compose": "Redactar un nuevo toot",
   "navigation_bar.direct": "Mensajes directos",
@@ -340,9 +368,15 @@
   "navigation_bar.security": "Seguridad",
   "notification.favourite": "{name} marcó tu estado como favorito",
   "notification.follow": "{name} te empezó a seguir",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name} te mencionó",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "{name} solicitó seguirte",
+  "notification.mention": "{name} te mencionó",
+  "notification.own_poll": "Tu encuesta finalizó",
+>>>>>>> upstream/master
   "notification.poll": "Finalizó una encuesta en la que votaste",
   "notification.reblog": "{name} retooteó tu estado",
   "notification_purge.btn_all": "Select\nall",
@@ -358,6 +392,7 @@
   "notifications.column_settings.filter_bar.category": "Barra de filtrado rápido",
   "notifications.column_settings.filter_bar.show": "Mostrar",
   "notifications.column_settings.follow": "Nuevos seguidores:",
+  "notifications.column_settings.follow_request": "Nuevas solicitudes de seguimiento:",
   "notifications.column_settings.mention": "Menciones:",
   "notifications.column_settings.poll": "Resultados de la encuesta:",
   "notifications.column_settings.push": "Notificaciones push",
@@ -419,6 +454,7 @@
   "relative_time.just_now": "recién",
   "relative_time.minutes": "{number}m",
   "relative_time.seconds": "{number}s",
+  "relative_time.today": "hoy",
   "reply_indicator.cancel": "Cancelar",
   "report.forward": "Reenviar a {target}",
   "report.forward_hint": "La cuenta es de otro servidor. ¿Querés enviar una copia anonimizada del informe también ahí?",
@@ -507,7 +543,11 @@
   "status.admin_account": "Abrir interface de moderación para @{name}",
   "status.admin_status": "Abrir este estado en la interface de moderación",
   "status.block": "Bloquear a @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "Marcador",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Quitar retoot",
   "status.cannot_reblog": "No se puede retootear este toot",
   "status.collapse": "Collapse",
@@ -541,7 +581,11 @@
   "status.reblogged_by": "{name} retooteó",
   "status.reblogs.empty": "Todavía nadie retooteó este toot. Cuando alguien lo haga, se mostrará acá.",
   "status.redraft": "Eliminar toot original y editarlo",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Quitar marcador",
+>>>>>>> upstream/master
   "status.reply": "Responder",
   "status.replyAll": "Responder al hilo",
   "status.report": "Denunciar a @{name}",
@@ -577,11 +621,19 @@
   "upload_button.label": "Agregar medios ({formats})",
   "upload_error.limit": "Se excedió el límite de subida de archivos.",
   "upload_error.poll": "No se permite la subida de archivos en encuestas.",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "Agregar descripción para los usuarios con dificultades visuales",
   "upload_form.edit": "Editar",
   "upload_form.undo": "Eliminar",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "Describir para personas con problemas auditivos",
+  "upload_form.description": "Agregar descripción para los usuarios con dificultades visuales",
+  "upload_form.edit": "Editar",
+  "upload_form.undo": "Eliminar",
+  "upload_form.video_description": "Describir para personas con problemas auditivos o visuales",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analizando imagen…",
   "upload_modal.apply": "Aplicar",
   "upload_modal.description_placeholder": "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja.",
@@ -591,7 +643,11 @@
   "upload_modal.preview_label": "Previsualización ({ratio})",
   "upload_progress.label": "Subiendo…",
   "video.close": "Cerrar video",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Descargar archivo",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Salir de pantalla completa",
   "video.expand": "Expandir vídeo",
   "video.fullscreen": "Pantalla completa",

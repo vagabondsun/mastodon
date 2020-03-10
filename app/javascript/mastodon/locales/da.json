@@ -1,6 +1,7 @@
 {
   "account.add_or_remove_from_list": "Tilføj eller fjern fra lister",
   "account.badges.bot": "Robot",
+  "account.badges.group": "Group",
   "account.block": "Bloker @{name}",
   "account.block_domain": "Skjul alt fra {domain}",
   "account.blocked": "Blokeret",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Gradsbegrænset",
   "alert.unexpected.message": "Der opstod en uventet fejl.",
   "alert.unexpected.title": "Ups!",
+  "announcement.announcement": "Announcement",
   "autosuggest_hashtag.per_week": "{count} per uge",
   "boost_modal.combo": "Du kan trykke {combo} for at springe dette over næste gang",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "Noget gik galt under indlæsningen af dette komponent.",
   "bundle_modal_error.retry": "Prøv igen",
   "column.blocks": "Blokerede brugere",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Bogmærker",
+>>>>>>> upstream/master
   "column.community": "Lokal tidslinje",
   "column.direct": "Direkte beskeder",
   "column.directory": "Gennemse profiler",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Valgmulighed {number}",
   "compose_form.poll.remove_option": "Fjern denne valgmulighed",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Change poll to allow multiple choices",
+  "compose_form.poll.switch_to_single": "Change poll to allow for a single choice",
+>>>>>>> upstream/master
   "compose_form.publish": "Trut",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Markér medie som følsomt",
@@ -225,7 +236,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Vis fremhævelser",
   "home.column_settings.show_replies": "Vis svar",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Hide announcements",
+  "home.show_announcements": "Show announcements",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# dag} other {# dage}}",
   "intervals.full.hours": "{number, plural, one {# time} other {# timer}}",
   "intervals.full.minutes": "{number, plural, one {# minut} other {# minutter}}",
@@ -315,7 +331,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Mobil apps",
   "navigation_bar.blocks": "Blokerede brugere",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Bogmærker",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Lokal tidslinje",
   "navigation_bar.compose": "Skriv nyt trut",
   "navigation_bar.direct": "Direkte beskeder",
@@ -340,9 +360,15 @@
   "navigation_bar.security": "Sikkerhed",
   "notification.favourite": "{name} favoriserede din status",
   "notification.follow": "{name} fulgte dig",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name} nævnte dig",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "{name} has requested to follow you",
+  "notification.mention": "{name} nævnte dig",
+  "notification.own_poll": "Din afstemning er afsluttet",
+>>>>>>> upstream/master
   "notification.poll": "En afstemning, du stemte i, er slut",
   "notification.reblog": "{name} boostede din status",
   "notification_purge.btn_all": "Select\nall",
@@ -358,6 +384,7 @@
   "notifications.column_settings.filter_bar.category": "Hurtigfilter",
   "notifications.column_settings.filter_bar.show": "Vis",
   "notifications.column_settings.follow": "Nye følgere:",
+  "notifications.column_settings.follow_request": "New follow requests:",
   "notifications.column_settings.mention": "Statusser der nævner dig:",
   "notifications.column_settings.poll": "Afstemningsresultat:",
   "notifications.column_settings.push": "Pushnotifikationer",
@@ -419,6 +446,7 @@
   "relative_time.just_now": "nu",
   "relative_time.minutes": "{number}m",
   "relative_time.seconds": "{number}s",
+  "relative_time.today": "today",
   "reply_indicator.cancel": "Annuller",
   "report.forward": "Videresend til {target}",
   "report.forward_hint": "Kontoen er fra en anden server. Vil du også sende en anonym kopi af anmeldelsen dertil?",
@@ -507,7 +535,11 @@
   "status.admin_account": "Åben modereringsvisning for @{name}",
   "status.admin_status": "Åben denne status i modereringsvisningen",
   "status.block": "Bloker @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "Bogmærke",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Fjern boost",
   "status.cannot_reblog": "Denne post kan ikke boostes",
   "status.collapse": "Collapse",
@@ -541,7 +573,11 @@
   "status.reblogged_by": "{name} boostede",
   "status.reblogs.empty": "Der er endnu ingen der har boostet dette trut. Når der er nogen der gør, vil det blive vist her.",
   "status.redraft": "Slet og omskriv",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Fjern bogmærke",
+>>>>>>> upstream/master
   "status.reply": "Besvar",
   "status.replyAll": "Besvar samtale",
   "status.report": "Anmeld @{name}",
@@ -591,7 +627,11 @@
   "upload_modal.preview_label": "Forhåndsvisning ({ratio})",
   "upload_progress.label": "Uploader...",
   "video.close": "Luk video",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Hent fil",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Forlad fuldskærm",
   "video.expand": "Udvid video",
   "video.fullscreen": "Fuldskærm",

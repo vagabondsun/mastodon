@@ -1,6 +1,7 @@
 {
   "account.add_or_remove_from_list": "Dodaj lub usuń z list",
   "account.badges.bot": "Bot",
+  "account.badges.group": "Grupa",
   "account.block": "Blokuj @{name}",
   "account.block_domain": "Blokuj wszystko z {domain}",
   "account.blocked": "Zablokowany(-a)",
@@ -51,6 +52,7 @@
   "alert.rate_limited.title": "Ograniczony czasowo",
   "alert.unexpected.message": "Wystąpił nieoczekiwany błąd.",
   "alert.unexpected.title": "O nie!",
+  "announcement.announcement": "Ogłoszenie",
   "autosuggest_hashtag.per_week": "{count} co tydzień",
   "boost_modal.combo": "Naciśnij {combo}, aby pominąć to następnym razem",
   "boost_modal.missing_description": "This toot contains some media without description",
@@ -61,7 +63,11 @@
   "bundle_modal_error.message": "Coś poszło nie tak podczas ładowania tego składnika.",
   "bundle_modal_error.retry": "Spróbuj ponownie",
   "column.blocks": "Zablokowani użytkownicy",
+<<<<<<< HEAD
   "column.bookmarks": "Bookmarks",
+=======
+  "column.bookmarks": "Zakładki",
+>>>>>>> upstream/master
   "column.community": "Lokalna oś czasu",
   "column.direct": "Wiadomości bezpośrednie",
   "column.directory": "Przeglądaj profile",
@@ -108,7 +114,12 @@
   "compose_form.poll.multiple_choices": "Allow multiple choices",
   "compose_form.poll.option_placeholder": "Opcja {number}",
   "compose_form.poll.remove_option": "Usuń tę opcję",
+<<<<<<< HEAD
   "compose_form.poll.single_choice": "Allow one choice",
+=======
+  "compose_form.poll.switch_to_multiple": "Pozwól na wybranie wielu opcji",
+  "compose_form.poll.switch_to_single": "Pozwól na wybranie tylko jednej opcji",
+>>>>>>> upstream/master
   "compose_form.publish": "Wyślij",
   "compose_form.publish_loud": "{publish}!",
   "compose_form.sensitive.hide": "Oznacz multimedia jako wrażliwe",
@@ -178,7 +189,11 @@
   "empty_column.account_timeline": "Brak wpisów tutaj!",
   "empty_column.account_unavailable": "Profil niedostępny",
   "empty_column.blocks": "Nie zablokowałeś(-aś) jeszcze żadnego użytkownika.",
+<<<<<<< HEAD
   "empty_column.bookmarked_statuses": "You don't have any bookmarked toots yet. When you bookmark one, it will show up here.",
+=======
+  "empty_column.bookmarked_statuses": "Nie dodałeś(-aś) żadnego wpisu do zakładek. Kiedy to zrobisz, pojawi się on tutaj.",
+>>>>>>> upstream/master
   "empty_column.community": "Lokalna oś czasu jest pusta. Napisz coś publicznie, aby zagaić!",
   "empty_column.direct": "Nie masz żadnych wiadomości bezpośrednich. Kiedy dostaniesz lub wyślesz jakąś, pojawi się ona tutaj.",
   "empty_column.domain_blocks": "Brak ukrytych domen.",
@@ -225,7 +240,12 @@
   "home.column_settings.show_direct": "Show DMs",
   "home.column_settings.show_reblogs": "Pokazuj podbicia",
   "home.column_settings.show_replies": "Pokazuj odpowiedzi",
+<<<<<<< HEAD
   "home.settings": "Column settings",
+=======
+  "home.hide_announcements": "Ukryj ogłoszenia",
+  "home.show_announcements": "Pokaż ogłoszenia",
+>>>>>>> upstream/master
   "intervals.full.days": "{number, plural, one {# dzień} few {# dni} many {# dni} other {# dni}}",
   "intervals.full.hours": "{number, plural, one {# godzina} few {# godziny} many {# godzin} other {# godzin}}",
   "intervals.full.minutes": "{number, plural, one {# minuta} few {# minuty} many {# minut} other {# minut}}",
@@ -268,7 +288,11 @@
   "keyboard_shortcuts.muted": "aby przejść do listy wyciszonych użytkowników",
   "keyboard_shortcuts.my_profile": "aby otworzyć własny profil",
   "keyboard_shortcuts.notifications": "aby otworzyć kolumnę powiadomień",
+<<<<<<< HEAD
   "keyboard_shortcuts.open_media": "to open media",
+=======
+  "keyboard_shortcuts.open_media": "aby otworzyć zawartość multimedialną",
+>>>>>>> upstream/master
   "keyboard_shortcuts.pinned": "aby przejść do listy przypiętych wpisów",
   "keyboard_shortcuts.profile": "aby przejść do profilu autora wpisu",
   "keyboard_shortcuts.reply": "aby odpowiedzieć",
@@ -315,7 +339,11 @@
   "navigation_bar.app_settings": "App settings",
   "navigation_bar.apps": "Aplikacje mobilne",
   "navigation_bar.blocks": "Zablokowani użytkownicy",
+<<<<<<< HEAD
   "navigation_bar.bookmarks": "Bookmarks",
+=======
+  "navigation_bar.bookmarks": "Zakładki",
+>>>>>>> upstream/master
   "navigation_bar.community_timeline": "Lokalna oś czasu",
   "navigation_bar.compose": "Utwórz nowy wpis",
   "navigation_bar.direct": "Wiadomości bezpośrednie",
@@ -340,9 +368,15 @@
   "navigation_bar.security": "Bezpieczeństwo",
   "notification.favourite": "{name} dodał(a) Twój wpis do ulubionych",
   "notification.follow": "{name} zaczął(-ęła) Cię śledzić",
+<<<<<<< HEAD
   "notification.markForDeletion": "Mark for deletion",
   "notification.mention": "{name} wspomniał(a) o tobie",
   "notification.own_poll": "Your poll has ended",
+=======
+  "notification.follow_request": "{name} poprosił(a) o możliwość śledzenia Cię",
+  "notification.mention": "{name} wspomniał(a) o tobie",
+  "notification.own_poll": "Twoje głosowanie zakończyło się",
+>>>>>>> upstream/master
   "notification.poll": "Głosowanie w którym brałeś(-aś) udział zakończyła się",
   "notification.reblog": "{name} podbił(a) Twój wpis",
   "notification_purge.btn_all": "Select\nall",
@@ -358,6 +392,7 @@
   "notifications.column_settings.filter_bar.category": "Szybkie filtrowanie",
   "notifications.column_settings.filter_bar.show": "Pokaż",
   "notifications.column_settings.follow": "Nowi śledzący:",
+  "notifications.column_settings.follow_request": "Nowe prośby o możliwość śledzenia:",
   "notifications.column_settings.mention": "Wspomnienia:",
   "notifications.column_settings.poll": "Wyniki głosowania:",
   "notifications.column_settings.push": "Powiadomienia push",
@@ -419,6 +454,7 @@
   "relative_time.just_now": "teraz",
   "relative_time.minutes": "{number} min.",
   "relative_time.seconds": "{number} s.",
+  "relative_time.today": "dzisiaj",
   "reply_indicator.cancel": "Anuluj",
   "report.forward": "Przekaż na {target}",
   "report.forward_hint": "To konto znajduje się na innej instancji. Czy chcesz wysłać anonimową kopię zgłoszenia rnież na nią?",
@@ -507,7 +543,11 @@
   "status.admin_account": "Otwórz interfejs moderacyjny dla @{name}",
   "status.admin_status": "Otwórz ten wpis w interfejsie moderacyjnym",
   "status.block": "Zablokuj @{name}",
+<<<<<<< HEAD
   "status.bookmark": "Bookmark",
+=======
+  "status.bookmark": "Dodaj zakładkę",
+>>>>>>> upstream/master
   "status.cancel_reblog_private": "Cofnij podbicie",
   "status.cannot_reblog": "Ten wpis nie może zostać podbity",
   "status.collapse": "Collapse",
@@ -541,7 +581,11 @@
   "status.reblogged_by": "{name} podbił(a)",
   "status.reblogs.empty": "Nikt nie podbił jeszcze tego wpisu. Gdy ktoś to zrobi, pojawi się tutaj.",
   "status.redraft": "Usuń i przeredaguj",
+<<<<<<< HEAD
   "status.remove_bookmark": "Remove bookmark",
+=======
+  "status.remove_bookmark": "Usuń zakładkę",
+>>>>>>> upstream/master
   "status.reply": "Odpowiedz",
   "status.replyAll": "Odpowiedz na wątek",
   "status.report": "Zgłoś @{name}",
@@ -577,11 +621,19 @@
   "upload_button.label": "Dodaj zawartość multimedialną (JPEG, PNG, GIF, WebM, MP4, MOV)",
   "upload_error.limit": "Przekroczono limit plików do wysłania.",
   "upload_error.poll": "Dołączanie plików nie dozwolone z głosowaniami.",
+<<<<<<< HEAD
   "upload_form.audio_description": "Describe for people with hearing loss",
   "upload_form.description": "Wprowadź opis dla niewidomych i niedowidzących",
   "upload_form.edit": "Edytuj",
   "upload_form.undo": "Usuń",
   "upload_form.video_description": "Describe for people with hearing loss or visual impairment",
+=======
+  "upload_form.audio_description": "Opisz dla osób niesłyszących i niedosłyszących",
+  "upload_form.description": "Wprowadź opis dla niewidomych i niedowidzących",
+  "upload_form.edit": "Edytuj",
+  "upload_form.undo": "Usuń",
+  "upload_form.video_description": "Opisz dla osób niesłyszących, niedosłyszących, niewidomych i niedowidzących",
+>>>>>>> upstream/master
   "upload_modal.analyzing_picture": "Analizowanie obrazu…",
   "upload_modal.apply": "Zastosuj",
   "upload_modal.description_placeholder": "Pchnąć w tę łódź jeża lub ośm skrzyń fig",
@@ -591,7 +643,11 @@
   "upload_modal.preview_label": "Podgląd ({ratio})",
   "upload_progress.label": "Wysyłanie…",
   "video.close": "Zamknij film",
+<<<<<<< HEAD
   "video.download": "Download file",
+=======
+  "video.download": "Pobierz plik",
+>>>>>>> upstream/master
   "video.exit_fullscreen": "Opuść tryb pełnoekranowy",
   "video.expand": "Rozszerz film",
   "video.fullscreen": "Pełny ekran",
